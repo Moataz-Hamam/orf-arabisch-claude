@@ -1,6 +1,7 @@
 #!/usr/bin/env node
-// Holt österreichische Schlagzeilen per RSS, übersetzt neue Titel natürlich
-// ins Arabische (Claude API) und schreibt das Ergebnis nach public/data/news.json.
+// Holt österreichische Schlagzeilen per RSS, lässt Claude sie kategorisieren
+// und natürlich ins Arabische übersetzen, und schreibt das Ergebnis nach
+// public/data/news.json.
 
 import Parser from "rss-parser";
 import Anthropic from "@anthropic-ai/sdk";
@@ -14,26 +15,22 @@ const MODEL = process.env.ANTHROPIC_MODEL || "claude-haiku-4-5-20251001";
 const MAX_ITEMS = Number(process.env.MAX_ITEMS || 60);
 const BATCH_SIZE = 20;
 
-// Fallback-Kategorie anhand der ORF-Subdomain, falls der Feed-Eintrag
-// selbst keine <category> mitliefert.
-const CATEGORY_BY_HOST = {
-  "sport.orf.at": "Sport",
-  "science.orf.at": "Wissenschaft",
-  "help.orf.at": "Verbraucher",
-  "religion.orf.at": "Religion",
-  "fm4.orf.at": "Kultur",
-  "tirol.orf.at": "Bundesländer",
-  "wien.orf.at": "Bundesländer",
-  "ooe.orf.at": "Bundesländer",
-  "ktn.orf.at": "Bundesländer",
-  "stmk.orf.at": "Bundesländer",
-  "salzburg.orf.at": "Bundesländer",
-  "vorarlberg.orf.at": "Bundesländer",
-  "noe.orf.at": "Bundesländer",
-  "burgenland.orf.at": "Bundesländer",
-};
+// Der ORF-Schlagzeilen-Feed liefert keine brauchbare <category> pro Eintrag
+// und die Links unterscheiden sich meist nicht nach Themen-Subdomain, daher
+// lässt das Modell jede Schlagzeile in eine dieser festen Kategorien
+// einordnen (gemeinsam mit der Übersetzung, in einem API-Call).
+const ALLOWED_CATEGORIES = [
+  "Politik",
+  "Wirtschaft",
+  "Chronik",
+  "Ausland",
+  "Sport",
+  "Kultur",
+  "Wissenschaft",
+  "Gesundheit",
+  "Sonstiges",
+];
 
-// Deutsche Kategoriebezeichnung -> arabische Bezeichnung für die Filter-Chips.
 const CATEGORY_AR = {
   Politik: "سياسة",
   Wirtschaft: "اقتصاد",
@@ -42,23 +39,13 @@ const CATEGORY_AR = {
   Sport: "رياضة",
   Kultur: "ثقافة",
   Wissenschaft: "علوم",
-  Religion: "دين",
-  Netzpolitik: "تكنولوجيا",
-  Coronavirus: "صحة",
   Gesundheit: "صحة",
-  Bundesländer: "الأقاليم",
-  Verbraucher: "مستهلك",
-  Österreich: "النمسا",
+  Sonstiges: "عام",
 };
 
-function categoryFromLink(link) {
-  try {
-    const host = new URL(link).hostname;
-    return CATEGORY_BY_HOST[host] || "Österreich";
-  } catch {
-    return "Österreich";
-  }
-}
+// Erhöhen, wenn sich Prompt/Ausgabeschema ändern, damit bereits
+// zwischengespeicherte Einträge einmalig neu klassifiziert/übersetzt werden.
+const SCHEMA_VERSION = 2;
 
 function idFor(link) {
   return createHash("sha1").update(link).digest("hex").slice(0, 16);
@@ -68,6 +55,7 @@ async function loadExisting(outputPath) {
   try {
     const raw = await readFile(outputPath, "utf8");
     const json = JSON.parse(raw);
+    if (json.schemaVersion !== SCHEMA_VERSION) return new Map();
     const map = new Map();
     for (const item of json.items || []) map.set(item.id, item);
     return map;
@@ -77,7 +65,7 @@ async function loadExisting(outputPath) {
 }
 
 async function fetchFeed() {
-  const parser = new Parser({ customFields: { item: ["category"] } });
+  const parser = new Parser();
   const feed = await parser.parseURL(RSS_URL);
   return feed.items
     .map((item) => {
@@ -86,19 +74,7 @@ async function fetchFeed() {
       const pubDate = item.pubDate
         ? new Date(item.pubDate).toISOString()
         : new Date().toISOString();
-      const rawCategory =
-        (Array.isArray(item.categories) && item.categories[0]) ||
-        item.category ||
-        categoryFromLink(link);
-      const category_de = String(rawCategory).trim() || "Österreich";
-      return {
-        id: idFor(link),
-        title_de,
-        link,
-        pubDate,
-        category_de,
-        category_ar: CATEGORY_AR[category_de] || "عام",
-      };
+      return { id: idFor(link), title_de, link, pubDate };
     })
     .filter((item) => item.title_de && item.link);
 }
@@ -109,14 +85,17 @@ function extractJsonArray(text) {
   return JSON.parse(candidate);
 }
 
-async function translateBatch(client, titles) {
+async function classifyAndTranslateBatch(client, titles) {
   const system = [
     "أنت محرر أخبار عربي محترف متخصص في الشؤون النمساوية والأوروبية.",
-    "مهمتك إعادة صياغة عناوين أخبار ألمانية إلى عناوين عربية صحفية طبيعية،",
-    "كما لو كتبها محرر عربي أصلي وليس مترجم آلي: بأسلوب سلس ومختصر ومناسب لعنوان خبري،",
-    "وليس ترجمة حرفية كلمة بكلمة. حافظ على الأسماء والأماكن والمؤسسات بصيغتها العربية الشائعة.",
-    "أعد الإجابة حصراً كمصفوفة JSON من النصوص المترجمة، بنفس الترتيب وبنفس عدد العناصر المُدخلة،",
-    "بدون أي شرح أو نص إضافي أو ترقيم.",
+    "لكل عنوان خبري ألماني مُدخل، أنجز مهمتين:",
+    "1) صنّفه ضمن إحدى الفئات التالية بالضبط (بالألمانية كما هي):",
+    `   ${ALLOWED_CATEGORIES.join(", ")}`,
+    "2) أعد صياغته كعنوان عربي صحفي طبيعي وسلس، كما لو كتبه محرر عربي أصلي،",
+    "   وليس ترجمة حرفية كلمة بكلمة. حافظ على الأسماء والأماكن والمؤسسات",
+    "   بصيغتها العربية الشائعة.",
+    "أعد الإجابة حصراً كمصفوفة JSON بنفس الترتيب وبنفس عدد العناصر المُدخلة،",
+    'كل عنصر بالشكل: {"category":"...", "title_ar":"..."}، بدون أي شرح إضافي.',
   ].join(" ");
 
   const response = await client.messages.create({
@@ -135,10 +114,15 @@ async function translateBatch(client, titles) {
   if (!Array.isArray(arr) || arr.length !== titles.length) {
     throw new Error("Unerwartetes Antwortformat vom Übersetzungsmodell");
   }
-  return arr;
+  return arr.map((entry) => ({
+    category_de: ALLOWED_CATEGORIES.includes(entry?.category)
+      ? entry.category
+      : "Sonstiges",
+    title_ar: String(entry?.title_ar || "").trim(),
+  }));
 }
 
-async function translateAll(items) {
+async function classifyAndTranslateAll(items) {
   const client = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY });
   const results = new Map();
 
@@ -146,18 +130,18 @@ async function translateAll(items) {
     const chunk = items.slice(i, i + BATCH_SIZE);
     const titles = chunk.map((item) => item.title_de);
     try {
-      const translated = await translateBatch(client, titles);
-      chunk.forEach((item, idx) => results.set(item.id, translated[idx]));
+      const classified = await classifyAndTranslateBatch(client, titles);
+      chunk.forEach((item, idx) => results.set(item.id, classified[idx]));
     } catch (err) {
       console.error(
-        `Batch-Übersetzung fehlgeschlagen (${err.message}), versuche Einzelübersetzung.`,
+        `Batch fehlgeschlagen (${err.message}), versuche Einzelverarbeitung.`,
       );
       for (const item of chunk) {
         try {
-          const [single] = await translateBatch(client, [item.title_de]);
+          const [single] = await classifyAndTranslateBatch(client, [item.title_de]);
           results.set(item.id, single);
         } catch (itemErr) {
-          console.error(`Übersetzung fehlgeschlagen für "${item.title_de}":`, itemErr.message);
+          console.error(`Fehlgeschlagen für "${item.title_de}":`, itemErr.message);
         }
       }
     }
@@ -176,27 +160,33 @@ async function main() {
   console.log(`${fetched.length} Meldungen im Feed gefunden.`);
 
   const existing = await loadExisting(OUTPUT_PATH);
-  const needsTranslation = fetched.filter(
-    (item) => !(existing.get(item.id)?.title_ar),
-  );
-  console.log(`${needsTranslation.length} neue/unübersetzte Meldungen.`);
+  const needsWork = fetched.filter((item) => !existing.get(item.id)?.title_ar);
+  console.log(`${needsWork.length} neue/unverarbeitete Meldungen.`);
 
-  const translations = needsTranslation.length
-    ? await translateAll(needsTranslation)
+  const processed = needsWork.length
+    ? await classifyAndTranslateAll(needsWork)
     : new Map();
 
   const merged = fetched
     .map((item) => {
       const prev = existing.get(item.id);
-      const title_ar = translations.get(item.id) || prev?.title_ar || null;
-      return { ...item, title_ar };
+      const result = processed.get(item.id) ||
+        (prev ? { category_de: prev.category_de, title_ar: prev.title_ar } : null);
+      if (!result?.title_ar) return null;
+      return {
+        ...item,
+        category_de: result.category_de,
+        category_ar: CATEGORY_AR[result.category_de] || "عام",
+        title_ar: result.title_ar,
+      };
     })
-    .filter((item) => item.title_ar);
+    .filter(Boolean);
 
   merged.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
   const trimmed = merged.slice(0, MAX_ITEMS);
 
   const output = {
+    schemaVersion: SCHEMA_VERSION,
     generatedAt: new Date().toISOString(),
     source: RSS_URL,
     count: trimmed.length,
