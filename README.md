@@ -52,10 +52,10 @@ npm run dev           # startet einen lokalen Server für public/ (http://localh
    New repository secret* → Name `ANTHROPIC_API_KEY`, Wert = dein Key.
 2. **GitHub Pages aktivieren**: *Settings → Pages → Build and deployment → Source* auf
    **„GitHub Actions“** stellen.
-3. Diesen Branch nach `main` mergen (per Pull Request). Der Workflow
-   `.github/workflows/update-and-deploy.yml` läuft danach automatisch:
+3. Der Workflow `.github/workflows/update-and-deploy.yml` läuft automatisch auf dem
+   Default-Branch des Repos:
    - alle 3 Stunden (Cron),
-   - bei jedem Push auf `main`, der `public/` oder `scripts/` ändert,
+   - bei jedem Push, der `public/` oder `scripts/` ändert,
    - manuell über den Tab **Actions → Run workflow**.
 4. Nach dem ersten erfolgreichen Lauf ist die Seite unter der von GitHub
    angezeigten Pages-URL erreichbar (**Settings → Pages** zeigt den Link,
