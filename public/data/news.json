@@ -1,6 +1,223 @@
 {
-  "generatedAt": null,
+  "generatedAt": "2026-09-14T21:44:14.901Z",
   "source": "https://rss.orf.at/news.xml",
-  "count": 0,
-  "items": []
+  "count": 24,
+  "items": [
+    {
+      "id": "fa9d129cde7c8234",
+      "title_de": "Ungarns Regierung will umstrittenes LGBTQ-Gesetz ändern",
+      "link": "https://orf.at/stories/3442189/",
+      "pubDate": "2026-09-14T21:44:01.513Z",
+      "category_de": "Österreich",
+      "category_ar": "النمسا",
+      "title_ar": "بودابست تعتزم تعديل قانون الحقوق الجنسية الجدلي"
+    },
+    {
+      "id": "66c26e7ea2ac1f14",
+      "title_de": "Stardesigner Bob Mackie ist tot",
+      "link": "https://orf.at/stories/3442188/",
+      "pubDate": "2026-09-14T21:44:01.513Z",
+      "category_de": "Österreich",
+      "category_ar": "النمسا",
+      "title_ar": "وفاة مصمم الأزياء الشهير بوب ماكي"
+    },
+    {
+      "id": "41cac17b88eeb275",
+      "title_de": "Startschuss zu Afrikas größtem Börsengang",
+      "link": "https://orf.at/stories/3442109/",
+      "pubDate": "2026-09-14T21:44:01.513Z",
+      "category_de": "Österreich",
+      "category_ar": "النمسا",
+      "title_ar": "انطلاق أكبر اكتتاب علني في أفريقيا"
+    },
+    {
+      "id": "634d80cca404d594",
+      "title_de": "Bericht: Öltanker in Straße von Hormus explodiert",
+      "link": "https://orf.at/stories/3442186/",
+      "pubDate": "2026-09-14T21:44:01.513Z",
+      "category_de": "Österreich",
+      "category_ar": "النمسا",
+      "title_ar": "تقارير عن انفجار ناقلة نفط في مضيق هرمز"
+    },
+    {
+      "id": "7e1cecb38f717c1a",
+      "title_de": "KI-Experte Nentwich zu Gast im Studio",
+      "link": "https://orf.at/stories/3442185/",
+      "pubDate": "2026-09-14T21:44:01.513Z",
+      "category_de": "Österreich",
+      "category_ar": "النمسا",
+      "title_ar": "خبير الذكاء الاصطناعي نينتفيش ضيفاً في الاستوديو"
+    },
+    {
+      "id": "10d946814080a7b1",
+      "title_de": "Korruptionsvorwürfe: Selenskyj entlässt Generalstaatsanwalt",
+      "link": "https://orf.at/stories/3442184/",
+      "pubDate": "2026-09-14T21:44:01.513Z",
+      "category_de": "Österreich",
+      "category_ar": "النمسا",
+      "title_ar": "كييف تقيل الادعاء العام بتهم فساد"
+    },
+    {
+      "id": "c82cb0019b1938a3",
+      "title_de": "England: Mann gesteht jahrzehntelangen Missbrauch seiner Frau",
+      "link": "https://orf.at/stories/3442182/",
+      "pubDate": "2026-09-14T21:44:01.513Z",
+      "category_de": "Österreich",
+      "category_ar": "النمسا",
+      "title_ar": "رجل بريطاني يعترف بإساءة معاملة زوجته لعقود"
+    },
+    {
+      "id": "4e31558b5ad3c59b",
+      "title_de": "EU rüstet sich gegen Aggression in Arktis",
+      "link": "https://orf.at/stories/3442139/",
+      "pubDate": "2026-09-14T21:44:01.513Z",
+      "category_de": "Österreich",
+      "category_ar": "النمسا",
+      "title_ar": "الاتحاد الأوروبي يستعد لمواجهة التهديدات في القطب الشمالي"
+    },
+    {
+      "id": "527fa6e653db07bc",
+      "title_de": "Soldaten und russische Söldner in Mali getötet",
+      "link": "https://orf.at/stories/3442177/",
+      "pubDate": "2026-09-14T21:44:01.513Z",
+      "category_de": "Österreich",
+      "category_ar": "النمسا",
+      "title_ar": "مقتل جنود وعناصر روس من شركات عسكرية في مالي"
+    },
+    {
+      "id": "1437f71c88fbc020",
+      "title_de": "Heimische Gasspeicher weniger gut gefüllt als in Vorjahren",
+      "link": "https://orf.at/stories/3442174/",
+      "pubDate": "2026-09-14T21:44:01.513Z",
+      "category_de": "Österreich",
+      "category_ar": "النمسا",
+      "title_ar": "خزانات الغاز النمساوية أقل امتلاءً من السنة الماضية"
+    },
+    {
+      "id": "b54917ee9c6791a9",
+      "title_de": "Berichte: US-Regierung will Klimaschutz weiter zurückfahren",
+      "link": "https://orf.at/stories/3442170/",
+      "pubDate": "2026-09-14T21:44:01.513Z",
+      "category_de": "Österreich",
+      "category_ar": "النمسا",
+      "title_ar": "واشنطن تعتزم المزيد من التراجع عن سياسات المناخ"
+    },
+    {
+      "id": "7a9aa9a4cc9a402f",
+      "title_de": "Lagarde und Van der Bellen wollen Kapitalmarktunion für KI",
+      "link": "https://orf.at/stories/3442169/",
+      "pubDate": "2026-09-14T21:44:01.513Z",
+      "category_de": "Österreich",
+      "category_ar": "النمسا",
+      "title_ar": "لاجارد وفان دير بيلين يدعوان لاتحاد أسواق رأس المال للذكاء الاصطناعي"
+    },
+    {
+      "id": "bcffb3569588fb3d",
+      "title_de": "Trump: Kiew und Moskau wollen keine Energieanlagen mehr angreifen",
+      "link": "https://orf.at/stories/3442168/",
+      "pubDate": "2026-09-14T21:44:01.513Z",
+      "category_de": "Österreich",
+      "category_ar": "النمسا",
+      "title_ar": "ترامب: كييف وموسكو تتفقان على عدم مهاجمة البنية التحتية للطاقة"
+    },
+    {
+      "id": "290d64e43620bc74",
+      "title_de": "Britpopband Oasis kündigt nächste Konzerttournee an",
+      "link": "https://orf.at/stories/3442167/",
+      "pubDate": "2026-09-14T21:44:01.513Z",
+      "category_de": "Österreich",
+      "category_ar": "النمسا",
+      "title_ar": "فرقة أويسيس البريطانية تعلن عن جولة حفلات جديدة"
+    },
+    {
+      "id": "57b5e286bfd9a9dc",
+      "title_de": "Stocker bekräftigt bei Besuch in Bayern harte Linie bei Migration",
+      "link": "https://orf.at/stories/3442164/",
+      "pubDate": "2026-09-14T21:44:01.513Z",
+      "category_de": "Österreich",
+      "category_ar": "النمسا",
+      "title_ar": "شتوكر يؤكد موقفاً صارماً بشأن الهجرة خلال زيارته بافاريا"
+    },
+    {
+      "id": "41f78f3a52c5475f",
+      "title_de": "Tiefe Kluft bei Klimaschutzdebatte",
+      "link": "https://orf.at/stories/3442134/",
+      "pubDate": "2026-09-14T21:44:01.513Z",
+      "category_de": "Österreich",
+      "category_ar": "النمسا",
+      "title_ar": "هوة عميقة في نقاشات سياسة المناخ"
+    },
+    {
+      "id": "bfeb236ac097c546",
+      "title_de": "Doppelspitze leitet künftig Münchner Sicherheitskonferenz",
+      "link": "https://orf.at/stories/3442159/",
+      "pubDate": "2026-09-14T21:44:01.513Z",
+      "category_de": "Österreich",
+      "category_ar": "النمسا",
+      "title_ar": "ثنائية قيادية جديدة لمؤتمر ميونخ للأمن"
+    },
+    {
+      "id": "acf24838881925a9",
+      "title_de": "Britische Landesteile fordern mehr Selbstbestimmungsrechte",
+      "link": "https://orf.at/stories/3442150/",
+      "pubDate": "2026-09-14T21:44:01.513Z",
+      "category_de": "Österreich",
+      "category_ar": "النمسا",
+      "title_ar": "أقاليم بريطانية تطالب بمزيد من حقوق الحكم الذاتي"
+    },
+    {
+      "id": "01d56f15a45075e9",
+      "title_de": "Ätna: Flughafen Catania wegen Aschewolke gesperrt",
+      "link": "https://orf.at/stories/3442147/",
+      "pubDate": "2026-09-14T21:44:01.513Z",
+      "category_de": "Österreich",
+      "category_ar": "النمسا",
+      "title_ar": "إغلاق مطار كاتانيا بسبب سحابة الرماد من بركان إيتنا"
+    },
+    {
+      "id": "f7212d1d59fbc9dd",
+      "title_de": "Großproteste in Syrien wegen hoher Treibstoffpreise",
+      "link": "https://orf.at/stories/3442143/",
+      "pubDate": "2026-09-14T21:44:01.513Z",
+      "category_de": "Österreich",
+      "category_ar": "النمسا",
+      "title_ar": "احتجاجات حاشدة في سوريا ضد ارتفاع أسعار الوقود"
+    },
+    {
+      "id": "904ddde29a46d36b",
+      "title_de": "ÖAMTC warnt vor „faktischem Verbot“",
+      "link": "https://orf.at/stories/3442119/",
+      "pubDate": "2026-09-14T21:44:01.513Z",
+      "category_de": "Österreich",
+      "category_ar": "النمسا",
+      "title_ar": "جمعية النقل النمساوية تحذر من \"حظر فعلي\""
+    },
+    {
+      "id": "0b69ad37cc64dcf4",
+      "title_de": "Brand auf Öltanker: US-Militär widerspricht Iran",
+      "link": "https://orf.at/stories/3442192/",
+      "pubDate": "2026-09-14T21:44:01.512Z",
+      "category_de": "Österreich",
+      "category_ar": "النمسا",
+      "title_ar": "الجيش الأمريكي ينفي اتهامات إيرانية بشأن حريق ناقلة نفط"
+    },
+    {
+      "id": "340d662d3998bdde",
+      "title_de": "Frist für Verlängerung von Russland-Sanktionen verschoben",
+      "link": "https://orf.at/stories/3442191/",
+      "pubDate": "2026-09-14T21:44:01.512Z",
+      "category_de": "Österreich",
+      "category_ar": "النمسا",
+      "title_ar": "تأجيل الموعد النهائي لتمديد العقوبات الروسية"
+    },
+    {
+      "id": "aa57abe1dc51d740",
+      "title_de": "Druck auf Teheran: USA sanktionieren russische Bank",
+      "link": "https://orf.at/stories/3442190/",
+      "pubDate": "2026-09-14T21:44:01.512Z",
+      "category_de": "Österreich",
+      "category_ar": "النمسا",
+      "title_ar": "واشنطن تفرض عقوبات على بنك روسي لضغط إيران"
+    }
+  ]
 }
