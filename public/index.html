@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>أخبار النمسا | ترجمة عربية</title>
+  <meta name="description" content="أحدث الأخبار النمساوية من ORF مترجمة بأسلوب صحفي طبيعي إلى العربية." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;600;700;900&family=IBM+Plex+Sans:wght@400;500&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="header-inner">
+      <div class="brand">
+        <span class="brand-mark">🇦🇹</span>
+        <div class="brand-text">
+          <h1>أخبار النمسا</h1>
+          <p>ترجمة صحفية عربية لأحدث عناوين <span class="src-name">ORF</span></p>
+        </div>
+      </div>
+      <div class="meta">
+        <span id="updated-at" class="updated-at">جارٍ التحميل…</span>
+      </div>
+    </div>
+    <nav id="category-filters" class="category-filters" aria-label="تصفية حسب التصنيف">
+      <button class="chip active" data-category="all" type="button">الكل</button>
+    </nav>
+  </header>
+
+  <main class="content">
+    <div id="status" class="status" hidden></div>
+    <ul id="news-grid" class="news-grid" aria-live="polite"></ul>
+  </main>
+
+  <footer class="site-footer">
+    <p>
+      مصدر الأخبار: <a href="https://rss.orf.at/news.xml" target="_blank" rel="noopener">rss.orf.at</a> ·
+      الترجمة تتم آلياً عبر نموذج ذكاء اصطناعي وقد تحتوي على أخطاء أحياناً.
+    </p>
+    <p class="footer-sub">يتم التحديث تلقائياً كل بضع ساعات.</p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

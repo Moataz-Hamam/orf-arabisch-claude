@@ -1,0 +1,21 @@
+{
+  "name": "orf-arabisch",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Automatisierter Abruf, KI-gestützte arabische Übersetzung und Anzeige österreichischer Nachrichten (ORF).",
+  "scripts": {
+    "translate": "node scripts/translate.mjs",
+    "dev": "npx serve public"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.32.1",
+    "rss-parser": "^3.13.0"
+  },
+  "devDependencies": {
+    "dotenv": "^16.4.5"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
