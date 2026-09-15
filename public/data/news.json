@@ -1,14 +1,194 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-09-15T04:27:18.740Z",
+  "generatedAt": "2026-09-15T11:30:27.171Z",
   "source": "https://rss.orf.at/news.xml",
-  "count": 26,
+  "count": 27,
   "items": [
+    {
+      "id": "2514eccbf520c5bc",
+      "title_de": "Totschnig erwartet starken Rückgang bei Einkommen der Bauern",
+      "link": "https://orf.at/stories/3442242/",
+      "pubDate": "2026-09-15T11:30:17.005Z",
+      "category_de": "Wirtschaft",
+      "category_ar": "اقتصاد",
+      "title_ar": "توتشنيغ يتوقع انخفاضاً حاداً في دخول المزارعين"
+    },
+    {
+      "id": "a4b3b04a8b735213",
+      "title_de": "USA kippen zentrale Klimaschutzregeln",
+      "link": "https://orf.at/stories/3442227/",
+      "pubDate": "2026-09-15T11:30:17.005Z",
+      "category_de": "Ausland",
+      "category_ar": "العالم",
+      "title_ar": "الولايات المتحدة تلغي قواعم حماية مناخية أساسية"
+    },
+    {
+      "id": "579e8bc916965eb6",
+      "title_de": "WTO warnt vor Milliardenverlusten durch Handelsblockbildung",
+      "link": "https://orf.at/stories/3442235/",
+      "pubDate": "2026-09-15T11:30:17.005Z",
+      "category_de": "Wirtschaft",
+      "category_ar": "اقتصاد",
+      "title_ar": "منظمة التجارة العالمية تحذر من خسائر مليارية جراء تشكيل كتل تجارية"
+    },
+    {
+      "id": "a56559fc1ff9325b",
+      "title_de": "Weltgrößte private Sammlung zeigt 88 Werke von Van Gogh",
+      "link": "https://orf.at/stories/3442232/",
+      "pubDate": "2026-09-15T11:30:17.005Z",
+      "category_de": "Kultur",
+      "category_ar": "ثقافة",
+      "title_ar": "أكبر مجموعة خاصة عالمية تعرض 88 لوحة لفان غوغ"
+    },
+    {
+      "id": "d8530dde674891fe",
+      "title_de": "Japan zählt erstmals mehr als 100.000 Hundertjährige",
+      "link": "https://orf.at/stories/3442225/",
+      "pubDate": "2026-09-15T11:30:17.005Z",
+      "category_de": "Chronik",
+      "category_ar": "حوادث",
+      "title_ar": "اليابان تسجل لأول مرة أكثر من 100 ألف معمر"
+    },
+    {
+      "id": "29cbb3266be8b6c5",
+      "title_de": "Iran erstellt Webportal zur Meldung von Kritikern im Ausland",
+      "link": "https://orf.at/stories/3442224/",
+      "pubDate": "2026-09-15T11:30:17.005Z",
+      "category_de": "Ausland",
+      "category_ar": "العالم",
+      "title_ar": "إيران تنشئ بوابة إلكترونية للإبلاغ عن الناقدين بالخارج"
+    },
+    {
+      "id": "3988d89ec23698ef",
+      "title_de": "Österreich bei EU-Lohntransparenzrichtlinie säumig",
+      "link": "https://orf.at/stories/3442223/",
+      "pubDate": "2026-09-15T11:30:17.005Z",
+      "category_de": "Politik",
+      "category_ar": "سياسة",
+      "title_ar": "النمسا متأخرة في تطبيق توجيهة الاتحاد الأوروبي بشأن شفافية الأجور"
+    },
+    {
+      "id": "957ae7d7162caaaa",
+      "title_de": "China verschärft Kontrolle über Auslandsreisen",
+      "link": "https://orf.at/stories/3442221/",
+      "pubDate": "2026-09-15T11:30:17.005Z",
+      "category_de": "Ausland",
+      "category_ar": "العالم",
+      "title_ar": "الصين تشدد السيطرة على السفر إلى الخارج"
+    },
+    {
+      "id": "968604d22985b8ed",
+      "title_de": "Sabotageverdacht nach Zugsausfällen in Niederlanden",
+      "link": "https://orf.at/stories/3442220/",
+      "pubDate": "2026-09-15T11:30:17.005Z",
+      "category_de": "Chronik",
+      "category_ar": "حوادث",
+      "title_ar": "اشتباه بتخريب وراء توقف القطارات في هولندا"
+    },
+    {
+      "id": "ba4eb4f35ac8d629",
+      "title_de": "Hass im Netz nimmt laut Statistik zu",
+      "link": "https://orf.at/stories/3442219/",
+      "pubDate": "2026-09-15T11:30:17.005Z",
+      "category_de": "Chronik",
+      "category_ar": "حوادث",
+      "title_ar": "الكراهية على الإنترنت تزداد بحسب الإحصائيات"
+    },
+    {
+      "id": "048965d8634abfb8",
+      "title_de": "Mitch McConnell zurück im US-Senat",
+      "link": "https://orf.at/stories/3442216/",
+      "pubDate": "2026-09-15T11:30:17.005Z",
+      "category_de": "Ausland",
+      "category_ar": "العالم",
+      "title_ar": "مitch ماكونيل يعود إلى مجلس الشيوخ الأمريكي"
+    },
+    {
+      "id": "1934dd797475f42f",
+      "title_de": "US-Militär räumt Munitionsknappheit wegen Iran-Krieges ein",
+      "link": "https://orf.at/stories/3442211/",
+      "pubDate": "2026-09-15T11:30:17.005Z",
+      "category_de": "Ausland",
+      "category_ar": "العالم",
+      "title_ar": "الجيش الأمريكي يعترف بنقص في الذخيرة بسبب الصراع مع إيران"
+    },
+    {
+      "id": "423193a6cb5868c8",
+      "title_de": "Adoptivsohn Brad Pitts legt Namen des Vaters ab",
+      "link": "https://orf.at/stories/3442209/",
+      "pubDate": "2026-09-15T11:30:17.005Z",
+      "category_de": "Kultur",
+      "category_ar": "ثقافة",
+      "title_ar": "ابن برادبيت بالتبني يتخلى عن اسم والده"
+    },
+    {
+      "id": "e0ce5f1b5fa4b3f3",
+      "title_de": "Ätna legt erneut sizilianischen Flughafen lahm",
+      "link": "https://orf.at/stories/3442208/",
+      "pubDate": "2026-09-15T11:30:17.005Z",
+      "category_de": "Chronik",
+      "category_ar": "حوادث",
+      "title_ar": "بركان إتنا يشل مطار صقلية مجدداً"
+    },
+    {
+      "id": "c769ceb5a5c600a7",
+      "title_de": "„Widow’s Bay“ räumt bei Emmys ab",
+      "link": "https://orf.at/stories/3442204/",
+      "pubDate": "2026-09-15T11:30:17.005Z",
+      "category_de": "Kultur",
+      "category_ar": "ثقافة",
+      "title_ar": "\"Widow's Bay\" تحصد الجوائز في حفل جوائز إيمي"
+    },
+    {
+      "id": "4240198b94a69441",
+      "title_de": "Trumps Sohn bestätigt Hochzeitsgeschenk aus Russland",
+      "link": "https://orf.at/stories/3442205/",
+      "pubDate": "2026-09-15T11:30:17.005Z",
+      "category_de": "Ausland",
+      "category_ar": "العالم",
+      "title_ar": "ابن ترامب يؤكد تلقيه هدية زفاف من روسيا"
+    },
+    {
+      "id": "b50bf3d2efc9939d",
+      "title_de": "USA bestätigen Stationierung von Waffen im All",
+      "link": "https://orf.at/stories/3442201/",
+      "pubDate": "2026-09-15T11:30:17.005Z",
+      "category_de": "Ausland",
+      "category_ar": "العالم",
+      "title_ar": "الولايات المتحدة تؤكد نشر أسلحة في الفضاء"
+    },
+    {
+      "id": "633c10b59ee4f254",
+      "title_de": "Verletzte nach Huthi-Angriff auf Saudi-Arabien",
+      "link": "https://orf.at/stories/3442199/",
+      "pubDate": "2026-09-15T11:30:17.005Z",
+      "category_de": "Ausland",
+      "category_ar": "العالم",
+      "title_ar": "إصابات في هجوم للحوثيين على السعودية"
+    },
+    {
+      "id": "9b2bbda419aae116",
+      "title_de": "Kampfflugzeuge schießen Drohne über Litauen ab",
+      "link": "https://orf.at/stories/3442198/",
+      "pubDate": "2026-09-15T11:30:17.005Z",
+      "category_de": "Ausland",
+      "category_ar": "العالم",
+      "title_ar": "مقاتلات تسقط طائرة مسيرة فوق ليتوانيا"
+    },
+    {
+      "id": "75f5b25a8ead73cd",
+      "title_de": "„Free Palestine“: Macklemore von Sheeran-Tour ausgeschlossen",
+      "link": "https://orf.at/stories/3442197/",
+      "pubDate": "2026-09-15T11:30:17.005Z",
+      "category_de": "Kultur",
+      "category_ar": "ثقافة",
+      "title_ar": "ماكليمور يُستبعد من حفلات إد شيران بسبب شعاره المناهض للاحتلال"
+    },
     {
       "id": "928d8febc65edbe3",
       "title_de": "„Widow’s Bay“ und „The Pitt“ räumen bei Emmys ab",
       "link": "https://orf.at/stories/3442196/",
-      "pubDate": "2026-09-15T04:27:15.656Z",
+      "pubDate": "2026-09-15T11:30:17.005Z",
       "category_de": "Kultur",
       "category_ar": "ثقافة",
       "title_ar": "مسلسلا \"Widow's Bay\" و\"The Pitt\" يحصدان جوائز إيمي"
@@ -17,16 +197,16 @@
       "id": "077a2e16f6c1b57b",
       "title_de": "In Russland geht die Angst um",
       "link": "https://orf.at/stories/3442118/",
-      "pubDate": "2026-09-15T04:27:15.656Z",
+      "pubDate": "2026-09-15T11:30:17.005Z",
       "category_de": "Ausland",
       "category_ar": "العالم",
       "title_ar": "الخوف يسيطر على روسيا"
     },
     {
       "id": "fe973cc07af0e270",
-      "title_de": "Streit um Briefwahl: Niederlage für Trump vor Supreme Court",
+      "title_de": "Briefwahl: Niederlage für Trump vor Supreme Court",
       "link": "https://orf.at/stories/3442194/",
-      "pubDate": "2026-09-15T04:27:15.656Z",
+      "pubDate": "2026-09-15T11:30:17.005Z",
       "category_de": "Politik",
       "category_ar": "سياسة",
       "title_ar": "تراجع قضائي لترامب في قضية البريد الانتخابي أمام المحكمة العليا الأمريكية"
@@ -35,7 +215,7 @@
       "id": "76801d70c110080d",
       "title_de": "Warnung, Werbung und Wettrüsten",
       "link": "https://orf.at/stories/3442141/",
-      "pubDate": "2026-09-15T04:27:15.656Z",
+      "pubDate": "2026-09-15T11:30:17.005Z",
       "category_de": "Ausland",
       "category_ar": "العالم",
       "title_ar": "تحذيرات وحرب إعلانات وسباق تسليح"
@@ -44,7 +224,7 @@
       "id": "0b69ad37cc64dcf4",
       "title_de": "Brand auf Öltanker: US-Militär widerspricht Iran",
       "link": "https://orf.at/stories/3442192/",
-      "pubDate": "2026-09-15T04:27:15.656Z",
+      "pubDate": "2026-09-15T11:30:17.005Z",
       "category_de": "Ausland",
       "category_ar": "العالم",
       "title_ar": "الجيش الأمريكي ينفي مسؤولية إيران عن حريق في ناقلة نفط"
@@ -53,190 +233,19 @@
       "id": "340d662d3998bdde",
       "title_de": "Frist für Verlängerung von Russland-Sanktionen verschoben",
       "link": "https://orf.at/stories/3442191/",
-      "pubDate": "2026-09-15T04:27:15.656Z",
+      "pubDate": "2026-09-15T11:30:17.005Z",
       "category_de": "Ausland",
       "category_ar": "العالم",
       "title_ar": "تأجيل الموعد النهائي لتمديد العقوبات على روسيا"
     },
     {
-      "id": "aa57abe1dc51d740",
-      "title_de": "Druck auf Teheran: USA sanktionieren russische Bank",
-      "link": "https://orf.at/stories/3442190/",
-      "pubDate": "2026-09-15T04:27:15.656Z",
-      "category_de": "Ausland",
-      "category_ar": "العالم",
-      "title_ar": "واشنطن تفرض عقوبات على بنك روسي بضغط على طهران"
-    },
-    {
-      "id": "fa9d129cde7c8234",
-      "title_de": "Ungarns Regierung will umstrittenes LGBTQ-Gesetz ändern",
-      "link": "https://orf.at/stories/3442189/",
-      "pubDate": "2026-09-15T04:27:15.656Z",
+      "id": "78d0eebff2add14e",
+      "title_de": "Stocker erneuert Kritik an EU-Mehrjahresbudget",
+      "link": "https://orf.at/stories/3442245/",
+      "pubDate": "2026-09-15T11:30:17.004Z",
       "category_de": "Politik",
       "category_ar": "سياسة",
-      "title_ar": "المجر تسعى لتعديل قانون LGBTQ المثير للجدل"
-    },
-    {
-      "id": "66c26e7ea2ac1f14",
-      "title_de": "Stardesigner Bob Mackie ist tot",
-      "link": "https://orf.at/stories/3442188/",
-      "pubDate": "2026-09-15T04:27:15.656Z",
-      "category_de": "Kultur",
-      "category_ar": "ثقافة",
-      "title_ar": "وفاة مصمم الأزياء الشهير بوب ماكي"
-    },
-    {
-      "id": "41cac17b88eeb275",
-      "title_de": "Startschuss zu Afrikas größtem Börsengang",
-      "link": "https://orf.at/stories/3442109/",
-      "pubDate": "2026-09-15T04:27:15.656Z",
-      "category_de": "Wirtschaft",
-      "category_ar": "اقتصاد",
-      "title_ar": "انطلاق أكبر عملية طرح علني للأسهم في أفريقيا"
-    },
-    {
-      "id": "634d80cca404d594",
-      "title_de": "Bericht: Öltanker in Straße von Hormus explodiert",
-      "link": "https://orf.at/stories/3442186/",
-      "pubDate": "2026-09-15T04:27:15.656Z",
-      "category_de": "Ausland",
-      "category_ar": "العالم",
-      "title_ar": "تقارير: انفجار ناقلة نفط في مضيق هرمز"
-    },
-    {
-      "id": "7e1cecb38f717c1a",
-      "title_de": "KI-Experte Nentwich zu Gast im Studio",
-      "link": "https://orf.at/stories/3442185/",
-      "pubDate": "2026-09-15T04:27:15.656Z",
-      "category_de": "Wissenschaft",
-      "category_ar": "علوم",
-      "title_ar": "خبير الذكاء الاصطناعي نينتويتش ضيف الاستوديو"
-    },
-    {
-      "id": "10d946814080a7b1",
-      "title_de": "Korruptionsvorwürfe: Selenskyj entlässt Generalstaatsanwalt",
-      "link": "https://orf.at/stories/3442184/",
-      "pubDate": "2026-09-15T04:27:15.656Z",
-      "category_de": "Ausland",
-      "category_ar": "العالم",
-      "title_ar": "اتهامات بالفساد: زيلينسكي يعزل المدعي العام"
-    },
-    {
-      "id": "c82cb0019b1938a3",
-      "title_de": "England: Mann gesteht jahrzehntelangen Missbrauch seiner Frau",
-      "link": "https://orf.at/stories/3442182/",
-      "pubDate": "2026-09-15T04:27:15.656Z",
-      "category_de": "Chronik",
-      "category_ar": "حوادث",
-      "title_ar": "رجل بريطاني يعترف بإساءة استمرت عقودا لزوجته"
-    },
-    {
-      "id": "4e31558b5ad3c59b",
-      "title_de": "EU rüstet sich gegen Aggression in Arktis",
-      "link": "https://orf.at/stories/3442139/",
-      "pubDate": "2026-09-15T04:27:15.656Z",
-      "category_de": "Ausland",
-      "category_ar": "العالم",
-      "title_ar": "الاتحاد الأوروبي يستعد لمواجهة العدوانية في القطب الشمالي"
-    },
-    {
-      "id": "527fa6e653db07bc",
-      "title_de": "Soldaten und russische Söldner in Mali getötet",
-      "link": "https://orf.at/stories/3442177/",
-      "pubDate": "2026-09-15T04:27:15.656Z",
-      "category_de": "Ausland",
-      "category_ar": "العالم",
-      "title_ar": "مقتل جنود وعناصر روس من شركات عسكرية خاصة في مالي"
-    },
-    {
-      "id": "1437f71c88fbc020",
-      "title_de": "Heimische Gasspeicher weniger gut gefüllt als in Vorjahren",
-      "link": "https://orf.at/stories/3442174/",
-      "pubDate": "2026-09-15T04:27:15.656Z",
-      "category_de": "Wirtschaft",
-      "category_ar": "اقتصاد",
-      "title_ar": "مستودعات الغاز المحلية أقل امتلاءً من السنة الماضية"
-    },
-    {
-      "id": "b54917ee9c6791a9",
-      "title_de": "Trump-Regierung streicht Klimaregeln für Kohle- und Gaskraftwerke",
-      "link": "https://orf.at/stories/3442170/",
-      "pubDate": "2026-09-15T04:27:15.656Z",
-      "category_de": "Ausland",
-      "category_ar": "العالم",
-      "title_ar": "تقارير: إدارة ترامب تنوي المزيد من الانسحاب من حماية المناخ"
-    },
-    {
-      "id": "7a9aa9a4cc9a402f",
-      "title_de": "Lagarde und Van der Bellen wollen Kapitalmarktunion für KI",
-      "link": "https://orf.at/stories/3442169/",
-      "pubDate": "2026-09-15T04:27:15.656Z",
-      "category_de": "Wirtschaft",
-      "category_ar": "اقتصاد",
-      "title_ar": "لاغاردي وفان درليين يدعوان لاتحاد أسواق رأس المال للذكاء الاصطناعي"
-    },
-    {
-      "id": "bcffb3569588fb3d",
-      "title_de": "Trump: Kiew und Moskau wollen keine Energieanlagen mehr angreifen",
-      "link": "https://orf.at/stories/3442168/",
-      "pubDate": "2026-09-15T04:27:15.656Z",
-      "category_de": "Ausland",
-      "category_ar": "العالم",
-      "title_ar": "ترامب: كييف وموسكو توافقان على عدم استهداف منشآت الطاقة"
-    },
-    {
-      "id": "290d64e43620bc74",
-      "title_de": "Britpopband Oasis kündigt nächste Konzerttournee an",
-      "link": "https://orf.at/stories/3442167/",
-      "pubDate": "2026-09-15T04:27:15.656Z",
-      "category_de": "Kultur",
-      "category_ar": "ثقافة",
-      "title_ar": "فرقة أواسيس البريطانية تعلن عن جولة حفلات قادمة"
-    },
-    {
-      "id": "57b5e286bfd9a9dc",
-      "title_de": "Stocker bekräftigt bei Besuch in Bayern harte Linie bei Migration",
-      "link": "https://orf.at/stories/3442164/",
-      "pubDate": "2026-09-15T04:27:15.656Z",
-      "category_de": "Politik",
-      "category_ar": "سياسة",
-      "title_ar": "شتوكر يؤكد موقفه الصارم حول الهجرة خلال زيارته لبافاريا"
-    },
-    {
-      "id": "41f78f3a52c5475f",
-      "title_de": "Tiefe Kluft bei Klimaschutzdebatte",
-      "link": "https://orf.at/stories/3442134/",
-      "pubDate": "2026-09-15T04:27:15.656Z",
-      "category_de": "Politik",
-      "category_ar": "سياسة",
-      "title_ar": "انقسام عميق بشأن نقاش حماية المناخ"
-    },
-    {
-      "id": "bfeb236ac097c546",
-      "title_de": "Doppelspitze leitet künftig Münchner Sicherheitskonferenz",
-      "link": "https://orf.at/stories/3442159/",
-      "pubDate": "2026-09-15T04:27:15.656Z",
-      "category_de": "Politik",
-      "category_ar": "سياسة",
-      "title_ar": "قيادة مشتركة تتولى إدارة مؤتمر ميونيخ للأمن"
-    },
-    {
-      "id": "acf24838881925a9",
-      "title_de": "Britische Landesteile fordern mehr Selbstbestimmungsrechte",
-      "link": "https://orf.at/stories/3442150/",
-      "pubDate": "2026-09-15T04:27:15.656Z",
-      "category_de": "Ausland",
-      "category_ar": "العالم",
-      "title_ar": "الأقاليم البريطانية تطالب بحقوق تقرير مصير أوسع"
-    },
-    {
-      "id": "75f5b25a8ead73cd",
-      "title_de": "„Free Palestine“: Macklemore von Ed-Sheeran-Tour ausgeschlossen",
-      "link": "https://orf.at/stories/3442197/",
-      "pubDate": "2026-09-15T04:27:15.655Z",
-      "category_de": "Kultur",
-      "category_ar": "ثقافة",
-      "title_ar": "ماكليمور يُستبعد من حفلات إد شيران بسبب شعاره المناهض للاحتلال"
+      "title_ar": "شتوكر يجدد انتقاده لميزانية الاتحاد الأوروبي متعددة السنوات"
     }
   ]
 }
