@@ -1,113 +1,41 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-09-15T21:07:30.762Z",
+  "generatedAt": "2026-09-16T04:22:53.650Z",
   "source": "https://rss.orf.at/news.xml",
-  "count": 22,
+  "count": 26,
   "items": [
     {
-      "id": "4941ff76345a4db3",
-      "title_de": "Schauspieler Ralf Richter ist tot",
-      "link": "https://orf.at/stories/3442275/",
-      "pubDate": "2026-09-15T21:07:24.842Z",
-      "category_de": "Kultur",
-      "category_ar": "ثقافة",
-      "title_ar": "رحيل الممثل رالف ريختر"
-    },
-    {
-      "id": "4d9220adc33bdc69",
-      "title_de": "LGBTQ-Proteste: Dutzende Festnahmen in Istanbul",
-      "link": "https://orf.at/stories/3442273/",
-      "pubDate": "2026-09-15T21:07:24.842Z",
+      "id": "949ed9e4390f25d3",
+      "title_de": "Berichte über umfangreiche US-Waffenlieferung an Israel",
+      "link": "https://orf.at/stories/3442296/",
+      "pubDate": "2026-09-16T04:22:49.998Z",
       "category_de": "Ausland",
       "category_ar": "العالم",
-      "title_ar": "اعتقالات جماعية خلال احتجاجات LGBTQ في إسطنبول"
+      "title_ar": "تقارير عن إمدادات أمريكية ضخمة من الأسلحة إلى إسرائيل"
     },
     {
-      "id": "6a6cd23f3e33d28a",
-      "title_de": "Kommission will Arbeiten im Ausland erleichtern",
-      "link": "https://orf.at/stories/3442271/",
-      "pubDate": "2026-09-15T21:07:24.842Z",
+      "id": "67a99f4f638aac70",
+      "title_de": "Erneut israelische Luftangriffe im Gazastreifen mit Toten",
+      "link": "https://orf.at/stories/3442294/",
+      "pubDate": "2026-09-16T04:22:49.998Z",
+      "category_de": "Ausland",
+      "category_ar": "العالم",
+      "title_ar": "غارات جوية إسرائيلية جديدة على غزة تسفر عن قتلى"
+    },
+    {
+      "id": "fab75636af91e0af",
+      "title_de": "Jemen-Krise belastet weiter Ölpreis",
+      "link": "https://orf.at/stories/3442286/",
+      "pubDate": "2026-09-16T04:22:49.998Z",
       "category_de": "Wirtschaft",
       "category_ar": "اقتصاد",
-      "title_ar": "المفوضية تسعى لتسهيل العمل في الخارج"
-    },
-    {
-      "id": "0570d29b2832dcb9",
-      "title_de": "Meloni treibt Reform von Italiens Wahlrecht voran",
-      "link": "https://orf.at/stories/3442270/",
-      "pubDate": "2026-09-15T21:07:24.842Z",
-      "category_de": "Politik",
-      "category_ar": "سياسة",
-      "title_ar": "ميلوني تسرّع إصلاح القانون الانتخابي الإيطالي"
-    },
-    {
-      "id": "fe786317a55cf8b6",
-      "title_de": "Ukrainisches Militär: Rückeroberungen im Donbas",
-      "link": "https://orf.at/stories/3442263/",
-      "pubDate": "2026-09-15T21:07:24.842Z",
-      "category_de": "Ausland",
-      "category_ar": "العالم",
-      "title_ar": "الجيش الأوكراني يستعيد مناطق في دونباس"
-    },
-    {
-      "id": "4399827e911acd0d",
-      "title_de": "Über 100.000 Vertriebene durch Kämpfe im Jemen",
-      "link": "https://orf.at/stories/3442257/",
-      "pubDate": "2026-09-15T21:07:24.842Z",
-      "category_de": "Ausland",
-      "category_ar": "العالم",
-      "title_ar": "أكثر من 100 ألف نازح جراء القتال في اليمن"
-    },
-    {
-      "id": "07e65d28a3a6272c",
-      "title_de": "Russische Fregatte feuert auf dänischen Hubschrauber",
-      "link": "https://orf.at/stories/3442255/",
-      "pubDate": "2026-09-15T21:07:24.842Z",
-      "category_de": "Ausland",
-      "category_ar": "العالم",
-      "title_ar": "فرقاطة روسية تطلق النار على مروحية دنماركية"
-    },
-    {
-      "id": "9e41674a0a8741b1",
-      "title_de": "Systemmängel im Strafvollzug",
-      "link": "https://orf.at/stories/3442228/",
-      "pubDate": "2026-09-15T21:07:24.842Z",
-      "category_de": "Chronik",
-      "category_ar": "حوادث",
-      "title_ar": "نقاط ضعف في نظام تنفيذ العقوبات"
-    },
-    {
-      "id": "7a30d870ae9b8745",
-      "title_de": "UNO-Kritik an Leichenbergung aus Trümmern in Gaza",
-      "link": "https://orf.at/stories/3442251/",
-      "pubDate": "2026-09-15T21:07:24.842Z",
-      "category_de": "Ausland",
-      "category_ar": "العالم",
-      "title_ar": "الأمم المتحدة تنتقد عمليات انتشال الجثث من أنقاض غزة"
-    },
-    {
-      "id": "78d0eebff2add14e",
-      "title_de": "Stocker erneuert Kritik an EU-Mehrjahresbudget",
-      "link": "https://orf.at/stories/3442245/",
-      "pubDate": "2026-09-15T21:07:24.842Z",
-      "category_de": "Politik",
-      "category_ar": "سياسة",
-      "title_ar": "شتوكر يجدد انتقاده لميزانية الاتحاد الأوروبي متعددة السنوات"
-    },
-    {
-      "id": "2514eccbf520c5bc",
-      "title_de": "Totschnig erwartet starken Rückgang bei Einkommen der Bauern",
-      "link": "https://orf.at/stories/3442242/",
-      "pubDate": "2026-09-15T21:07:24.842Z",
-      "category_de": "Wirtschaft",
-      "category_ar": "اقتصاد",
-      "title_ar": "توتشنيغ يتوقع انخفاضاً حاداً في دخول المزارعين"
+      "title_ar": "أزمة اليمن تضغط على أسعار النفط العالمية"
     },
     {
       "id": "b985c1e5879e4ba9",
       "title_de": "Kennedy Center wird geschlossen",
       "link": "https://orf.at/stories/3442291/",
-      "pubDate": "2026-09-15T21:07:24.841Z",
+      "pubDate": "2026-09-16T04:22:49.998Z",
       "category_de": "Ausland",
       "category_ar": "العالم",
       "title_ar": "إغلاق مركز كينيدي للفنون"
@@ -116,7 +44,7 @@
       "id": "d7954e3a1e6215ad",
       "title_de": "Pistorius und Hegseth unterzeichnen Rüstungsvereinbarung",
       "link": "https://orf.at/stories/3442292/",
-      "pubDate": "2026-09-15T21:07:24.841Z",
+      "pubDate": "2026-09-16T04:22:49.998Z",
       "category_de": "Politik",
       "category_ar": "سياسة",
       "title_ar": "بيستوريوس وهيجسيث يوقعان اتفاق تسليح"
@@ -125,7 +53,7 @@
       "id": "d07b5cff350ed544",
       "title_de": "Trump kündigt sofortige Schließung des Kennedy Centers an",
       "link": "https://orf.at/stories/3442290/",
-      "pubDate": "2026-09-15T21:07:24.841Z",
+      "pubDate": "2026-09-16T04:22:49.998Z",
       "category_de": "Ausland",
       "category_ar": "العالم",
       "title_ar": "ترامب يعلن إغلاق مركز كينيدي فوراً"
@@ -134,7 +62,7 @@
       "id": "8ade2c016cc3d5ca",
       "title_de": "U-Ausschuss geht mit hoher Politik weiter",
       "link": "https://orf.at/stories/3442222/",
-      "pubDate": "2026-09-15T21:07:24.841Z",
+      "pubDate": "2026-09-16T04:22:49.998Z",
       "category_de": "Politik",
       "category_ar": "سياسة",
       "title_ar": "لجنة التحقيق تواصل جلساتها مع القيادة السياسية"
@@ -143,7 +71,7 @@
       "id": "023d7f5894840617",
       "title_de": "Merz sagt Reise zu UNO-Generaldebatte nach New York ab",
       "link": "https://orf.at/stories/3442288/",
-      "pubDate": "2026-09-15T21:07:24.841Z",
+      "pubDate": "2026-09-16T04:22:49.998Z",
       "category_de": "Politik",
       "category_ar": "سياسة",
       "title_ar": "ميرتس يلغي رحلته إلى نيويورك للمناظرة العامة للأمم المتحدة"
@@ -152,7 +80,7 @@
       "id": "d3affd706e712d3a",
       "title_de": "Bildungssprecher von ÖVP und SPÖ zu Gast",
       "link": "https://orf.at/stories/3442285/",
-      "pubDate": "2026-09-15T21:07:24.841Z",
+      "pubDate": "2026-09-16T04:22:49.998Z",
       "category_de": "Politik",
       "category_ar": "سياسة",
       "title_ar": "متحدثا التعليم عن الحزب النمساوي الشعبي والاشتراكيين في زيارة"
@@ -161,7 +89,7 @@
       "id": "6e7ac619a33a1ebf",
       "title_de": "USA: Saudi-arabische Ölpipeline bald wieder in Betrieb",
       "link": "https://orf.at/stories/3442284/",
-      "pubDate": "2026-09-15T21:07:24.841Z",
+      "pubDate": "2026-09-16T04:22:49.998Z",
       "category_de": "Wirtschaft",
       "category_ar": "اقتصاد",
       "title_ar": "خط أنابيب نفط سعودي قيد الإعادة في الولايات المتحدة"
@@ -170,7 +98,7 @@
       "id": "0d1251a37eda52a6",
       "title_de": "Ehrenpreis des Österreichischen Buchhandels für Dacia Maraini",
       "link": "https://orf.at/stories/3442283/",
-      "pubDate": "2026-09-15T21:07:24.841Z",
+      "pubDate": "2026-09-16T04:22:49.998Z",
       "category_de": "Kultur",
       "category_ar": "ثقافة",
       "title_ar": "جائزة الشرف من جمعية بائعي الكتب النمساويين لداتشا مارايني"
@@ -179,7 +107,7 @@
       "id": "a3674f37b4e68fa4",
       "title_de": "IStGH-Anhörung: Duterte laut Anwälten nicht verhandlungsfähig",
       "link": "https://orf.at/stories/3442282/",
-      "pubDate": "2026-09-15T21:07:24.841Z",
+      "pubDate": "2026-09-16T04:22:49.998Z",
       "category_de": "Ausland",
       "category_ar": "العالم",
       "title_ar": "جلسة محكمة الجنايات الدولية: محامو دوتيرتي يؤكدون عدم قدرته على المثول"
@@ -188,7 +116,7 @@
       "id": "fe67ef8f93ce4f4e",
       "title_de": "US-Militärbericht widerspricht Trump",
       "link": "https://orf.at/stories/3442244/",
-      "pubDate": "2026-09-15T21:07:24.841Z",
+      "pubDate": "2026-09-16T04:22:49.998Z",
       "category_de": "Ausland",
       "category_ar": "العالم",
       "title_ar": "تقرير عسكري أميركي يناقض ترامب"
@@ -197,10 +125,118 @@
       "id": "747d48a8c5cbcbfb",
       "title_de": "Französische Sängerin Catherine Ringer gestorben",
       "link": "https://orf.at/stories/3442279/",
-      "pubDate": "2026-09-15T21:07:24.841Z",
+      "pubDate": "2026-09-16T04:22:49.998Z",
       "category_de": "Kultur",
       "category_ar": "ثقافة",
       "title_ar": "وفاة الفنانة الفرنسية كاترين رينجر"
+    },
+    {
+      "id": "4941ff76345a4db3",
+      "title_de": "Schauspieler Ralf Richter ist tot",
+      "link": "https://orf.at/stories/3442275/",
+      "pubDate": "2026-09-16T04:22:49.998Z",
+      "category_de": "Kultur",
+      "category_ar": "ثقافة",
+      "title_ar": "رحيل الممثل رالف ريختر"
+    },
+    {
+      "id": "4d9220adc33bdc69",
+      "title_de": "LGBTQ-Proteste: Dutzende Festnahmen in Istanbul",
+      "link": "https://orf.at/stories/3442273/",
+      "pubDate": "2026-09-16T04:22:49.998Z",
+      "category_de": "Ausland",
+      "category_ar": "العالم",
+      "title_ar": "اعتقالات جماعية خلال احتجاجات LGBTQ في إسطنبول"
+    },
+    {
+      "id": "6a6cd23f3e33d28a",
+      "title_de": "Kommission will Arbeiten im Ausland erleichtern",
+      "link": "https://orf.at/stories/3442271/",
+      "pubDate": "2026-09-16T04:22:49.998Z",
+      "category_de": "Wirtschaft",
+      "category_ar": "اقتصاد",
+      "title_ar": "المفوضية تسعى لتسهيل العمل في الخارج"
+    },
+    {
+      "id": "0570d29b2832dcb9",
+      "title_de": "Meloni treibt Reform von Italiens Wahlrecht voran",
+      "link": "https://orf.at/stories/3442270/",
+      "pubDate": "2026-09-16T04:22:49.998Z",
+      "category_de": "Politik",
+      "category_ar": "سياسة",
+      "title_ar": "ميلوني تسرّع إصلاح القانون الانتخابي الإيطالي"
+    },
+    {
+      "id": "fe786317a55cf8b6",
+      "title_de": "Ukrainisches Militär: Rückeroberungen im Donbas",
+      "link": "https://orf.at/stories/3442263/",
+      "pubDate": "2026-09-16T04:22:49.998Z",
+      "category_de": "Ausland",
+      "category_ar": "العالم",
+      "title_ar": "الجيش الأوكراني يستعيد مناطق في دونباس"
+    },
+    {
+      "id": "4399827e911acd0d",
+      "title_de": "Über 100.000 Vertriebene durch Kämpfe im Jemen",
+      "link": "https://orf.at/stories/3442257/",
+      "pubDate": "2026-09-16T04:22:49.998Z",
+      "category_de": "Ausland",
+      "category_ar": "العالم",
+      "title_ar": "أكثر من 100 ألف نازح جراء القتال في اليمن"
+    },
+    {
+      "id": "07e65d28a3a6272c",
+      "title_de": "Russische Fregatte feuert auf dänischen Hubschrauber",
+      "link": "https://orf.at/stories/3442255/",
+      "pubDate": "2026-09-16T04:22:49.998Z",
+      "category_de": "Ausland",
+      "category_ar": "العالم",
+      "title_ar": "فرقاطة روسية تطلق النار على مروحية دنماركية"
+    },
+    {
+      "id": "9e41674a0a8741b1",
+      "title_de": "Systemmängel im Strafvollzug",
+      "link": "https://orf.at/stories/3442228/",
+      "pubDate": "2026-09-16T04:22:49.998Z",
+      "category_de": "Chronik",
+      "category_ar": "حوادث",
+      "title_ar": "نقاط ضعف في نظام تنفيذ العقوبات"
+    },
+    {
+      "id": "7a30d870ae9b8745",
+      "title_de": "UNO-Kritik an Leichenbergung aus Trümmern in Gaza",
+      "link": "https://orf.at/stories/3442251/",
+      "pubDate": "2026-09-16T04:22:49.998Z",
+      "category_de": "Ausland",
+      "category_ar": "العالم",
+      "title_ar": "الأمم المتحدة تنتقد عمليات انتشال الجثث من أنقاض غزة"
+    },
+    {
+      "id": "b78423a98b9f45a5",
+      "title_de": "Greenpeace-Klimaticket-Ranking: Österreich auf Platz vier",
+      "link": "https://orf.at/stories/3442298/",
+      "pubDate": "2026-09-16T04:22:49.997Z",
+      "category_de": "Wissenschaft",
+      "category_ar": "علوم",
+      "title_ar": "النمسا تحتل المركز الرابع في تصنيف جرينبيس لتذاكر المناخ"
+    },
+    {
+      "id": "6a9cf33d8ace2550",
+      "title_de": "Ozonloch über der Antarktis so klein wie selten seit 1990",
+      "link": "https://orf.at/stories/3442297/",
+      "pubDate": "2026-09-16T04:22:49.997Z",
+      "category_de": "Wissenschaft",
+      "category_ar": "علوم",
+      "title_ar": "ثقب الأوزون فوق القارة المتجمدة الجنوبية بأصغر حجم منذ 1990"
+    },
+    {
+      "id": "1da1d46c0f6fe5df",
+      "title_de": "Spannung vor Fed-Zinsentscheid",
+      "link": "https://orf.at/stories/3442231/",
+      "pubDate": "2026-09-16T04:22:49.997Z",
+      "category_de": "Wirtschaft",
+      "category_ar": "اقتصاد",
+      "title_ar": "ترقب قرار البنك الفيدرالي الأمريكي بشأن أسعار الفائدة"
     }
   ]
 }
