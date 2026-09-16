@@ -1,131 +1,122 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-09-16T11:16:39.478Z",
+  "generatedAt": "2026-09-16T16:36:37.311Z",
   "source": "https://rss.orf.at/news.xml",
-  "count": 24,
+  "count": 21,
   "items": [
     {
-      "id": "4e336ee2f4496cdb",
-      "title_de": "Saudi-Arabien wirft Huthis Angriff auf Mekka vor",
-      "link": "https://orf.at/stories/3442303/",
-      "pubDate": "2026-09-16T11:16:31.226Z",
-      "category_de": "Ausland",
-      "category_ar": "العالم",
-      "title_ar": "السعودية تتهم الحوثيين بمحاولة مهاجمة مكة المكرمة"
+      "id": "c7149bb5cf932d8d",
+      "title_de": "Belvedere feiert Meisterin der Bewegung",
+      "link": "https://orf.at/stories/3441628/",
+      "pubDate": "2026-09-16T16:36:30.821Z",
+      "category_de": "Kultur",
+      "category_ar": "ثقافة",
+      "title_ar": "متحف بيلفيديير يحتفي بفنانة الحركة"
     },
     {
-      "id": "3abf9639c7df448a",
-      "title_de": "TV-Hubschrauber in Los Angeles abgestürzt: Mehrere Tote",
-      "link": "https://orf.at/stories/3442302/",
-      "pubDate": "2026-09-16T11:16:31.226Z",
-      "category_de": "Chronik",
-      "category_ar": "حوادث",
-      "title_ar": "تحطم طائرة هليكوبتر تلفزيونية في لوس أنجليس: عدة قتلى"
-    },
-    {
-      "id": "abc2d68d335d0204",
-      "title_de": "Korruptionsprozess gegen Frankreichs Ex-Ministerin Dati",
-      "link": "https://orf.at/stories/3442301/",
-      "pubDate": "2026-09-16T11:16:31.226Z",
-      "category_de": "Ausland",
-      "category_ar": "العالم",
-      "title_ar": "محاكمة الوزيرة الفرنسية السابقة داتي بتهم الفساد"
-    },
-    {
-      "id": "212728c54e568267",
-      "title_de": "US-Repräsentantenhaus stimmt erneut gegen Iran-Krieg",
-      "link": "https://orf.at/stories/3442300/",
-      "pubDate": "2026-09-16T11:16:31.226Z",
-      "category_de": "Ausland",
-      "category_ar": "العالم",
-      "title_ar": "مجلس النواب الأمريكي يرفض مجدداً الحرب ضد إيران"
-    },
-    {
-      "id": "a3479c865bb46c32",
-      "title_de": "Selenskyj meldet erfolgreichen Test neuer Drohnenabwehr",
-      "link": "https://orf.at/stories/3442299/",
-      "pubDate": "2026-09-16T11:16:31.226Z",
-      "category_de": "Ausland",
-      "category_ar": "العالم",
-      "title_ar": "زيلينسكي يعلن اختبار منظومة دفاع جديدة ضد الطائرات المسيرة"
-    },
-    {
-      "id": "b78423a98b9f45a5",
-      "title_de": "Greenpeace-Klimaticket-Ranking: Österreich auf Platz vier",
-      "link": "https://orf.at/stories/3442298/",
-      "pubDate": "2026-09-16T11:16:31.226Z",
-      "category_de": "Wissenschaft",
-      "category_ar": "علوم",
-      "title_ar": "النمسا تحتل المركز الرابع في تصنيف جرينبيس لتذاكر المناخ"
-    },
-    {
-      "id": "6a9cf33d8ace2550",
-      "title_de": "Ozonloch über Antarktis so klein wie selten seit 1990",
-      "link": "https://orf.at/stories/3442297/",
-      "pubDate": "2026-09-16T11:16:31.226Z",
-      "category_de": "Wissenschaft",
-      "category_ar": "علوم",
-      "title_ar": "ثقب الأوزون فوق القارة المتجمدة الجنوبية بأصغر حجم منذ 1990"
-    },
-    {
-      "id": "1da1d46c0f6fe5df",
-      "title_de": "Spannung vor Fed-Zinsentscheid",
-      "link": "https://orf.at/stories/3442231/",
-      "pubDate": "2026-09-16T11:16:31.226Z",
+      "id": "94acae48c67e73be",
+      "title_de": "Italien schafft Kfz-Steuer für Kleinwagen und Motorräder ab",
+      "link": "https://orf.at/stories/3442376/",
+      "pubDate": "2026-09-16T16:36:30.821Z",
       "category_de": "Wirtschaft",
       "category_ar": "اقتصاد",
-      "title_ar": "ترقب قرار البنك الفيدرالي الأمريكي بشأن أسعار الفائدة"
+      "title_ar": "إيطاليا تلغي ضريبة المركبات على السيارات الصغيرة والدراجات النارية"
     },
     {
-      "id": "949ed9e4390f25d3",
-      "title_de": "Berichte über umfangreiche US-Waffenlieferung an Israel",
-      "link": "https://orf.at/stories/3442296/",
-      "pubDate": "2026-09-16T11:16:31.226Z",
-      "category_de": "Ausland",
-      "category_ar": "العالم",
-      "title_ar": "تقارير عن إمدادات أمريكية ضخمة من الأسلحة إلى إسرائيل"
-    },
-    {
-      "id": "67a99f4f638aac70",
-      "title_de": "Erneut israelische Luftangriffe im Gazastreifen mit Toten",
-      "link": "https://orf.at/stories/3442294/",
-      "pubDate": "2026-09-16T11:16:31.226Z",
-      "category_de": "Ausland",
-      "category_ar": "العالم",
-      "title_ar": "غارات جوية إسرائيلية جديدة على غزة تسفر عن قتلى"
-    },
-    {
-      "id": "fab75636af91e0af",
-      "title_de": "Jemen-Krise belastet weiter Ölpreis",
-      "link": "https://orf.at/stories/3442286/",
-      "pubDate": "2026-09-16T11:16:31.226Z",
+      "id": "730d9528d26f58e2",
+      "title_de": "Das Geschäft mit der Nebensaison läuft",
+      "link": "https://orf.at/stories/3442332/",
+      "pubDate": "2026-09-16T16:36:30.821Z",
       "category_de": "Wirtschaft",
       "category_ar": "اقتصاد",
-      "title_ar": "أزمة اليمن تضغط على أسعار النفط العالمية"
+      "title_ar": "أعمال الموسم الخافت تحقق نتائج جيدة"
     },
     {
-      "id": "b985c1e5879e4ba9",
-      "title_de": "Kennedy Center wird geschlossen",
-      "link": "https://orf.at/stories/3442291/",
-      "pubDate": "2026-09-16T11:16:31.226Z",
-      "category_de": "Ausland",
-      "category_ar": "العالم",
-      "title_ar": "إغلاق مركز كينيدي للفنون"
+      "id": "ab8ecc8e4d9a62ec",
+      "title_de": "Nolans „Odyssee“ erfolgreichster IMAX-Titel in Österreich",
+      "link": "https://orf.at/stories/3442369/",
+      "pubDate": "2026-09-16T16:36:30.821Z",
+      "category_de": "Kultur",
+      "category_ar": "ثقافة",
+      "title_ar": "فيلم نولان \"الأوديسة\" يحقق رقماً قياسياً في عروض آيماكس النمساوية"
     },
     {
-      "id": "d7954e3a1e6215ad",
-      "title_de": "Pistorius und Hegseth unterzeichnen Rüstungsvereinbarung",
-      "link": "https://orf.at/stories/3442292/",
-      "pubDate": "2026-09-16T11:16:31.226Z",
+      "id": "50ac77f0bac4ca4f",
+      "title_de": "WKStA-Vertreter wird in Pilnacek-U-Ausschuss befragt",
+      "link": "https://orf.at/stories/3442365/",
+      "pubDate": "2026-09-16T16:36:30.821Z",
       "category_de": "Politik",
       "category_ar": "سياسة",
-      "title_ar": "بيستوريوس وهيجسيث يوقعان اتفاق تسليح"
+      "title_ar": "ممثل النيابة العامة يدلي بشهادته أمام لجنة التحقيق في قضية بيلناتشك"
+    },
+    {
+      "id": "781b628344e7f1bc",
+      "title_de": "Russland fliegt Mitarbeiter von Generalkonsulat aus",
+      "link": "https://orf.at/stories/3442367/",
+      "pubDate": "2026-09-16T16:36:30.821Z",
+      "category_de": "Ausland",
+      "category_ar": "العالم",
+      "title_ar": "روسيا تطرد موظفي القنصلية العامة"
+    },
+    {
+      "id": "e402dd589ec28706",
+      "title_de": "Tote und Verschüttete nach Gebäudeeinsturz in Gaza",
+      "link": "https://orf.at/stories/3442363/",
+      "pubDate": "2026-09-16T16:36:30.821Z",
+      "category_de": "Ausland",
+      "category_ar": "العالم",
+      "title_ar": "قتلى ومفقودون في انهيار مبنى بغزة"
+    },
+    {
+      "id": "a59a030b6a1bc955",
+      "title_de": "Keine Zollfreiheit mehr für kleine Pakete aus EU-Ausland",
+      "link": "https://orf.at/stories/3442362/",
+      "pubDate": "2026-09-16T16:36:30.821Z",
+      "category_de": "Wirtschaft",
+      "category_ar": "اقتصاد",
+      "title_ar": "إلغاء الإعفاء الجمركي للطرود الصغيرة القادمة من خارج الاتحاد الأوروبي"
+    },
+    {
+      "id": "958230fc5923287f",
+      "title_de": "Lateinamerika gefährlichste Region für Umweltschützer",
+      "link": "https://orf.at/stories/3442359/",
+      "pubDate": "2026-09-16T16:36:30.821Z",
+      "category_de": "Ausland",
+      "category_ar": "العالم",
+      "title_ar": "أمريكا اللاتينية الأكثر خطورة على المدافعين عن البيئة"
+    },
+    {
+      "id": "d9d056f6834aca9b",
+      "title_de": "„Kurz wollte, dass Pilnacek bleibt“",
+      "link": "https://orf.at/stories/3442317/",
+      "pubDate": "2026-09-16T16:36:30.821Z",
+      "category_de": "Politik",
+      "category_ar": "سياسة",
+      "title_ar": "\"كورتس أراد بقاء بيلناتشك\""
+    },
+    {
+      "id": "cf1d2646c7870d7b",
+      "title_de": "Regierung bringt Strompreisdeckel auf den Weg",
+      "link": "https://orf.at/stories/3442345/",
+      "pubDate": "2026-09-16T16:36:30.821Z",
+      "category_de": "Politik",
+      "category_ar": "سياسة",
+      "title_ar": "الحكومة تطرح سقفاً لأسعار الكهرباء"
+    },
+    {
+      "id": "000ffc643ae88423",
+      "title_de": "Polen: Russische Drohne trug Sprengsatz",
+      "link": "https://orf.at/stories/3442343/",
+      "pubDate": "2026-09-16T16:36:30.821Z",
+      "category_de": "Ausland",
+      "category_ar": "العالم",
+      "title_ar": "درون روسي يحمل عبوة ناسفة فوق الأراضي البولندية"
     },
     {
       "id": "127de4ac392c0110",
       "title_de": "25 Jahre Haft für Ex-Präsident Thaci",
       "link": "https://orf.at/stories/3442214/",
-      "pubDate": "2026-09-16T11:16:31.225Z",
+      "pubDate": "2026-09-16T16:36:30.821Z",
       "category_de": "Ausland",
       "category_ar": "العالم",
       "title_ar": "السجن 25 سنة للرئيس السابق ثاتشي"
@@ -134,7 +125,7 @@
       "id": "a277a909b4f5c25e",
       "title_de": "WEF: 120 Jahre bis zur Geschlechtergleichheit",
       "link": "https://orf.at/stories/3442340/",
-      "pubDate": "2026-09-16T11:16:31.225Z",
+      "pubDate": "2026-09-16T16:36:30.821Z",
       "category_de": "Wissenschaft",
       "category_ar": "علوم",
       "title_ar": "المنتدى الاقتصادي العالمي: 120 سنة حتى تحقيق المساواة بين الجنسين"
@@ -143,7 +134,7 @@
       "id": "aa136e27387a372c",
       "title_de": "Mindestens 60 Tote bei Einsturz von Goldmine im Sudan",
       "link": "https://orf.at/stories/3442336/",
-      "pubDate": "2026-09-16T11:16:31.225Z",
+      "pubDate": "2026-09-16T16:36:30.821Z",
       "category_de": "Chronik",
       "category_ar": "حوادث",
       "title_ar": "مصرع 60 شخصاً على الأقل في انهيار منجم ذهب بالسودان"
@@ -152,7 +143,7 @@
       "id": "6443ff8aa24853ef",
       "title_de": "„Assoziierte“ EU-Mitgliedschaft für Kanada",
       "link": "https://orf.at/stories/3442321/",
-      "pubDate": "2026-09-16T11:16:31.225Z",
+      "pubDate": "2026-09-16T16:36:30.821Z",
       "category_de": "Ausland",
       "category_ar": "العالم",
       "title_ar": "عضوية \"مرتبطة\" بالاتحاد الأوروبي لكندا"
@@ -161,7 +152,7 @@
       "id": "cda504174fe0ad3a",
       "title_de": "Coronavirus-Hilfen: 158,8 Mio. Euro zu Unrecht bezogen",
       "link": "https://orf.at/stories/3442334/",
-      "pubDate": "2026-09-16T11:16:31.225Z",
+      "pubDate": "2026-09-16T16:36:30.821Z",
       "category_de": "Wirtschaft",
       "category_ar": "اقتصاد",
       "title_ar": "تحويلات كورونا: 158.8 مليون يورو تم الحصول عليها بشكل غير شرعي"
@@ -170,7 +161,7 @@
       "id": "452a42f9d7103e95",
       "title_de": "CDU-Ministerpräsidenten stellen sich hinter Merz",
       "link": "https://orf.at/stories/3442333/",
-      "pubDate": "2026-09-16T11:16:31.225Z",
+      "pubDate": "2026-09-16T16:36:30.821Z",
       "category_de": "Politik",
       "category_ar": "سياسة",
       "title_ar": "وزراء بريطانيون من الاتحاد الديمقراطي المسيحي يؤيدون ميرتس"
@@ -179,7 +170,7 @@
       "id": "b49f54cea415f137",
       "title_de": "Europas ältester Mann mit 112 Jahren gestorben",
       "link": "https://orf.at/stories/3442331/",
-      "pubDate": "2026-09-16T11:16:31.225Z",
+      "pubDate": "2026-09-16T16:36:30.821Z",
       "category_de": "Chronik",
       "category_ar": "حوادث",
       "title_ar": "وفاة أكبر رجل في أوروبا عن 112 سنة"
@@ -188,7 +179,7 @@
       "id": "f0d75f9db2931ee4",
       "title_de": "Zadic wird in Pilnacek-U-Ausschuss befragt",
       "link": "https://orf.at/stories/3442318/",
-      "pubDate": "2026-09-16T11:16:31.225Z",
+      "pubDate": "2026-09-16T16:36:30.821Z",
       "category_de": "Politik",
       "category_ar": "سياسة",
       "title_ar": "زاديتش تدلي بشهادتها أمام لجنة التحقيق في قضية بيلناتشك"
@@ -197,28 +188,10 @@
       "id": "d1eb31c147d84c33",
       "title_de": "Von der Leyen für Social-Media-Verbot bis 13",
       "link": "https://orf.at/stories/3442327/",
-      "pubDate": "2026-09-16T11:16:31.225Z",
+      "pubDate": "2026-09-16T16:36:30.821Z",
       "category_de": "Politik",
       "category_ar": "سياسة",
       "title_ar": "فون دير لاين تدعو لحظر وسائل التواصل للأطفال دون 13 سنة"
-    },
-    {
-      "id": "f9660154e54d38c6",
-      "title_de": "Ed Sheerans Tour in Schwierigkeiten",
-      "link": "https://orf.at/stories/3442304/",
-      "pubDate": "2026-09-16T11:16:31.225Z",
-      "category_de": "Kultur",
-      "category_ar": "ثقافة",
-      "title_ar": "جولة إد شيران تواجه عقبات"
-    },
-    {
-      "id": "6fba970b552b0a52",
-      "title_de": "Gouverneur: Fünf Tote bei russischem Angriff auf Bus",
-      "link": "https://orf.at/stories/3442316/",
-      "pubDate": "2026-09-16T11:16:31.225Z",
-      "category_de": "Ausland",
-      "category_ar": "العالم",
-      "title_ar": "محافظ روسي: خمسة قتلى في هجوم روسي على حافلة"
     }
   ]
 }
