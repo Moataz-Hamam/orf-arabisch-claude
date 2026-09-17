@@ -1,23 +1,140 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-09-17T11:24:48.194Z",
+  "generatedAt": "2026-09-17T16:42:46.036Z",
   "source": "https://rss.orf.at/news.xml",
-  "count": 26,
+  "count": 24,
   "items": [
+    {
+      "id": "e5721e0866c9a031",
+      "title_de": "Mehrere Tote bei Angriffen im Jemen und in Saudi-Arabien",
+      "link": "https://orf.at/stories/3442476/",
+      "pubDate": "2026-09-17T16:42:39.609Z",
+      "category_de": "Ausland",
+      "category_ar": "العالم",
+      "title_ar": "سقوط قتلى في هجمات باليمن والسعودية"
+    },
+    {
+      "id": "fc8b6bc14c947976",
+      "title_de": "Zwölf Tunnel an Litauens Grenze zu Belarus entdeckt",
+      "link": "https://orf.at/stories/3442475/",
+      "pubDate": "2026-09-17T16:42:39.609Z",
+      "category_de": "Ausland",
+      "category_ar": "العالم",
+      "title_ar": "اكتشاف اثني عشر نفقاً على الحدود الليتوانية البيلاروسية"
+    },
+    {
+      "id": "62d97913b590b3bf",
+      "title_de": "Schweden vor Regierungswechsel",
+      "link": "https://orf.at/stories/3442450/",
+      "pubDate": "2026-09-17T16:42:39.609Z",
+      "category_de": "Politik",
+      "category_ar": "سياسة",
+      "title_ar": "السويد على أبواب تغيير حكومي"
+    },
+    {
+      "id": "1a7bae7149853b02",
+      "title_de": "Ceuta: EU-Parlament kritisiert Spaniens Regierung",
+      "link": "https://orf.at/stories/3442471/",
+      "pubDate": "2026-09-17T16:42:39.609Z",
+      "category_de": "Ausland",
+      "category_ar": "العالم",
+      "title_ar": "البرلمان الأوروبي ينتقد الحكومة الإسبانية بشأن سبتة"
+    },
+    {
+      "id": "d350416c8349334e",
+      "title_de": "Malaria: Todesfall nahe Flughafen Frankfurt",
+      "link": "https://orf.at/stories/3442469/",
+      "pubDate": "2026-09-17T16:42:39.609Z",
+      "category_de": "Gesundheit",
+      "category_ar": "صحة",
+      "title_ar": "وفاة بالملاريا بالقرب من مطار فرانكفورت"
+    },
+    {
+      "id": "0c83e2227f61fe9c",
+      "title_de": "Todesfall durch Malaria nahe Frankfurter Flughafen",
+      "link": "https://orf.at/stories/3442458/",
+      "pubDate": "2026-09-17T16:42:39.609Z",
+      "category_de": "Gesundheit",
+      "category_ar": "صحة",
+      "title_ar": "حالة وفاة بسبب الملاريا قرب مطار فرانكفورت"
+    },
+    {
+      "id": "bc0e5e3c5ce1ee78",
+      "title_de": "EU-Kommission konkretisiert Verbotspläne",
+      "link": "https://orf.at/stories/3442423/",
+      "pubDate": "2026-09-17T16:42:39.609Z",
+      "category_de": "Politik",
+      "category_ar": "سياسة",
+      "title_ar": "المفوضية الأوروبية تفصل خطط الحظر"
+    },
+    {
+      "id": "70b03017b0a5cdbb",
+      "title_de": "Irland bleibt auch Song Contest in Bulgarien fern",
+      "link": "https://orf.at/stories/3442456/",
+      "pubDate": "2026-09-17T16:42:39.609Z",
+      "category_de": "Kultur",
+      "category_ar": "ثقافة",
+      "title_ar": "أيرلندا تتغيب عن مسابقة الأغنية في بلغاريا"
+    },
+    {
+      "id": "c3d55ed3064b1b34",
+      "title_de": "Schwedens Regierungschef tritt nach Wahlschlappe zurück",
+      "link": "https://orf.at/stories/3442454/",
+      "pubDate": "2026-09-17T16:42:39.609Z",
+      "category_de": "Politik",
+      "category_ar": "سياسة",
+      "title_ar": "رئيس الحكومة السويدي يستقيل بعد خسارة انتخابية"
+    },
+    {
+      "id": "8c9629f76dfea536",
+      "title_de": "Thurnher: „Deutungshoheit über ORF zurückgewinnen“",
+      "link": "https://orf.at/stories/3442452/",
+      "pubDate": "2026-09-17T16:42:39.609Z",
+      "category_de": "Sonstiges",
+      "category_ar": "عام",
+      "title_ar": "ثورنهير: \"استعادة السلطة التفسيرية على هيئة البث النمساوية\""
+    },
+    {
+      "id": "32070780cf31c0f1",
+      "title_de": "Chaos um Ed Sheerans Tournee mündet in Spendenreigen",
+      "link": "https://orf.at/stories/3442425/",
+      "pubDate": "2026-09-17T16:42:39.609Z",
+      "category_de": "Kultur",
+      "category_ar": "ثقافة",
+      "title_ar": "فوضى جولة إد شيران تتحول إلى سلسلة تبرعات"
+    },
+    {
+      "id": "0f246c35e5f57b6d",
+      "title_de": "Lesepaten in Schulen: Programm wird ausgebaut",
+      "link": "https://orf.at/stories/3442449/",
+      "pubDate": "2026-09-17T16:42:39.609Z",
+      "category_de": "Sonstiges",
+      "category_ar": "عام",
+      "title_ar": "برنامج الأطفال القارئين في المدارس يشهد توسعاً"
+    },
+    {
+      "id": "80174c2b972cc8a3",
+      "title_de": "Carney beschwört Allianz mit Europa",
+      "link": "https://orf.at/stories/3442421/",
+      "pubDate": "2026-09-17T16:42:39.609Z",
+      "category_de": "Ausland",
+      "category_ar": "العالم",
+      "title_ar": "كارني يستحضر التحالف مع أوروبا"
+    },
     {
       "id": "a2658b897acc90fd",
       "title_de": "Mordserie an Frauen erschüttert Südafrika",
       "link": "https://orf.at/stories/3442445/",
-      "pubDate": "2026-09-17T11:24:37.117Z",
+      "pubDate": "2026-09-17T16:42:39.609Z",
       "category_de": "Chronik",
       "category_ar": "حوادث",
       "title_ar": "سلسلة جرائم قتل تهز جنوب أفريقيا"
     },
     {
       "id": "5f338264ec0794c3",
-      "title_de": "Stocker zu Besuch in Polen",
+      "title_de": "Stocker in Polen: Tusk lobt Solidarität Österreichs",
       "link": "https://orf.at/stories/3442444/",
-      "pubDate": "2026-09-17T11:24:37.117Z",
+      "pubDate": "2026-09-17T16:42:39.609Z",
       "category_de": "Politik",
       "category_ar": "سياسة",
       "title_ar": "ستوكر في زيارة إلى بولندا"
@@ -26,7 +143,7 @@
       "id": "78da76df4f203164",
       "title_de": "Buch von Dianas Bruder: Vorwürfe gegen König Charles",
       "link": "https://orf.at/stories/3442439/",
-      "pubDate": "2026-09-17T11:24:37.117Z",
+      "pubDate": "2026-09-17T16:42:39.609Z",
       "category_de": "Kultur",
       "category_ar": "ثقافة",
       "title_ar": "كتاب شقيق الأميرة ديانا يثير اتهامات ضد الملك تشارلز"
@@ -35,7 +152,7 @@
       "id": "2bc1357cd3d016b3",
       "title_de": "Carney: Kanada will „assoziiertes“ EU-Mitglied werden",
       "link": "https://orf.at/stories/3442437/",
-      "pubDate": "2026-09-17T11:24:37.117Z",
+      "pubDate": "2026-09-17T16:42:39.609Z",
       "category_de": "Ausland",
       "category_ar": "العالم",
       "title_ar": "كارني: كندا تسعى لعضوية \"مرتبطة\" بالاتحاد الأوروبي"
@@ -44,7 +161,7 @@
       "id": "943959936dc97b97",
       "title_de": "Inflation im Euro-Raum bei 3,2 Prozent",
       "link": "https://orf.at/stories/3442436/",
-      "pubDate": "2026-09-17T11:24:37.117Z",
+      "pubDate": "2026-09-17T16:42:39.609Z",
       "category_de": "Wirtschaft",
       "category_ar": "اقتصاد",
       "title_ar": "التضخم في منطقة اليورو يبلغ 3.2 بالمئة"
@@ -53,7 +170,7 @@
       "id": "499da90b1db2f16c",
       "title_de": "Appelle zu stärkerem Fokus auf Opferschutz",
       "link": "https://orf.at/stories/3442426/",
-      "pubDate": "2026-09-17T11:24:37.117Z",
+      "pubDate": "2026-09-17T16:42:39.609Z",
       "category_de": "Chronik",
       "category_ar": "حوادث",
       "title_ar": "نداءات لتعزيز حماية الضحايا"
@@ -62,7 +179,7 @@
       "id": "71d75a9932631ac6",
       "title_de": "Spritpreis treibt Inflation wieder in die Höhe",
       "link": "https://orf.at/stories/3442413/",
-      "pubDate": "2026-09-17T11:24:37.117Z",
+      "pubDate": "2026-09-17T16:42:39.609Z",
       "category_de": "Wirtschaft",
       "category_ar": "اقتصاد",
       "title_ar": "أسعار الوقود تدفع التضخم للارتفاع من جديد"
@@ -71,7 +188,7 @@
       "id": "52366e925b7bb0fc",
       "title_de": "Social-Media-Verbot: Von der Leyen stellte „Kids Act“ vor",
       "link": "https://orf.at/stories/3442429/",
-      "pubDate": "2026-09-17T11:24:37.117Z",
+      "pubDate": "2026-09-17T16:42:39.609Z",
       "category_de": "Politik",
       "category_ar": "سياسة",
       "title_ar": "فون دير لاين تعرض \"قانون الأطفال\" لحظر وسائل التواصل"
@@ -80,7 +197,7 @@
       "id": "bebdb8ae74f2b384",
       "title_de": "Wizz Air kürzt Flugplan wegen Energiepreisen",
       "link": "https://orf.at/stories/3442427/",
-      "pubDate": "2026-09-17T11:24:37.117Z",
+      "pubDate": "2026-09-17T16:42:39.609Z",
       "category_de": "Wirtschaft",
       "category_ar": "اقتصاد",
       "title_ar": "ويز إير تقلص جداول الرحلات بسبب أسعار الطاقة"
@@ -89,154 +206,19 @@
       "id": "502c82500425b3d7",
       "title_de": "Heftige Gefechte im Jemen nahe Meerenge Bab al-Mandab",
       "link": "https://orf.at/stories/3442424/",
-      "pubDate": "2026-09-17T11:24:37.117Z",
+      "pubDate": "2026-09-17T16:42:39.609Z",
       "category_de": "Ausland",
       "category_ar": "العالم",
       "title_ar": "اشتباكات عنيفة في اليمن قرب مضيق باب المندب"
     },
     {
-      "id": "e9065b969e21352b",
-      "title_de": "D: Baumarktkette Obi verliert Farbenstreit um Orange",
-      "link": "https://orf.at/stories/3442422/",
-      "pubDate": "2026-09-17T11:24:37.117Z",
-      "category_de": "Wirtschaft",
-      "category_ar": "اقتصاد",
-      "title_ar": "سلسلة ألمانية للمتاجر تخسر نزاعاً حول لون برتقالي"
-    },
-    {
-      "id": "2266367874260f36",
-      "title_de": "UNO sieht mögliche US-Kriegsverbrechen im Iran",
-      "link": "https://orf.at/stories/3442420/",
-      "pubDate": "2026-09-17T11:24:37.117Z",
-      "category_de": "Ausland",
-      "category_ar": "العالم",
-      "title_ar": "الأمم المتحدة ترى احتمالية جرائم حرب أميركية في إيران"
-    },
-    {
-      "id": "b549b7d4e62688f7",
-      "title_de": "U-Ausschuss: Sporrer plädierte für Bundesstaatsanwaltschaft",
-      "link": "https://orf.at/stories/3442419/",
-      "pubDate": "2026-09-17T11:24:37.117Z",
-      "category_de": "Politik",
-      "category_ar": "سياسة",
-      "title_ar": "لجنة التحقيق: شبورر يدعو لإنشاء دعوى قضائية فيدرالية"
-    },
-    {
-      "id": "b4319c49320e3ac6",
-      "title_de": "Inflation stieg im August auf 3,2 Prozent",
-      "link": "https://orf.at/stories/3442416/",
-      "pubDate": "2026-09-17T11:24:37.117Z",
-      "category_de": "Wirtschaft",
-      "category_ar": "اقتصاد",
-      "title_ar": "التضخم ارتفع إلى 3.2 بالمئة في آب"
-    },
-    {
-      "id": "a06d088a9d1c5d33",
-      "title_de": "Trump droht Europäern mit Handelsstopp",
-      "link": "https://orf.at/stories/3442401/",
-      "pubDate": "2026-09-17T11:24:37.117Z",
-      "category_de": "Ausland",
-      "category_ar": "العالم",
-      "title_ar": "ترامب يهدد الأوروبيين بحظر تجاري"
-    },
-    {
-      "id": "35d077ccadadeeca",
-      "title_de": "Obamas trauern um früheren „First Dog“ Sunny",
-      "link": "https://orf.at/stories/3442409/",
-      "pubDate": "2026-09-17T11:24:37.117Z",
-      "category_de": "Sonstiges",
-      "category_ar": "عام",
-      "title_ar": "عائلة أوباما تودع الحيوان الأليف الرئاسي السابق سني"
-    },
-    {
-      "id": "0b404c2130882e1c",
-      "title_de": "Bericht: EU will von China Exportlimit bei Hybridautos",
-      "link": "https://orf.at/stories/3442405/",
-      "pubDate": "2026-09-17T11:24:37.117Z",
-      "category_de": "Ausland",
-      "category_ar": "العالم",
-      "title_ar": "تقرير: الاتحاد الأوروبي يطلب من الصين تحديد صادرات السيارات الهجينة"
-    },
-    {
-      "id": "ade8b6ba7d916094",
-      "title_de": "WMO: Weltweite Wasserspeicher schrumpfen",
-      "link": "https://orf.at/stories/3442403/",
-      "pubDate": "2026-09-17T11:24:37.117Z",
-      "category_de": "Wissenschaft",
-      "category_ar": "علوم",
-      "title_ar": "المنظمة العالمية للأرصاد: مستودعات المياه العالمية تتضاءل"
-    },
-    {
-      "id": "1493732bfd6a9f28",
-      "title_de": "Wieder schwere russische Raketenangriffe auf Kiew",
-      "link": "https://orf.at/stories/3442400/",
-      "pubDate": "2026-09-17T11:24:37.117Z",
-      "category_de": "Ausland",
-      "category_ar": "العالم",
-      "title_ar": "غارات روسية ثقيلة جديدة على كييف"
-    },
-    {
-      "id": "df8a4123384945f8",
-      "title_de": "Berichte: USA verweigern Abbas Visum für UNO-Treffen",
-      "link": "https://orf.at/stories/3442399/",
-      "pubDate": "2026-09-17T11:24:37.117Z",
-      "category_de": "Ausland",
-      "category_ar": "العالم",
-      "title_ar": "تقارير: الولايات المتحدة ترفض منح عباس تأشيرة لحضور اجتماع الأمم المتحدة"
-    },
-    {
-      "id": "bad392085ea679b4",
-      "title_de": "OpenAI machte weitere KI-Probleme öffentlich",
-      "link": "https://orf.at/stories/3442398/",
-      "pubDate": "2026-09-17T11:24:37.117Z",
-      "category_de": "Wissenschaft",
-      "category_ar": "علوم",
-      "title_ar": "أوبن إيه آي تكشف عن مشاكل إضافية في الذكاء الاصطناعي"
-    },
-    {
-      "id": "886ed4d682cf412b",
-      "title_de": "Engpässe belasten Patienten und Ärzte",
-      "link": "https://orf.at/stories/3436860/",
-      "pubDate": "2026-09-17T11:24:37.117Z",
-      "category_de": "Gesundheit",
-      "category_ar": "صحة",
-      "title_ar": "النقص في الأدوية يرهق المرضى والأطباء"
-    },
-    {
-      "id": "6b4fd4414464f7fc",
-      "title_de": "US-Kongress verschärft Russland-Sanktionen",
-      "link": "https://orf.at/stories/3442397/",
-      "pubDate": "2026-09-17T11:24:37.117Z",
-      "category_de": "Ausland",
-      "category_ar": "العالم",
-      "title_ar": "الكونغرس الأميركي يشدد العقوبات على روسيا"
-    },
-    {
-      "id": "80b51e1d046ac33a",
-      "title_de": "Trump droht EU wegen Kanada mit Handelsstopp",
-      "link": "https://orf.at/stories/3442396/",
-      "pubDate": "2026-09-17T11:24:37.117Z",
-      "category_de": "Wirtschaft",
-      "category_ar": "اقتصاد",
-      "title_ar": "ترامب يهدد الاتحاد الأوروبي بوقف التجارة بسبب كندا"
-    },
-    {
-      "id": "44776643a52b2fef",
-      "title_de": "Umweltbelastung trifft Ärmere härter",
-      "link": "https://orf.at/stories/3442329/",
-      "pubDate": "2026-09-17T11:24:37.117Z",
-      "category_de": "Sonstiges",
-      "category_ar": "عام",
-      "title_ar": "التلوث البيئي يضرب الفئات الفقيرة بقسوة أكبر"
-    },
-    {
-      "id": "80174c2b972cc8a3",
-      "title_de": "Carney beschwört Allianz mit Europa",
-      "link": "https://orf.at/stories/3442421/",
-      "pubDate": "2026-09-17T11:24:37.116Z",
-      "category_de": "Ausland",
-      "category_ar": "العالم",
-      "title_ar": "كارني يستحضر التحالف مع أوروبا"
+      "id": "cb6f5a7ef525d52c",
+      "title_de": "Feuer bei Nebeneingang von deutscher Synagoge gelegt",
+      "link": "https://orf.at/stories/3442480/",
+      "pubDate": "2026-09-17T16:42:39.608Z",
+      "category_de": "Chronik",
+      "category_ar": "حوادث",
+      "title_ar": "إشعال النار عند مدخل معبد يهودي في ألمانيا"
     }
   ]
 }
