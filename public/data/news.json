@@ -1,14 +1,50 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-09-16T21:08:44.762Z",
+  "generatedAt": "2026-09-17T04:28:54.740Z",
   "source": "https://rss.orf.at/news.xml",
-  "count": 25,
+  "count": 27,
   "items": [
+    {
+      "id": "886ed4d682cf412b",
+      "title_de": "Engpässe belasten Patienten und Ärzte",
+      "link": "https://orf.at/stories/3436860/",
+      "pubDate": "2026-09-17T04:28:52.539Z",
+      "category_de": "Gesundheit",
+      "category_ar": "صحة",
+      "title_ar": "النقص في الأدوية يرهق المرضى والأطباء"
+    },
+    {
+      "id": "6b4fd4414464f7fc",
+      "title_de": "US-Kongress verschärft Russland-Sanktionen",
+      "link": "https://orf.at/stories/3442397/",
+      "pubDate": "2026-09-17T04:28:52.539Z",
+      "category_de": "Ausland",
+      "category_ar": "العالم",
+      "title_ar": "الكونغرس الأميركي يشدد العقوبات على روسيا"
+    },
+    {
+      "id": "80b51e1d046ac33a",
+      "title_de": "Trump droht EU wegen Kanada mit Handelsstopp",
+      "link": "https://orf.at/stories/3442396/",
+      "pubDate": "2026-09-17T04:28:52.539Z",
+      "category_de": "Wirtschaft",
+      "category_ar": "اقتصاد",
+      "title_ar": "ترامب يهدد الاتحاد الأوروبي بوقف التجارة بسبب كندا"
+    },
+    {
+      "id": "44776643a52b2fef",
+      "title_de": "Umweltbelastung trifft Ärmere härter",
+      "link": "https://orf.at/stories/3442329/",
+      "pubDate": "2026-09-17T04:28:52.539Z",
+      "category_de": "Sonstiges",
+      "category_ar": "عام",
+      "title_ar": "التلوث البيئي يضرب الفئات الفقيرة بقسوة أكبر"
+    },
     {
       "id": "59889843e98bc74e",
       "title_de": "Huthis: 40 saudische Luftangriffe binnen 24 Stunden im Jemen",
       "link": "https://orf.at/stories/3442394/",
-      "pubDate": "2026-09-16T21:08:37.953Z",
+      "pubDate": "2026-09-17T04:28:52.539Z",
       "category_de": "Ausland",
       "category_ar": "العالم",
       "title_ar": "الحوثيون: السعودية شنت 40 غارة جوية على اليمن في 24 ساعة"
@@ -17,7 +53,7 @@
       "id": "ceab0bcbefc6a356",
       "title_de": "SVT: Schwedens Mitte-links-Opposition gewinnt Wahl",
       "link": "https://orf.at/stories/3442391/",
-      "pubDate": "2026-09-16T21:08:37.953Z",
+      "pubDate": "2026-09-17T04:28:52.539Z",
       "category_de": "Ausland",
       "category_ar": "العالم",
       "title_ar": "السويد: المعارضة اليسارية الوسطية تحقق فوزاً انتخابياً"
@@ -26,7 +62,7 @@
       "id": "974d231a49fe1d3a",
       "title_de": "Erstes Kind für US-Schauspielerin Lena Dunham",
       "link": "https://orf.at/stories/3442390/",
-      "pubDate": "2026-09-16T21:08:37.953Z",
+      "pubDate": "2026-09-17T04:28:52.539Z",
       "category_de": "Kultur",
       "category_ar": "ثقافة",
       "title_ar": "الممثلة الأمريكية لينا دنهام تستقبل طفلها الأول"
@@ -35,7 +71,7 @@
       "id": "64b7c1c2cab26422",
       "title_de": "Guterres ruft zu internationaler Koordination bei KI auf",
       "link": "https://orf.at/stories/3442389/",
-      "pubDate": "2026-09-16T21:08:37.953Z",
+      "pubDate": "2026-09-17T04:28:52.539Z",
       "category_de": "Ausland",
       "category_ar": "العالم",
       "title_ar": "غوتيريس يدعو للتنسيق الدولي بشأن الذكاء الاصطناعي"
@@ -44,7 +80,7 @@
       "id": "f3f1aef77cf0b938",
       "title_de": "Fed hebt Zinssatz erstmals seit 2023 an",
       "link": "https://orf.at/stories/3442370/",
-      "pubDate": "2026-09-16T21:08:37.953Z",
+      "pubDate": "2026-09-17T04:28:52.539Z",
       "category_de": "Wirtschaft",
       "category_ar": "اقتصاد",
       "title_ar": "الاحتياطي الفيدرالي الأمريكي يرفع أسعار الفائدة لأول مرة منذ 2023"
@@ -53,7 +89,7 @@
       "id": "5a43ba05c72cca4f",
       "title_de": "Vor Hegseth-Beratung: US-Repräsentantenhaus zieht Ferien vor",
       "link": "https://orf.at/stories/3442388/",
-      "pubDate": "2026-09-16T21:08:37.953Z",
+      "pubDate": "2026-09-17T04:28:52.539Z",
       "category_de": "Politik",
       "category_ar": "سياسة",
       "title_ar": "مجلس النواب الأمريكي يتقدم إجازته قبل جلسات هيجيث"
@@ -62,7 +98,7 @@
       "id": "90469a5223db8aa9",
       "title_de": "US-Notenbank erhöht Leitzins erstmals seit 2023",
       "link": "https://orf.at/stories/3442386/",
-      "pubDate": "2026-09-16T21:08:37.953Z",
+      "pubDate": "2026-09-17T04:28:52.539Z",
       "category_de": "Wirtschaft",
       "category_ar": "اقتصاد",
       "title_ar": "البنك المركزي الأمريكي يرفع سعر الفائدة الأساسي للمرة الأولى منذ 2023"
@@ -71,7 +107,7 @@
       "id": "d2f9b74f37b5d391",
       "title_de": "Reaktor in Temelin außerplanmäßig abgeschaltet",
       "link": "https://orf.at/stories/3442384/",
-      "pubDate": "2026-09-16T21:08:37.953Z",
+      "pubDate": "2026-09-17T04:28:52.539Z",
       "category_de": "Chronik",
       "category_ar": "حوادث",
       "title_ar": "إغلاق مفاجئ لمفاعل تيميلين"
@@ -80,7 +116,7 @@
       "id": "bf6bf6b8577227c9",
       "title_de": "Volksanwältin Gaby Schwarz im Studio",
       "link": "https://orf.at/stories/3442383/",
-      "pubDate": "2026-09-16T21:08:37.953Z",
+      "pubDate": "2026-09-17T04:28:52.539Z",
       "category_de": "Politik",
       "category_ar": "سياسة",
       "title_ar": "أمينة الشكوى غابي شفارتس في الاستوديو"
@@ -89,7 +125,7 @@
       "id": "fddf2af2bde627ae",
       "title_de": "Lager von Selenskyjs Medienfirma bei Dohnenangriff zerstört",
       "link": "https://orf.at/stories/3442381/",
-      "pubDate": "2026-09-16T21:08:37.953Z",
+      "pubDate": "2026-09-17T04:28:52.539Z",
       "category_de": "Ausland",
       "category_ar": "العالم",
       "title_ar": "تدمير مخيم شركة إعلام زيلينسكي في هجوم بطائرات مسيرة"
@@ -98,7 +134,7 @@
       "id": "d0f9ca0f638da36e",
       "title_de": "Sturzflut in Nepal: Zahl der Vermissten steigt auf über 6.100",
       "link": "https://orf.at/stories/3442380/",
-      "pubDate": "2026-09-16T21:08:37.953Z",
+      "pubDate": "2026-09-17T04:28:52.539Z",
       "category_de": "Chronik",
       "category_ar": "حوادث",
       "title_ar": "الفيضانات في نيبال: عدد المفقودين يتجاوز 6100 شخص"
@@ -107,7 +143,7 @@
       "id": "281912240323d9dc",
       "title_de": "Ein Sechser bei Lotto „6 aus 45“",
       "link": "https://orf.at/stories/3442379/",
-      "pubDate": "2026-09-16T21:08:37.953Z",
+      "pubDate": "2026-09-17T04:28:52.539Z",
       "category_de": "Sonstiges",
       "category_ar": "عام",
       "title_ar": "فائز باليانصيب: ستة أرقام صحيحة في سحب اليوم"
@@ -116,7 +152,7 @@
       "id": "31df4b2b122d7929",
       "title_de": "Insider: Zwei Pumpen von saudischer Pipeline beschädigt",
       "link": "https://orf.at/stories/3442378/",
-      "pubDate": "2026-09-16T21:08:37.953Z",
+      "pubDate": "2026-09-17T04:28:52.539Z",
       "category_de": "Ausland",
       "category_ar": "العالم",
       "title_ar": "مصادر: تضرر مضختين من خط أنابيب سعودي"
@@ -125,7 +161,7 @@
       "id": "c7149bb5cf932d8d",
       "title_de": "Belvedere feiert Meisterin der Bewegung",
       "link": "https://orf.at/stories/3441628/",
-      "pubDate": "2026-09-16T21:08:37.953Z",
+      "pubDate": "2026-09-17T04:28:52.539Z",
       "category_de": "Kultur",
       "category_ar": "ثقافة",
       "title_ar": "متحف بيلفيديير يحتفي بفنانة الحركة"
@@ -134,7 +170,7 @@
       "id": "94acae48c67e73be",
       "title_de": "Italien schafft Kfz-Steuer für Kleinwagen und Motorräder ab",
       "link": "https://orf.at/stories/3442376/",
-      "pubDate": "2026-09-16T21:08:37.953Z",
+      "pubDate": "2026-09-17T04:28:52.539Z",
       "category_de": "Wirtschaft",
       "category_ar": "اقتصاد",
       "title_ar": "إيطاليا تلغي ضريبة المركبات على السيارات الصغيرة والدراجات النارية"
@@ -143,7 +179,7 @@
       "id": "730d9528d26f58e2",
       "title_de": "Das Geschäft mit der Nebensaison läuft",
       "link": "https://orf.at/stories/3442332/",
-      "pubDate": "2026-09-16T21:08:37.953Z",
+      "pubDate": "2026-09-17T04:28:52.539Z",
       "category_de": "Wirtschaft",
       "category_ar": "اقتصاد",
       "title_ar": "أعمال الموسم الخافت تحقق نتائج جيدة"
@@ -152,7 +188,7 @@
       "id": "ab8ecc8e4d9a62ec",
       "title_de": "Nolans „Odyssee“ erfolgreichster IMAX-Titel in Österreich",
       "link": "https://orf.at/stories/3442369/",
-      "pubDate": "2026-09-16T21:08:37.953Z",
+      "pubDate": "2026-09-17T04:28:52.539Z",
       "category_de": "Kultur",
       "category_ar": "ثقافة",
       "title_ar": "فيلم نولان \"الأوديسة\" يحقق رقماً قياسياً في عروض آيماكس النمساوية"
@@ -161,7 +197,7 @@
       "id": "50ac77f0bac4ca4f",
       "title_de": "WKStA-Vertreter wird in Pilnacek-U-Ausschuss befragt",
       "link": "https://orf.at/stories/3442365/",
-      "pubDate": "2026-09-16T21:08:37.953Z",
+      "pubDate": "2026-09-17T04:28:52.539Z",
       "category_de": "Politik",
       "category_ar": "سياسة",
       "title_ar": "ممثل النيابة العامة يدلي بشهادته أمام لجنة التحقيق في قضية بيلناتشك"
@@ -170,7 +206,7 @@
       "id": "781b628344e7f1bc",
       "title_de": "Russland fliegt Mitarbeiter von Generalkonsulat aus",
       "link": "https://orf.at/stories/3442367/",
-      "pubDate": "2026-09-16T21:08:37.953Z",
+      "pubDate": "2026-09-17T04:28:52.539Z",
       "category_de": "Ausland",
       "category_ar": "العالم",
       "title_ar": "روسيا تطرد موظفي القنصلية العامة"
@@ -179,7 +215,7 @@
       "id": "e402dd589ec28706",
       "title_de": "Tote und Verschüttete nach Gebäudeeinsturz in Gaza",
       "link": "https://orf.at/stories/3442363/",
-      "pubDate": "2026-09-16T21:08:37.953Z",
+      "pubDate": "2026-09-17T04:28:52.539Z",
       "category_de": "Ausland",
       "category_ar": "العالم",
       "title_ar": "قتلى ومفقودون في انهيار مبنى بغزة"
@@ -188,7 +224,7 @@
       "id": "a59a030b6a1bc955",
       "title_de": "Keine Zollfreiheit mehr für kleine Pakete aus EU-Ausland",
       "link": "https://orf.at/stories/3442362/",
-      "pubDate": "2026-09-16T21:08:37.953Z",
+      "pubDate": "2026-09-17T04:28:52.539Z",
       "category_de": "Wirtschaft",
       "category_ar": "اقتصاد",
       "title_ar": "إلغاء الإعفاء الجمركي للطرود الصغيرة القادمة من خارج الاتحاد الأوروبي"
@@ -197,7 +233,7 @@
       "id": "958230fc5923287f",
       "title_de": "Lateinamerika gefährlichste Region für Umweltschützer",
       "link": "https://orf.at/stories/3442359/",
-      "pubDate": "2026-09-16T21:08:37.953Z",
+      "pubDate": "2026-09-17T04:28:52.539Z",
       "category_de": "Ausland",
       "category_ar": "العالم",
       "title_ar": "أمريكا اللاتينية الأكثر خطورة على المدافعين عن البيئة"
@@ -206,28 +242,10 @@
       "id": "d9d056f6834aca9b",
       "title_de": "„Kurz wollte, dass Pilnacek bleibt“",
       "link": "https://orf.at/stories/3442317/",
-      "pubDate": "2026-09-16T21:08:37.953Z",
+      "pubDate": "2026-09-17T04:28:52.539Z",
       "category_de": "Politik",
       "category_ar": "سياسة",
       "title_ar": "\"كورتس أراد بقاء بيلناتشك\""
-    },
-    {
-      "id": "cf1d2646c7870d7b",
-      "title_de": "Regierung bringt Strompreisdeckel auf den Weg",
-      "link": "https://orf.at/stories/3442345/",
-      "pubDate": "2026-09-16T21:08:37.953Z",
-      "category_de": "Politik",
-      "category_ar": "سياسة",
-      "title_ar": "الحكومة تطرح سقفاً لأسعار الكهرباء"
-    },
-    {
-      "id": "000ffc643ae88423",
-      "title_de": "Polen: Russische Drohne trug Sprengsatz",
-      "link": "https://orf.at/stories/3442343/",
-      "pubDate": "2026-09-16T21:08:37.953Z",
-      "category_de": "Ausland",
-      "category_ar": "العالم",
-      "title_ar": "درون روسي يحمل عبوة ناسفة فوق الأراضي البولندية"
     }
   ]
 }
