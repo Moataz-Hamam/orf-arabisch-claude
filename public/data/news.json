@@ -1,14 +1,203 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-09-18T04:13:24.364Z",
+  "generatedAt": "2026-09-18T10:58:13.128Z",
   "source": "https://rss.orf.at/news.xml",
   "count": 27,
   "items": [
     {
+      "id": "18ace5987bf744be",
+      "title_de": "Viele Tote bei Anschlag mit Autobombe in Pakistan",
+      "link": "https://orf.at/stories/3442544/",
+      "pubDate": "2026-09-18T10:58:01.353Z",
+      "category_de": "Ausland",
+      "category_ar": "العالم",
+      "title_ar": "عشرات القتلى في هجوم بسيارة مفخخة في باكستان"
+    },
+    {
+      "id": "c5ea2ee1f16f6404",
+      "title_de": "A1-Vizechef Arnoldner wird neuer ÖBAG-Chef",
+      "link": "https://orf.at/stories/3442543/",
+      "pubDate": "2026-09-18T10:58:01.353Z",
+      "category_de": "Wirtschaft",
+      "category_ar": "اقتصاد",
+      "title_ar": "أرنولدنر نائب رئيس شركة إيه وان يتولى رئاسة الشركة الاتحادية للأصول"
+    },
+    {
+      "id": "fb9f6c72423f67ac",
+      "title_de": "Ukraine: 3,3 Mrd. Euro an EU-Mitteln für Rüstung",
+      "link": "https://orf.at/stories/3442542/",
+      "pubDate": "2026-09-18T10:58:01.353Z",
+      "category_de": "Ausland",
+      "category_ar": "العالم",
+      "title_ar": "أوكرانيا تحصل على 3.3 مليار يورو من الاتحاد الأوروبي لأغراض عسكرية"
+    },
+    {
+      "id": "99753fff196f1937",
+      "title_de": "Zehn Jahre Ausbildungspflicht: 36.000 Jugendliche begleitet",
+      "link": "https://orf.at/stories/3442537/",
+      "pubDate": "2026-09-18T10:58:01.353Z",
+      "category_de": "Chronik",
+      "category_ar": "حوادث",
+      "title_ar": "إلزامية التدريب المهني: 36 ألف شاب استفادوا من البرنامج"
+    },
+    {
+      "id": "27a22460a8b7d93a",
+      "title_de": "Ziel bleibt Klimaneutralität bis 2040",
+      "link": "https://orf.at/stories/3442521/",
+      "pubDate": "2026-09-18T10:58:01.353Z",
+      "category_de": "Wissenschaft",
+      "category_ar": "علوم",
+      "title_ar": "الحياد المناخي بحلول 2040 الهدف المنشود"
+    },
+    {
+      "id": "daf73d5717cfd987",
+      "title_de": "Dieselpreis legt weiter zu",
+      "link": "https://orf.at/stories/3442533/",
+      "pubDate": "2026-09-18T10:58:01.353Z",
+      "category_de": "Wirtschaft",
+      "category_ar": "اقتصاد",
+      "title_ar": "أسعار الديزل تواصل ارتفاعها"
+    },
+    {
+      "id": "3afc4bcdccfcc76b",
+      "title_de": "Philippinen: Tote nach Schüssen in Schule",
+      "link": "https://orf.at/stories/3442532/",
+      "pubDate": "2026-09-18T10:58:01.353Z",
+      "category_de": "Ausland",
+      "category_ar": "العالم",
+      "title_ar": "قتلى في إطلاق نار بمدرسة في الفلبين"
+    },
+    {
+      "id": "54d292408cbbef1b",
+      "title_de": "Tote nach russischen Angriffen westlich von Kiew",
+      "link": "https://orf.at/stories/3442529/",
+      "pubDate": "2026-09-18T10:58:01.353Z",
+      "category_de": "Ausland",
+      "category_ar": "العالم",
+      "title_ar": "قتلى في هجمات روسية غربي كييف"
+    },
+    {
+      "id": "54cf047921a0766d",
+      "title_de": "Verlegung in neues Aufnahmezentrum: Tumulte in Ceuta",
+      "link": "https://orf.at/stories/3442527/",
+      "pubDate": "2026-09-18T10:58:01.353Z",
+      "category_de": "Chronik",
+      "category_ar": "حوادث",
+      "title_ar": "اشتباكات في مركز استقبال سويتة عقب نقل اللاجئين"
+    },
+    {
+      "id": "3f0558db8d9e1a96",
+      "title_de": "Impfquoten bei Kindern in Europa seit CoV-Krise  rückläufig",
+      "link": "https://orf.at/stories/3442522/",
+      "pubDate": "2026-09-18T10:58:01.353Z",
+      "category_de": "Gesundheit",
+      "category_ar": "صحة",
+      "title_ar": "معدلات التطعيم لدى الأطفال في أوروبا تشهد انخفاضاً منذ أزمة كورونا"
+    },
+    {
+      "id": "4238574e5991b87f",
+      "title_de": "Dänemark nimmt CO2-Lager auf Meeresgrund in Betrieb",
+      "link": "https://orf.at/stories/3442519/",
+      "pubDate": "2026-09-18T10:58:01.353Z",
+      "category_de": "Wissenschaft",
+      "category_ar": "علوم",
+      "title_ar": "الدنمارك تشغل أول منصة تخزين ثاني أكسيد الكربون في قاع البحر"
+    },
+    {
+      "id": "280d627b938d5e0e",
+      "title_de": "60 Jahre US-Haft für Ex-Gefängnischef von Damaskus",
+      "link": "https://orf.at/stories/3442518/",
+      "pubDate": "2026-09-18T10:58:01.353Z",
+      "category_de": "Ausland",
+      "category_ar": "العالم",
+      "title_ar": "60 عاماً سجناً لرئيس سجن دمشق السابق"
+    },
+    {
+      "id": "da71d9e233796460",
+      "title_de": "Nestle will Geschäft in Russland fortsetzen",
+      "link": "https://orf.at/stories/3442516/",
+      "pubDate": "2026-09-18T10:58:01.353Z",
+      "category_de": "Wirtschaft",
+      "category_ar": "اقتصاد",
+      "title_ar": "نستله تواصل نشاطاتها التجارية في روسيا"
+    },
+    {
+      "id": "c2158f2f12faebda",
+      "title_de": "Differenzen zu Vorwurf von Kriegsverbrechen",
+      "link": "https://orf.at/stories/3442501/",
+      "pubDate": "2026-09-18T10:58:01.353Z",
+      "category_de": "Ausland",
+      "category_ar": "العالم",
+      "title_ar": "خلافات حول اتهامات بجرائم حرب"
+    },
+    {
+      "id": "a885fcc0c67c46b5",
+      "title_de": "Kopftuchverbot: Wiederkehr sieht Erfolg",
+      "link": "https://orf.at/stories/3442506/",
+      "pubDate": "2026-09-18T10:58:01.353Z",
+      "category_de": "Politik",
+      "category_ar": "سياسة",
+      "title_ar": "حظر الحجاب: فيدركير تحتسب نجاحاً"
+    },
+    {
+      "id": "2de5e7eb08380fd2",
+      "title_de": "Australien verschärft Visaregeln für Touristen drastisch",
+      "link": "https://orf.at/stories/3442504/",
+      "pubDate": "2026-09-18T10:58:01.353Z",
+      "category_de": "Ausland",
+      "category_ar": "العالم",
+      "title_ar": "أستراليا تشدد قواعد تأشيرات السياح بشكل كبير"
+    },
+    {
+      "id": "eaa96cf8d563c32a",
+      "title_de": "Japans Notenbank erhöht Leitzins",
+      "link": "https://orf.at/stories/3442503/",
+      "pubDate": "2026-09-18T10:58:01.353Z",
+      "category_de": "Wirtschaft",
+      "category_ar": "اقتصاد",
+      "title_ar": "البنك المركزي الياباني يرفع سعر الفائدة الأساسي"
+    },
+    {
+      "id": "62eb7d926f98a435",
+      "title_de": "Gewerkschaft vida will „anständige“  Lohnabschlüsse",
+      "link": "https://orf.at/stories/3442502/",
+      "pubDate": "2026-09-18T10:58:01.353Z",
+      "category_de": "Wirtschaft",
+      "category_ar": "اقتصاد",
+      "title_ar": "نقابة فيدا تسعى لتحقيق اتفاقيات رواتب لائقة"
+    },
+    {
+      "id": "d6386c7ef79dcf44",
+      "title_de": "Revolutionsgarde greift Tanker in Straße von Hormus an",
+      "link": "https://orf.at/stories/3442500/",
+      "pubDate": "2026-09-18T10:58:01.353Z",
+      "category_de": "Ausland",
+      "category_ar": "العالم",
+      "title_ar": "الحرس الثوري الإيراني يستهدف ناقلة نفط في مضيق هرمز"
+    },
+    {
+      "id": "1d40b1a38d45714f",
+      "title_de": "USA verkaufen Saudi-Arabien F-35-Kampfjets",
+      "link": "https://orf.at/stories/3442499/",
+      "pubDate": "2026-09-18T10:58:01.353Z",
+      "category_de": "Ausland",
+      "category_ar": "العالم",
+      "title_ar": "الولايات المتحدة تبيع السعودية مقاتلات إف-35"
+    },
+    {
+      "id": "969dd4c948a7101a",
+      "title_de": "Weißes Haus kritisierte UNO-Bericht über US-Kriegsverbrechen",
+      "link": "https://orf.at/stories/3442498/",
+      "pubDate": "2026-09-18T10:58:01.353Z",
+      "category_de": "Ausland",
+      "category_ar": "العالم",
+      "title_ar": "البيت الأبيض ينتقد تقرير أممي بشأن جرائم حرب أمريكية"
+    },
+    {
       "id": "178195b7ec5d322f",
       "title_de": "Duma-Wahl als Planspiel des Kreml",
       "link": "https://orf.at/stories/3442252/",
-      "pubDate": "2026-09-18T04:13:20.795Z",
+      "pubDate": "2026-09-18T10:58:01.353Z",
       "category_de": "Ausland",
       "category_ar": "العالم",
       "title_ar": "انتخابات الدوما: لعبة دعائية من الكرملين"
@@ -17,16 +206,16 @@
       "id": "5148d7b80deaa0a6",
       "title_de": "Richter schaltet sich in Baumaßnahmen am Kennedy Center ein",
       "link": "https://orf.at/stories/3442496/",
-      "pubDate": "2026-09-18T04:13:20.795Z",
+      "pubDate": "2026-09-18T10:58:01.353Z",
       "category_de": "Ausland",
       "category_ar": "العالم",
       "title_ar": "قاضٍ يتدخل في أعمال البناء بمركز كينيدي"
     },
     {
       "id": "851e75f8613fdf19",
-      "title_de": "Iran-Delegation darf zur UNO nach New York reisen",
+      "title_de": "Iran-Delegation darf zu UNO nach New York reisen",
       "link": "https://orf.at/stories/3442495/",
-      "pubDate": "2026-09-18T04:13:20.795Z",
+      "pubDate": "2026-09-18T10:58:01.353Z",
       "category_de": "Ausland",
       "category_ar": "العالم",
       "title_ar": "وفد إيراني يحصل على تصريح بالسفر إلى الأمم المتحدة في نيويورك"
@@ -35,7 +224,7 @@
       "id": "498bd9f42a45016e",
       "title_de": "Richterin in Stronach-Prozess: Keine Haftstrafe",
       "link": "https://orf.at/stories/3442494/",
-      "pubDate": "2026-09-18T04:13:20.795Z",
+      "pubDate": "2026-09-18T10:58:01.353Z",
       "category_de": "Chronik",
       "category_ar": "حوادث",
       "title_ar": "قاضية في قضية شتروناخ: لا حكم بالسجن"
@@ -44,208 +233,19 @@
       "id": "53377a94427ac19a",
       "title_de": "Mordserie an Frauen schockiert Südafrika",
       "link": "https://orf.at/stories/3442451/",
-      "pubDate": "2026-09-18T04:13:20.795Z",
+      "pubDate": "2026-09-18T10:58:01.353Z",
       "category_de": "Ausland",
       "category_ar": "العالم",
       "title_ar": "سلسلة جرائم قتل تهز جنوب أفريقيا"
     },
     {
-      "id": "19ffd1602f762972",
-      "title_de": "UNO meldet Anstieg von Todesfällen bei Bootsflüchtlingen",
-      "link": "https://orf.at/stories/3442493/",
-      "pubDate": "2026-09-18T04:13:20.795Z",
-      "category_de": "Ausland",
-      "category_ar": "العالم",
-      "title_ar": "الأمم المتحدة تحذر من ارتفاع الوفيات بين لاجئي القوارب"
-    },
-    {
-      "id": "f12de65815ace9f3",
-      "title_de": "Keine Lügen mehr in „Gentle Monster“",
-      "link": "https://orf.at/stories/3441902/",
-      "pubDate": "2026-09-18T04:13:20.795Z",
-      "category_de": "Kultur",
-      "category_ar": "ثقافة",
-      "title_ar": "إنهاء الأكاذيب في مسلسل \"جنتل مونستر\""
-    },
-    {
-      "id": "de4b9f40998b9fde",
-      "title_de": "Täterarbeit als präventiver Opferschutz",
-      "link": "https://orf.at/stories/3442453/",
-      "pubDate": "2026-09-18T04:13:20.795Z",
-      "category_de": "Chronik",
-      "category_ar": "حوادث",
-      "title_ar": "العمل مع الجناة كحماية وقائية للضحايا"
-    },
-    {
-      "id": "a578ca2f54cb5acd",
-      "title_de": "Putin stellt Nestle Russland unter Staatsverwaltung",
-      "link": "https://orf.at/stories/3442488/",
-      "pubDate": "2026-09-18T04:13:20.795Z",
-      "category_de": "Ausland",
-      "category_ar": "العالم",
-      "title_ar": "بوتين يضع نستله روسيا تحت الإدارة الحكومية"
-    },
-    {
-      "id": "75ef6c2dee32cfa8",
-      "title_de": "Missbrauch: Kinderpsychiaterin Sevecke im Studio",
-      "link": "https://orf.at/stories/3442487/",
-      "pubDate": "2026-09-18T04:13:20.795Z",
-      "category_de": "Gesundheit",
-      "category_ar": "صحة",
-      "title_ar": "الإساءة للأطفال: طبيبة نفسية متخصصة في الحوار"
-    },
-    {
-      "id": "0ad1fde020c4364d",
-      "title_de": "Wasserreserven der Welt geraten an Grenzen",
-      "link": "https://orf.at/stories/3442428/",
-      "pubDate": "2026-09-18T04:13:20.795Z",
-      "category_de": "Wissenschaft",
-      "category_ar": "علوم",
-      "title_ar": "احتياطيات المياه العالمية تقترب من حدودها القصوى"
-    },
-    {
-      "id": "205c01b99eea8f5a",
-      "title_de": "Durchfahrt von Bab al-Mandab: Italien mit Alleingang",
-      "link": "https://orf.at/stories/3442485/",
-      "pubDate": "2026-09-18T04:13:20.795Z",
-      "category_de": "Ausland",
-      "category_ar": "العالم",
-      "title_ar": "إيطاليا تعبر باب المندب بخطوة انفرادية"
-    },
-    {
-      "id": "90523e3912bbbea5",
-      "title_de": "RBI weist Kritik von Leerverkäufer zurück",
-      "link": "https://orf.at/stories/3442484/",
-      "pubDate": "2026-09-18T04:13:20.795Z",
-      "category_de": "Wirtschaft",
-      "category_ar": "اقتصاد",
-      "title_ar": "بنك التنمية الهندي يرفض انتقادات المراهنين على انخفاض الأسهم"
-    },
-    {
-      "id": "fbacc5011f387fad",
-      "title_de": "Regen drang in Florentiner Uffizien ein",
-      "link": "https://orf.at/stories/3442482/",
-      "pubDate": "2026-09-18T04:13:20.795Z",
-      "category_de": "Chronik",
-      "category_ar": "حوادث",
-      "title_ar": "تسرب مياه الأمطار إلى متحف أوفيتسي بفلورنسا"
-    },
-    {
-      "id": "cb6f5a7ef525d52c",
-      "title_de": "Feuer bei Nebeneingang von deutscher Synagoge gelegt",
-      "link": "https://orf.at/stories/3442480/",
-      "pubDate": "2026-09-18T04:13:20.795Z",
-      "category_de": "Chronik",
-      "category_ar": "حوادث",
-      "title_ar": "إشعال النار عند مدخل معبد يهودي في ألمانيا"
-    },
-    {
-      "id": "e5721e0866c9a031",
-      "title_de": "Mehrere Tote bei Angriffen im Jemen und in Saudi-Arabien",
-      "link": "https://orf.at/stories/3442476/",
-      "pubDate": "2026-09-18T04:13:20.795Z",
-      "category_de": "Ausland",
-      "category_ar": "العالم",
-      "title_ar": "سقوط قتلى في هجمات باليمن والسعودية"
-    },
-    {
-      "id": "fc8b6bc14c947976",
-      "title_de": "Zwölf Tunnel an Litauens Grenze zu Belarus entdeckt",
-      "link": "https://orf.at/stories/3442475/",
-      "pubDate": "2026-09-18T04:13:20.795Z",
-      "category_de": "Ausland",
-      "category_ar": "العالم",
-      "title_ar": "اكتشاف اثني عشر نفقاً على الحدود الليتوانية البيلاروسية"
-    },
-    {
-      "id": "62d97913b590b3bf",
-      "title_de": "Schweden vor Regierungswechsel",
-      "link": "https://orf.at/stories/3442450/",
-      "pubDate": "2026-09-18T04:13:20.795Z",
+      "id": "17cab053bd32fbc8",
+      "title_de": "FPÖ lud weitere Personen in Pilnacek-U-Ausschuss",
+      "link": "https://orf.at/stories/3442547/",
+      "pubDate": "2026-09-18T10:58:01.352Z",
       "category_de": "Politik",
       "category_ar": "سياسة",
-      "title_ar": "السويد على أبواب تغيير حكومي"
-    },
-    {
-      "id": "1a7bae7149853b02",
-      "title_de": "Ceuta: EU-Parlament kritisiert Spaniens Regierung",
-      "link": "https://orf.at/stories/3442471/",
-      "pubDate": "2026-09-18T04:13:20.795Z",
-      "category_de": "Ausland",
-      "category_ar": "العالم",
-      "title_ar": "البرلمان الأوروبي ينتقد الحكومة الإسبانية بشأن سبتة"
-    },
-    {
-      "id": "d350416c8349334e",
-      "title_de": "Malaria: Todesfall nahe Flughafen Frankfurt",
-      "link": "https://orf.at/stories/3442469/",
-      "pubDate": "2026-09-18T04:13:20.795Z",
-      "category_de": "Gesundheit",
-      "category_ar": "صحة",
-      "title_ar": "وفاة بالملاريا بالقرب من مطار فرانكفورت"
-    },
-    {
-      "id": "0c83e2227f61fe9c",
-      "title_de": "Todesfall durch Malaria nahe Frankfurter Flughafen",
-      "link": "https://orf.at/stories/3442458/",
-      "pubDate": "2026-09-18T04:13:20.795Z",
-      "category_de": "Gesundheit",
-      "category_ar": "صحة",
-      "title_ar": "حالة وفاة بسبب الملاريا قرب مطار فرانكفورت"
-    },
-    {
-      "id": "bc0e5e3c5ce1ee78",
-      "title_de": "EU-Kommission konkretisiert Verbotspläne",
-      "link": "https://orf.at/stories/3442423/",
-      "pubDate": "2026-09-18T04:13:20.795Z",
-      "category_de": "Politik",
-      "category_ar": "سياسة",
-      "title_ar": "المفوضية الأوروبية تفصل خطط الحظر"
-    },
-    {
-      "id": "70b03017b0a5cdbb",
-      "title_de": "Irland bleibt auch Song Contest in Bulgarien fern",
-      "link": "https://orf.at/stories/3442456/",
-      "pubDate": "2026-09-18T04:13:20.795Z",
-      "category_de": "Kultur",
-      "category_ar": "ثقافة",
-      "title_ar": "أيرلندا تتغيب عن مسابقة الأغنية في بلغاريا"
-    },
-    {
-      "id": "c3d55ed3064b1b34",
-      "title_de": "Schwedens Regierungschef tritt nach Wahlschlappe zurück",
-      "link": "https://orf.at/stories/3442454/",
-      "pubDate": "2026-09-18T04:13:20.795Z",
-      "category_de": "Politik",
-      "category_ar": "سياسة",
-      "title_ar": "رئيس الحكومة السويدي يستقيل بعد خسارة انتخابية"
-    },
-    {
-      "id": "8c9629f76dfea536",
-      "title_de": "Thurnher: „Deutungshoheit über ORF zurückgewinnen“",
-      "link": "https://orf.at/stories/3442452/",
-      "pubDate": "2026-09-18T04:13:20.795Z",
-      "category_de": "Sonstiges",
-      "category_ar": "عام",
-      "title_ar": "ثورنهير: \"استعادة السلطة التفسيرية على هيئة البث النمساوية\""
-    },
-    {
-      "id": "32070780cf31c0f1",
-      "title_de": "Chaos um Ed Sheerans Tournee mündet in Spendenreigen",
-      "link": "https://orf.at/stories/3442425/",
-      "pubDate": "2026-09-18T04:13:20.795Z",
-      "category_de": "Kultur",
-      "category_ar": "ثقافة",
-      "title_ar": "فوضى جولة إد شيران تتحول إلى سلسلة تبرعات"
-    },
-    {
-      "id": "0f246c35e5f57b6d",
-      "title_de": "Lesepaten in Schulen: Programm wird ausgebaut",
-      "link": "https://orf.at/stories/3442449/",
-      "pubDate": "2026-09-18T04:13:20.795Z",
-      "category_de": "Sonstiges",
-      "category_ar": "عام",
-      "title_ar": "برنامج الأطفال القارئين في المدارس يشهد توسعاً"
+      "title_ar": "حزب الحرية النمساوي يستدعي شخصيات إضافية لجلسات لجنة التحقيق"
     }
   ]
 }
