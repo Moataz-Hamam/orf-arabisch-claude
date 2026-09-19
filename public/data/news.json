@@ -1,14 +1,131 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-09-19T04:10:02.058Z",
+  "generatedAt": "2026-09-19T10:41:47.337Z",
   "source": "https://rss.orf.at/news.xml",
-  "count": 27,
+  "count": 28,
   "items": [
+    {
+      "id": "074821375067eede",
+      "title_de": "Studie sieht soziales Ungleichgewicht bei „Aktivpension“",
+      "link": "https://orf.at/stories/3442631/",
+      "pubDate": "2026-09-19T10:41:38.338Z",
+      "category_de": "Wissenschaft",
+      "category_ar": "علوم",
+      "title_ar": "دراسة تحذر من عدم المساواة الاجتماعية في برنامج \"التقاعد النشط\""
+    },
+    {
+      "id": "1d32af57eb418055",
+      "title_de": "SPÖ drängt auf Aktionsplan gegen „Homo-Hasser“",
+      "link": "https://orf.at/stories/3442630/",
+      "pubDate": "2026-09-19T10:41:38.338Z",
+      "category_de": "Politik",
+      "category_ar": "سياسة",
+      "title_ar": "الحزب الاشتراكي الديمقراطي يطالب بخطة عمل ضد \"كارهي المثليين\""
+    },
+    {
+      "id": "0397be6883fcd622",
+      "title_de": "NEOS will höhere Unigebühren und mehr Studienleistung",
+      "link": "https://orf.at/stories/3442629/",
+      "pubDate": "2026-09-19T10:41:38.338Z",
+      "category_de": "Politik",
+      "category_ar": "سياسة",
+      "title_ar": "حزب نيوس يطالب برفع رسوم الجامعات وزيادة متطلبات الدراسة"
+    },
+    {
+      "id": "9db94fb7bc488b7e",
+      "title_de": "UNO-Sicherheitsrat verurteilt Huthi-Angriffe auf Saudi-Arabien",
+      "link": "https://orf.at/stories/3442628/",
+      "pubDate": "2026-09-19T10:41:38.338Z",
+      "category_de": "Ausland",
+      "category_ar": "العالم",
+      "title_ar": "مجلس الأمن الدولي يدين هجمات الحوثيين على السعودية"
+    },
+    {
+      "id": "85eb1243610e1ce1",
+      "title_de": "Gegenseitige Angriffe mit Toten und Verletzten",
+      "link": "https://orf.at/stories/3442627/",
+      "pubDate": "2026-09-19T10:41:38.338Z",
+      "category_de": "Ausland",
+      "category_ar": "العالم",
+      "title_ar": "هجمات متبادلة تسفر عن قتلى وجرحى"
+    },
+    {
+      "id": "d332aa37ab3c9fdd",
+      "title_de": "Pakistan: Bereits über 30 Tote nach Angriff auf Polizeiwache",
+      "link": "https://orf.at/stories/3442626/",
+      "pubDate": "2026-09-19T10:41:38.338Z",
+      "category_de": "Ausland",
+      "category_ar": "العالم",
+      "title_ar": "باكستان: تجاوز عدد الضحايا 30 قتيلاً في هجوم على مركز شرطة"
+    },
+    {
+      "id": "66574a4a2958a777",
+      "title_de": "Armutskonferenz übt Kritik an Entwurf für Sozialhilfe",
+      "link": "https://orf.at/stories/3442625/",
+      "pubDate": "2026-09-19T10:41:38.338Z",
+      "category_de": "Politik",
+      "category_ar": "سياسة",
+      "title_ar": "مؤتمر الفقر ينتقد مشروع الإصلاح الاجتماعي"
+    },
+    {
+      "id": "f145442e9458258e",
+      "title_de": "Behörden in Saudi-Arabien rufen Luftalarm in Riad aus",
+      "link": "https://orf.at/stories/3442624/",
+      "pubDate": "2026-09-19T10:41:38.338Z",
+      "category_de": "Ausland",
+      "category_ar": "العالم",
+      "title_ar": "السلطات السعودية تأمر بإطلاق صفارات الإنذار الجوي في الرياض"
+    },
+    {
+      "id": "1d9f2b4ab351531c",
+      "title_de": "Ex-Sicherheitsberater Bolton: Trump hat NATO sehr belastet",
+      "link": "https://orf.at/stories/3442623/",
+      "pubDate": "2026-09-19T10:41:38.338Z",
+      "category_de": "Ausland",
+      "category_ar": "العالم",
+      "title_ar": "مستشار الأمن الأمريكي السابق بولتون: ترامب أضر بحلف الناتو بشدة"
+    },
+    {
+      "id": "0205c184ea34120f",
+      "title_de": "Googles KI Gemini hackte ebenfalls andere Unternehmen",
+      "link": "https://orf.at/stories/3442622/",
+      "pubDate": "2026-09-19T10:41:38.338Z",
+      "category_de": "Wissenschaft",
+      "category_ar": "علوم",
+      "title_ar": "ذكاء جوجل الاصطناعي جيميني قام أيضاً باختراق شركات أخرى"
+    },
+    {
+      "id": "048c961b9f066b9c",
+      "title_de": "Befragung über Euro-Scheine in Zielgerader",
+      "link": "https://orf.at/stories/3442229/",
+      "pubDate": "2026-09-19T10:41:38.338Z",
+      "category_de": "Wirtschaft",
+      "category_ar": "اقتصاد",
+      "title_ar": "استطلاع آراء حول فئات اليورو في مراحله الأخيرة"
+    },
+    {
+      "id": "4c1a2d2df3dbb050",
+      "title_de": "Trump setzt neue US-Sanktionen gegen Russland in Kraft",
+      "link": "https://orf.at/stories/3442620/",
+      "pubDate": "2026-09-19T10:41:38.338Z",
+      "category_de": "Ausland",
+      "category_ar": "العالم",
+      "title_ar": "ترامب يفرض عقوبات أمريكية جديدة على روسيا"
+    },
+    {
+      "id": "452e0ea3ada4e4bb",
+      "title_de": "USA und Dänemark einigen sich zu Grönland",
+      "link": "https://orf.at/stories/3442617/",
+      "pubDate": "2026-09-19T10:41:38.338Z",
+      "category_de": "Ausland",
+      "category_ar": "العالم",
+      "title_ar": "الولايات المتحدة والدنمارك تتوصلان لاتفاق بشأن غرينلاند"
+    },
     {
       "id": "8e0c726f6a0fba0e",
       "title_de": "Gold aus Venezuela könnte übersiedeln",
       "link": "https://orf.at/stories/3442531/",
-      "pubDate": "2026-09-19T04:10:02.056Z",
+      "pubDate": "2026-09-19T10:41:38.338Z",
       "category_de": "Wirtschaft",
       "category_ar": "اقتصاد",
       "title_ar": "الذهب الفنزويلي قد ينتقل إلى جهات أخرى"
@@ -17,7 +134,7 @@
       "id": "3a4d291d71bc8d11",
       "title_de": "Trump verkündet Einigung mit Dänemark über Grönland",
       "link": "https://orf.at/stories/3442618/",
-      "pubDate": "2026-09-19T04:10:02.056Z",
+      "pubDate": "2026-09-19T10:41:38.338Z",
       "category_de": "Ausland",
       "category_ar": "العالم",
       "title_ar": "ترامب يعلن التوصل لاتفاق مع الدنمارك حول غرينلاند"
@@ -26,7 +143,7 @@
       "id": "fc8f201eeb254ddb",
       "title_de": "Trump erteilt Medien Hausverbot",
       "link": "https://orf.at/stories/3442613/",
-      "pubDate": "2026-09-19T04:10:02.056Z",
+      "pubDate": "2026-09-19T10:41:38.338Z",
       "category_de": "Politik",
       "category_ar": "سياسة",
       "title_ar": "ترامب يفرض حظراً إعلامياً على وسائل إعلام معينة"
@@ -35,7 +152,7 @@
       "id": "610042b579c71453",
       "title_de": "Erwin Wurm mit Sobotkas Präsidentenporträt beauftragt",
       "link": "https://orf.at/stories/3442612/",
-      "pubDate": "2026-09-19T04:10:02.056Z",
+      "pubDate": "2026-09-19T10:41:38.338Z",
       "category_de": "Kultur",
       "category_ar": "ثقافة",
       "title_ar": "الفنان إروين فورم يُكلف برسم صورة الرئيس سوبوتكا الرسمية"
@@ -44,7 +161,7 @@
       "id": "fe0e038f58ff4107",
       "title_de": "Trump verhängt Hausverbot für CNN, MS NOW und Politico",
       "link": "https://orf.at/stories/3442611/",
-      "pubDate": "2026-09-19T04:10:02.056Z",
+      "pubDate": "2026-09-19T10:41:38.338Z",
       "category_de": "Ausland",
       "category_ar": "العالم",
       "title_ar": "ترامب يفرض حظراً على دخول صحفيي CNN و MSNBC وبوليتيكو"
@@ -53,7 +170,7 @@
       "id": "467b6f00aa5ca4ab",
       "title_de": "Deutschland: Einigung auf Tankrabatt und Spritpreisbremse",
       "link": "https://orf.at/stories/3442609/",
-      "pubDate": "2026-09-19T04:10:02.056Z",
+      "pubDate": "2026-09-19T10:41:38.338Z",
       "category_de": "Wirtschaft",
       "category_ar": "اقتصاد",
       "title_ar": "ألمانيا تتوصل لاتفاق بشأن خفض أسعار الوقود والبنزين"
@@ -62,7 +179,7 @@
       "id": "4312ee6026ec8f36",
       "title_de": "Scharfe Kritik von Umweltorganisationen",
       "link": "https://orf.at/stories/3442535/",
-      "pubDate": "2026-09-19T04:10:02.056Z",
+      "pubDate": "2026-09-19T10:41:38.338Z",
       "category_de": "Sonstiges",
       "category_ar": "عام",
       "title_ar": "منظمات بيئية تشن انتقادات حادة"
@@ -71,7 +188,7 @@
       "id": "cff2501ca3ddad36",
       "title_de": "Israels Außenminister lobt Kickl-Rede in Straßburg",
       "link": "https://orf.at/stories/3442607/",
-      "pubDate": "2026-09-19T04:10:02.056Z",
+      "pubDate": "2026-09-19T10:41:38.338Z",
       "category_de": "Ausland",
       "category_ar": "العالم",
       "title_ar": "وزير الخارجية الإسرائيلي يشيد بخطاب كيكل في ستراسبورغ"
@@ -80,172 +197,64 @@
       "id": "abd04aaba13ca26c",
       "title_de": "Nächster großflächiger Stromausfall in Kuba",
       "link": "https://orf.at/stories/3442606/",
-      "pubDate": "2026-09-19T04:10:02.056Z",
+      "pubDate": "2026-09-19T10:41:38.338Z",
       "category_de": "Chronik",
       "category_ar": "حوادث",
       "title_ar": "انقطاع كهربائي جديد على نطاق واسع في كوبا"
     },
     {
-      "id": "8f44791e5c09bd29",
-      "title_de": "Serienmörder in Brasilien gefasst",
-      "link": "https://orf.at/stories/3442605/",
-      "pubDate": "2026-09-19T04:10:02.056Z",
+      "id": "3d81697b52db8176",
+      "title_de": "191. Münchner Oktoberfest ist eröffnet",
+      "link": "https://orf.at/stories/3442650/",
+      "pubDate": "2026-09-19T10:41:38.337Z",
       "category_de": "Chronik",
       "category_ar": "حوادث",
-      "title_ar": "القبض على قاتل متسلسل في البرازيل"
+      "title_ar": "افتتاح فعاليات مهرجان ميونخ أوكتوبرفست الـ 191"
     },
     {
-      "id": "3ce52929d2b85c1c",
-      "title_de": "Klimaminister Norbert Totschnig zu Gast",
-      "link": "https://orf.at/stories/3442600/",
-      "pubDate": "2026-09-19T04:10:02.056Z",
-      "category_de": "Politik",
-      "category_ar": "سياسة",
-      "title_ar": "وزير المناخ نوربرت توتشنيج في زيارة"
-    },
-    {
-      "id": "81f2eec48b59b0fc",
-      "title_de": "Ölreiche Provinz im Visier der Huthi-Miliz",
-      "link": "https://orf.at/stories/3442538/",
-      "pubDate": "2026-09-19T04:10:02.056Z",
+      "id": "f443047d1b47dcdb",
+      "title_de": "Dänemark hofft auf „Ende der Unsicherheit“",
+      "link": "https://orf.at/stories/3442645/",
+      "pubDate": "2026-09-19T10:41:38.337Z",
       "category_de": "Ausland",
       "category_ar": "العالم",
-      "title_ar": "مليشيا الحوثي تستهدف محافظة غنية بالنفط"
+      "title_ar": "الدنمارك تأمل في \"إنهاء حالة عدم اليقين\""
     },
     {
-      "id": "fc358d3df993a4c0",
-      "title_de": "Böhmermann hört mit „ZDF Magazin Royale“ auf",
-      "link": "https://orf.at/stories/3442598/",
-      "pubDate": "2026-09-19T04:10:02.056Z",
+      "id": "2833d293b3ea0022",
+      "title_de": "Washington: Menschenkette um Kennedy Center",
+      "link": "https://orf.at/stories/3442648/",
+      "pubDate": "2026-09-19T10:41:38.337Z",
+      "category_de": "Ausland",
+      "category_ar": "العالم",
+      "title_ar": "واشنطن: سلسلة بشرية حول مركز كينيدي"
+    },
+    {
+      "id": "24e76986d5b1c01d",
+      "title_de": "Russland-Wahl: Bericht über Hackerangriff in Moskau",
+      "link": "https://orf.at/stories/3442647/",
+      "pubDate": "2026-09-19T10:41:38.337Z",
+      "category_de": "Ausland",
+      "category_ar": "العالم",
+      "title_ar": "انتخابات روسيا: تقرير عن هجوم إلكتروني في موسكو"
+    },
+    {
+      "id": "d7d461fb078307b8",
+      "title_de": "Komponist Duncan Sheik 56-jährig verstorben",
+      "link": "https://orf.at/stories/3442642/",
+      "pubDate": "2026-09-19T10:41:38.337Z",
       "category_de": "Kultur",
       "category_ar": "ثقافة",
-      "title_ar": "بوملرمان يودع برنامج \"مجلة ZDF الملكية\""
+      "title_ar": "وفاة الموسيقار دانكان شيك عن 56 سنة"
     },
     {
-      "id": "5f148fb984d31cbc",
-      "title_de": "IAEA: Drohne traf Kühlturm von russischem AKW Kursk",
-      "link": "https://orf.at/stories/3442597/",
-      "pubDate": "2026-09-19T04:10:02.056Z",
+      "id": "78d0d4752bc79616",
+      "title_de": "Bericht: Iran richtet angeblichen Spion hin",
+      "link": "https://orf.at/stories/3442637/",
+      "pubDate": "2026-09-19T10:41:38.337Z",
       "category_de": "Ausland",
       "category_ar": "العالم",
-      "title_ar": "الوكالة الدولية للطاقة الذرية: درون استهدف برج تبريد في محطة كورسك النووية الروسية"
-    },
-    {
-      "id": "96ab1ca207568d6f",
-      "title_de": "WKO-Betriebsrat zieht wegen Gehaltserhöhung vor OGH",
-      "link": "https://orf.at/stories/3442594/",
-      "pubDate": "2026-09-19T04:10:02.056Z",
-      "category_de": "Wirtschaft",
-      "category_ar": "اقتصاد",
-      "title_ar": "مجلس عمال غرفة التجارة النمساوية يطعن في قرار الأجور أمام المحكمة العليا"
-    },
-    {
-      "id": "fe190f4e19a2ad69",
-      "title_de": "Proteste in Nigeria nach Tod von 37 inhaftierten Goldgräbern",
-      "link": "https://orf.at/stories/3442593/",
-      "pubDate": "2026-09-19T04:10:02.056Z",
-      "category_de": "Ausland",
-      "category_ar": "العالم",
-      "title_ar": "احتجاجات في نيجيريا بعد وفاة 37 عامل تعدين ذهب في الحجز"
-    },
-    {
-      "id": "766b5dbf41aa0765",
-      "title_de": "EU und Kiew kritisieren Wahlen in Russland scharf",
-      "link": "https://orf.at/stories/3442579/",
-      "pubDate": "2026-09-19T04:10:02.056Z",
-      "category_de": "Ausland",
-      "category_ar": "العالم",
-      "title_ar": "الاتحاد الأوروبي وكييف ينتقدان بشدة الانتخابات الروسية"
-    },
-    {
-      "id": "1a8ffdb8ead3d05b",
-      "title_de": "Picasso trifft auf Bacon",
-      "link": "https://orf.at/stories/3441629/",
-      "pubDate": "2026-09-19T04:10:02.056Z",
-      "category_de": "Kultur",
-      "category_ar": "ثقافة",
-      "title_ar": "لقاء بين بيكاسو وبيكون في المعرض"
-    },
-    {
-      "id": "a2aeacc45f70f74a",
-      "title_de": "Gesundheitspersonal altert: WHO warnt vor Lücke",
-      "link": "https://orf.at/stories/3442577/",
-      "pubDate": "2026-09-19T04:10:02.056Z",
-      "category_de": "Gesundheit",
-      "category_ar": "صحة",
-      "title_ar": "منظمة الصحة العالمية تحذر من شيخوخة الكادر الطبي والفراغ الناشئ"
-    },
-    {
-      "id": "4f49953e3f8490b1",
-      "title_de": "Russische Attacken: Macron will Schutzplan für Infrastruktur",
-      "link": "https://orf.at/stories/3442576/",
-      "pubDate": "2026-09-19T04:10:02.056Z",
-      "category_de": "Ausland",
-      "category_ar": "العالم",
-      "title_ar": "ماكرون يدعو إلى خطة حماية أوروبية من الهجمات الروسية على البنية التحتية"
-    },
-    {
-      "id": "81dbabf5835731c8",
-      "title_de": "UNO-Bericht: Über 1.000 Fälle sexueller Gewalt",
-      "link": "https://orf.at/stories/3442571/",
-      "pubDate": "2026-09-19T04:10:02.056Z",
-      "category_de": "Ausland",
-      "category_ar": "العالم",
-      "title_ar": "تقرير الأمم المتحدة: أكثر من ألف حالة عنف جنسي"
-    },
-    {
-      "id": "0aab4594d28cdf59",
-      "title_de": "Kein Ermittlungsverfahren gegen ORF-Stiftungsratschef",
-      "link": "https://orf.at/stories/3442565/",
-      "pubDate": "2026-09-19T04:10:02.056Z",
-      "category_de": "Politik",
-      "category_ar": "سياسة",
-      "title_ar": "عدم فتح تحقيق جنائي ضد رئيس مجلس الإشراف على الإذاعة والتلفزيون النمساوية"
-    },
-    {
-      "id": "b3ee2bb92cc0b0a1",
-      "title_de": "Ex-OpenAI-Forscher warnt vor zu schneller KI-Entwicklung",
-      "link": "https://orf.at/stories/3442564/",
-      "pubDate": "2026-09-19T04:10:02.056Z",
-      "category_de": "Wissenschaft",
-      "category_ar": "علوم",
-      "title_ar": "باحث سابق في أوبن إيه آي يحذر من الإسراع في تطوير الذكاء الاصطناعي"
-    },
-    {
-      "id": "96cfc7eff1d1a1c3",
-      "title_de": "Rufe nach Übergewinnsteuer werden lauter",
-      "link": "https://orf.at/stories/3442546/",
-      "pubDate": "2026-09-19T04:10:02.056Z",
-      "category_de": "Wirtschaft",
-      "category_ar": "اقتصاد",
-      "title_ar": "أصوات متزايدة تطالب بفرض ضريبة على الأرباح الفائضة"
-    },
-    {
-      "id": "a9ac22092b66236b",
-      "title_de": "GB: Parlament untersucht Song-Contest-Versagen",
-      "link": "https://orf.at/stories/3442558/",
-      "pubDate": "2026-09-19T04:10:02.056Z",
-      "category_de": "Kultur",
-      "category_ar": "ثقافة",
-      "title_ar": "البرلمان البريطاني يحقق في فشل بريطانيا بمسابقة الأغنية الأوروبية"
-    },
-    {
-      "id": "da3e17580f244829",
-      "title_de": "Schwedens Oppositionschefin mit Regierungsbildung beauftragt",
-      "link": "https://orf.at/stories/3442559/",
-      "pubDate": "2026-09-19T04:10:02.056Z",
-      "category_de": "Politik",
-      "category_ar": "سياسة",
-      "title_ar": "رئيسة المعارضة السويدية تكلف بتشكيل حكومة جديدة"
-    },
-    {
-      "id": "452e0ea3ada4e4bb",
-      "title_de": "USA und Dänemark einigen sich zu Grönland",
-      "link": "https://orf.at/stories/3442617/",
-      "pubDate": "2026-09-19T04:10:02.055Z",
-      "category_de": "Ausland",
-      "category_ar": "العالم",
-      "title_ar": "الولايات المتحدة والدنمارك تتوصلان لاتفاق بشأن غرينلاند"
+      "title_ar": "تقرير: إيران تعدم جاسوساً مزعوماً"
     }
   ]
 }
