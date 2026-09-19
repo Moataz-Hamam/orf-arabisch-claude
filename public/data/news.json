@@ -1,212 +1,23 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-09-19T10:41:47.337Z",
+  "generatedAt": "2026-09-19T15:43:51.654Z",
   "source": "https://rss.orf.at/news.xml",
-  "count": 28,
+  "count": 25,
   "items": [
     {
-      "id": "074821375067eede",
-      "title_de": "Studie sieht soziales Ungleichgewicht bei „Aktivpension“",
-      "link": "https://orf.at/stories/3442631/",
-      "pubDate": "2026-09-19T10:41:38.338Z",
-      "category_de": "Wissenschaft",
-      "category_ar": "علوم",
-      "title_ar": "دراسة تحذر من عدم المساواة الاجتماعية في برنامج \"التقاعد النشط\""
-    },
-    {
-      "id": "1d32af57eb418055",
-      "title_de": "SPÖ drängt auf Aktionsplan gegen „Homo-Hasser“",
-      "link": "https://orf.at/stories/3442630/",
-      "pubDate": "2026-09-19T10:41:38.338Z",
-      "category_de": "Politik",
-      "category_ar": "سياسة",
-      "title_ar": "الحزب الاشتراكي الديمقراطي يطالب بخطة عمل ضد \"كارهي المثليين\""
-    },
-    {
-      "id": "0397be6883fcd622",
-      "title_de": "NEOS will höhere Unigebühren und mehr Studienleistung",
-      "link": "https://orf.at/stories/3442629/",
-      "pubDate": "2026-09-19T10:41:38.338Z",
-      "category_de": "Politik",
-      "category_ar": "سياسة",
-      "title_ar": "حزب نيوس يطالب برفع رسوم الجامعات وزيادة متطلبات الدراسة"
-    },
-    {
-      "id": "9db94fb7bc488b7e",
-      "title_de": "UNO-Sicherheitsrat verurteilt Huthi-Angriffe auf Saudi-Arabien",
-      "link": "https://orf.at/stories/3442628/",
-      "pubDate": "2026-09-19T10:41:38.338Z",
+      "id": "b5077dd1482964b5",
+      "title_de": "CNN: KI-Fehler führte beinahe zu US-Militäreinsatz",
+      "link": "https://orf.at/stories/3442653/",
+      "pubDate": "2026-09-19T15:43:41.153Z",
       "category_de": "Ausland",
       "category_ar": "العالم",
-      "title_ar": "مجلس الأمن الدولي يدين هجمات الحوثيين على السعودية"
-    },
-    {
-      "id": "85eb1243610e1ce1",
-      "title_de": "Gegenseitige Angriffe mit Toten und Verletzten",
-      "link": "https://orf.at/stories/3442627/",
-      "pubDate": "2026-09-19T10:41:38.338Z",
-      "category_de": "Ausland",
-      "category_ar": "العالم",
-      "title_ar": "هجمات متبادلة تسفر عن قتلى وجرحى"
-    },
-    {
-      "id": "d332aa37ab3c9fdd",
-      "title_de": "Pakistan: Bereits über 30 Tote nach Angriff auf Polizeiwache",
-      "link": "https://orf.at/stories/3442626/",
-      "pubDate": "2026-09-19T10:41:38.338Z",
-      "category_de": "Ausland",
-      "category_ar": "العالم",
-      "title_ar": "باكستان: تجاوز عدد الضحايا 30 قتيلاً في هجوم على مركز شرطة"
-    },
-    {
-      "id": "66574a4a2958a777",
-      "title_de": "Armutskonferenz übt Kritik an Entwurf für Sozialhilfe",
-      "link": "https://orf.at/stories/3442625/",
-      "pubDate": "2026-09-19T10:41:38.338Z",
-      "category_de": "Politik",
-      "category_ar": "سياسة",
-      "title_ar": "مؤتمر الفقر ينتقد مشروع الإصلاح الاجتماعي"
-    },
-    {
-      "id": "f145442e9458258e",
-      "title_de": "Behörden in Saudi-Arabien rufen Luftalarm in Riad aus",
-      "link": "https://orf.at/stories/3442624/",
-      "pubDate": "2026-09-19T10:41:38.338Z",
-      "category_de": "Ausland",
-      "category_ar": "العالم",
-      "title_ar": "السلطات السعودية تأمر بإطلاق صفارات الإنذار الجوي في الرياض"
-    },
-    {
-      "id": "1d9f2b4ab351531c",
-      "title_de": "Ex-Sicherheitsberater Bolton: Trump hat NATO sehr belastet",
-      "link": "https://orf.at/stories/3442623/",
-      "pubDate": "2026-09-19T10:41:38.338Z",
-      "category_de": "Ausland",
-      "category_ar": "العالم",
-      "title_ar": "مستشار الأمن الأمريكي السابق بولتون: ترامب أضر بحلف الناتو بشدة"
-    },
-    {
-      "id": "0205c184ea34120f",
-      "title_de": "Googles KI Gemini hackte ebenfalls andere Unternehmen",
-      "link": "https://orf.at/stories/3442622/",
-      "pubDate": "2026-09-19T10:41:38.338Z",
-      "category_de": "Wissenschaft",
-      "category_ar": "علوم",
-      "title_ar": "ذكاء جوجل الاصطناعي جيميني قام أيضاً باختراق شركات أخرى"
-    },
-    {
-      "id": "048c961b9f066b9c",
-      "title_de": "Befragung über Euro-Scheine in Zielgerader",
-      "link": "https://orf.at/stories/3442229/",
-      "pubDate": "2026-09-19T10:41:38.338Z",
-      "category_de": "Wirtschaft",
-      "category_ar": "اقتصاد",
-      "title_ar": "استطلاع آراء حول فئات اليورو في مراحله الأخيرة"
-    },
-    {
-      "id": "4c1a2d2df3dbb050",
-      "title_de": "Trump setzt neue US-Sanktionen gegen Russland in Kraft",
-      "link": "https://orf.at/stories/3442620/",
-      "pubDate": "2026-09-19T10:41:38.338Z",
-      "category_de": "Ausland",
-      "category_ar": "العالم",
-      "title_ar": "ترامب يفرض عقوبات أمريكية جديدة على روسيا"
-    },
-    {
-      "id": "452e0ea3ada4e4bb",
-      "title_de": "USA und Dänemark einigen sich zu Grönland",
-      "link": "https://orf.at/stories/3442617/",
-      "pubDate": "2026-09-19T10:41:38.338Z",
-      "category_de": "Ausland",
-      "category_ar": "العالم",
-      "title_ar": "الولايات المتحدة والدنمارك تتوصلان لاتفاق بشأن غرينلاند"
-    },
-    {
-      "id": "8e0c726f6a0fba0e",
-      "title_de": "Gold aus Venezuela könnte übersiedeln",
-      "link": "https://orf.at/stories/3442531/",
-      "pubDate": "2026-09-19T10:41:38.338Z",
-      "category_de": "Wirtschaft",
-      "category_ar": "اقتصاد",
-      "title_ar": "الذهب الفنزويلي قد ينتقل إلى جهات أخرى"
-    },
-    {
-      "id": "3a4d291d71bc8d11",
-      "title_de": "Trump verkündet Einigung mit Dänemark über Grönland",
-      "link": "https://orf.at/stories/3442618/",
-      "pubDate": "2026-09-19T10:41:38.338Z",
-      "category_de": "Ausland",
-      "category_ar": "العالم",
-      "title_ar": "ترامب يعلن التوصل لاتفاق مع الدنمارك حول غرينلاند"
-    },
-    {
-      "id": "fc8f201eeb254ddb",
-      "title_de": "Trump erteilt Medien Hausverbot",
-      "link": "https://orf.at/stories/3442613/",
-      "pubDate": "2026-09-19T10:41:38.338Z",
-      "category_de": "Politik",
-      "category_ar": "سياسة",
-      "title_ar": "ترامب يفرض حظراً إعلامياً على وسائل إعلام معينة"
-    },
-    {
-      "id": "610042b579c71453",
-      "title_de": "Erwin Wurm mit Sobotkas Präsidentenporträt beauftragt",
-      "link": "https://orf.at/stories/3442612/",
-      "pubDate": "2026-09-19T10:41:38.338Z",
-      "category_de": "Kultur",
-      "category_ar": "ثقافة",
-      "title_ar": "الفنان إروين فورم يُكلف برسم صورة الرئيس سوبوتكا الرسمية"
-    },
-    {
-      "id": "fe0e038f58ff4107",
-      "title_de": "Trump verhängt Hausverbot für CNN, MS NOW und Politico",
-      "link": "https://orf.at/stories/3442611/",
-      "pubDate": "2026-09-19T10:41:38.338Z",
-      "category_de": "Ausland",
-      "category_ar": "العالم",
-      "title_ar": "ترامب يفرض حظراً على دخول صحفيي CNN و MSNBC وبوليتيكو"
-    },
-    {
-      "id": "467b6f00aa5ca4ab",
-      "title_de": "Deutschland: Einigung auf Tankrabatt und Spritpreisbremse",
-      "link": "https://orf.at/stories/3442609/",
-      "pubDate": "2026-09-19T10:41:38.338Z",
-      "category_de": "Wirtschaft",
-      "category_ar": "اقتصاد",
-      "title_ar": "ألمانيا تتوصل لاتفاق بشأن خفض أسعار الوقود والبنزين"
-    },
-    {
-      "id": "4312ee6026ec8f36",
-      "title_de": "Scharfe Kritik von Umweltorganisationen",
-      "link": "https://orf.at/stories/3442535/",
-      "pubDate": "2026-09-19T10:41:38.338Z",
-      "category_de": "Sonstiges",
-      "category_ar": "عام",
-      "title_ar": "منظمات بيئية تشن انتقادات حادة"
-    },
-    {
-      "id": "cff2501ca3ddad36",
-      "title_de": "Israels Außenminister lobt Kickl-Rede in Straßburg",
-      "link": "https://orf.at/stories/3442607/",
-      "pubDate": "2026-09-19T10:41:38.338Z",
-      "category_de": "Ausland",
-      "category_ar": "العالم",
-      "title_ar": "وزير الخارجية الإسرائيلي يشيد بخطاب كيكل في ستراسبورغ"
-    },
-    {
-      "id": "abd04aaba13ca26c",
-      "title_de": "Nächster großflächiger Stromausfall in Kuba",
-      "link": "https://orf.at/stories/3442606/",
-      "pubDate": "2026-09-19T10:41:38.338Z",
-      "category_de": "Chronik",
-      "category_ar": "حوادث",
-      "title_ar": "انقطاع كهربائي جديد على نطاق واسع في كوبا"
+      "title_ar": "خطأ في الذكاء الاصطناعي يكاد يقود إلى تدخل عسكري أمريكي"
     },
     {
       "id": "3d81697b52db8176",
       "title_de": "191. Münchner Oktoberfest ist eröffnet",
       "link": "https://orf.at/stories/3442650/",
-      "pubDate": "2026-09-19T10:41:38.337Z",
+      "pubDate": "2026-09-19T15:43:41.153Z",
       "category_de": "Chronik",
       "category_ar": "حوادث",
       "title_ar": "افتتاح فعاليات مهرجان ميونخ أوكتوبرفست الـ 191"
@@ -215,7 +26,7 @@
       "id": "f443047d1b47dcdb",
       "title_de": "Dänemark hofft auf „Ende der Unsicherheit“",
       "link": "https://orf.at/stories/3442645/",
-      "pubDate": "2026-09-19T10:41:38.337Z",
+      "pubDate": "2026-09-19T15:43:41.153Z",
       "category_de": "Ausland",
       "category_ar": "العالم",
       "title_ar": "الدنمارك تأمل في \"إنهاء حالة عدم اليقين\""
@@ -224,7 +35,7 @@
       "id": "2833d293b3ea0022",
       "title_de": "Washington: Menschenkette um Kennedy Center",
       "link": "https://orf.at/stories/3442648/",
-      "pubDate": "2026-09-19T10:41:38.337Z",
+      "pubDate": "2026-09-19T15:43:41.153Z",
       "category_de": "Ausland",
       "category_ar": "العالم",
       "title_ar": "واشنطن: سلسلة بشرية حول مركز كينيدي"
@@ -233,7 +44,7 @@
       "id": "24e76986d5b1c01d",
       "title_de": "Russland-Wahl: Bericht über Hackerangriff in Moskau",
       "link": "https://orf.at/stories/3442647/",
-      "pubDate": "2026-09-19T10:41:38.337Z",
+      "pubDate": "2026-09-19T15:43:41.153Z",
       "category_de": "Ausland",
       "category_ar": "العالم",
       "title_ar": "انتخابات روسيا: تقرير عن هجوم إلكتروني في موسكو"
@@ -242,7 +53,7 @@
       "id": "d7d461fb078307b8",
       "title_de": "Komponist Duncan Sheik 56-jährig verstorben",
       "link": "https://orf.at/stories/3442642/",
-      "pubDate": "2026-09-19T10:41:38.337Z",
+      "pubDate": "2026-09-19T15:43:41.153Z",
       "category_de": "Kultur",
       "category_ar": "ثقافة",
       "title_ar": "وفاة الموسيقار دانكان شيك عن 56 سنة"
@@ -251,10 +62,172 @@
       "id": "78d0d4752bc79616",
       "title_de": "Bericht: Iran richtet angeblichen Spion hin",
       "link": "https://orf.at/stories/3442637/",
-      "pubDate": "2026-09-19T10:41:38.337Z",
+      "pubDate": "2026-09-19T15:43:41.153Z",
       "category_de": "Ausland",
       "category_ar": "العالم",
       "title_ar": "تقرير: إيران تعدم جاسوساً مزعوماً"
+    },
+    {
+      "id": "074821375067eede",
+      "title_de": "Studie sieht soziales Ungleichgewicht bei „Aktivpension“",
+      "link": "https://orf.at/stories/3442631/",
+      "pubDate": "2026-09-19T15:43:41.153Z",
+      "category_de": "Wissenschaft",
+      "category_ar": "علوم",
+      "title_ar": "دراسة تحذر من عدم المساواة الاجتماعية في برنامج \"التقاعد النشط\""
+    },
+    {
+      "id": "1d32af57eb418055",
+      "title_de": "SPÖ drängt auf Aktionsplan gegen Hasskriminalität",
+      "link": "https://orf.at/stories/3442630/",
+      "pubDate": "2026-09-19T15:43:41.153Z",
+      "category_de": "Politik",
+      "category_ar": "سياسة",
+      "title_ar": "الحزب الاشتراكي الديمقراطي يطالب بخطة عمل ضد \"كارهي المثليين\""
+    },
+    {
+      "id": "0397be6883fcd622",
+      "title_de": "NEOS will höhere Unigebühren und mehr Studienleistung",
+      "link": "https://orf.at/stories/3442629/",
+      "pubDate": "2026-09-19T15:43:41.153Z",
+      "category_de": "Politik",
+      "category_ar": "سياسة",
+      "title_ar": "حزب نيوس يطالب برفع رسوم الجامعات وزيادة متطلبات الدراسة"
+    },
+    {
+      "id": "9db94fb7bc488b7e",
+      "title_de": "UNO-Sicherheitsrat verurteilt Huthi-Angriffe auf Saudi-Arabien",
+      "link": "https://orf.at/stories/3442628/",
+      "pubDate": "2026-09-19T15:43:41.153Z",
+      "category_de": "Ausland",
+      "category_ar": "العالم",
+      "title_ar": "مجلس الأمن الدولي يدين هجمات الحوثيين على السعودية"
+    },
+    {
+      "id": "85eb1243610e1ce1",
+      "title_de": "Gegenseitige Angriffe mit Toten und Verletzten",
+      "link": "https://orf.at/stories/3442627/",
+      "pubDate": "2026-09-19T15:43:41.153Z",
+      "category_de": "Ausland",
+      "category_ar": "العالم",
+      "title_ar": "هجمات متبادلة تسفر عن قتلى وجرحى"
+    },
+    {
+      "id": "d332aa37ab3c9fdd",
+      "title_de": "Pakistan: Bereits über 30 Tote nach Angriff auf Polizeiwache",
+      "link": "https://orf.at/stories/3442626/",
+      "pubDate": "2026-09-19T15:43:41.153Z",
+      "category_de": "Ausland",
+      "category_ar": "العالم",
+      "title_ar": "باكستان: تجاوز عدد الضحايا 30 قتيلاً في هجوم على مركز شرطة"
+    },
+    {
+      "id": "66574a4a2958a777",
+      "title_de": "Armutskonferenz übt Kritik an Entwurf für Sozialhilfe",
+      "link": "https://orf.at/stories/3442625/",
+      "pubDate": "2026-09-19T15:43:41.153Z",
+      "category_de": "Politik",
+      "category_ar": "سياسة",
+      "title_ar": "مؤتمر الفقر ينتقد مشروع الإصلاح الاجتماعي"
+    },
+    {
+      "id": "f145442e9458258e",
+      "title_de": "Behörden in Saudi-Arabien rufen Luftalarm in Riad aus",
+      "link": "https://orf.at/stories/3442624/",
+      "pubDate": "2026-09-19T15:43:41.153Z",
+      "category_de": "Ausland",
+      "category_ar": "العالم",
+      "title_ar": "السلطات السعودية تأمر بإطلاق صفارات الإنذار الجوي في الرياض"
+    },
+    {
+      "id": "1d9f2b4ab351531c",
+      "title_de": "Ex-Sicherheitsberater Bolton: Trump hat NATO sehr belastet",
+      "link": "https://orf.at/stories/3442623/",
+      "pubDate": "2026-09-19T15:43:41.153Z",
+      "category_de": "Ausland",
+      "category_ar": "العالم",
+      "title_ar": "مستشار الأمن الأمريكي السابق بولتون: ترامب أضر بحلف الناتو بشدة"
+    },
+    {
+      "id": "0205c184ea34120f",
+      "title_de": "Googles KI Gemini hackte ebenfalls andere Unternehmen",
+      "link": "https://orf.at/stories/3442622/",
+      "pubDate": "2026-09-19T15:43:41.153Z",
+      "category_de": "Wissenschaft",
+      "category_ar": "علوم",
+      "title_ar": "ذكاء جوجل الاصطناعي جيميني قام أيضاً باختراق شركات أخرى"
+    },
+    {
+      "id": "048c961b9f066b9c",
+      "title_de": "Befragung über Euro-Scheine in Zielgerader",
+      "link": "https://orf.at/stories/3442229/",
+      "pubDate": "2026-09-19T15:43:41.153Z",
+      "category_de": "Wirtschaft",
+      "category_ar": "اقتصاد",
+      "title_ar": "استطلاع آراء حول فئات اليورو في مراحله الأخيرة"
+    },
+    {
+      "id": "4c1a2d2df3dbb050",
+      "title_de": "Trump setzt neue US-Sanktionen gegen Russland in Kraft",
+      "link": "https://orf.at/stories/3442620/",
+      "pubDate": "2026-09-19T15:43:41.153Z",
+      "category_de": "Ausland",
+      "category_ar": "العالم",
+      "title_ar": "ترامب يفرض عقوبات أمريكية جديدة على روسيا"
+    },
+    {
+      "id": "62adf97067736288",
+      "title_de": "Schlagersänger Peter Petrel gestorben",
+      "link": "https://orf.at/stories/3442671/",
+      "pubDate": "2026-09-19T15:43:41.152Z",
+      "category_de": "Kultur",
+      "category_ar": "ثقافة",
+      "title_ar": "وفاة المغني الشهير بيتر بيترل"
+    },
+    {
+      "id": "4096a815471d884f",
+      "title_de": "Rauch nahe Flughafen Riad",
+      "link": "https://orf.at/stories/3442666/",
+      "pubDate": "2026-09-19T15:43:41.152Z",
+      "category_de": "Chronik",
+      "category_ar": "حوادث",
+      "title_ar": "دخان بالقرب من مطار الرياض"
+    },
+    {
+      "id": "7e0f0882ff90b0e5",
+      "title_de": "Den Haag: Zusammenstöße zwischen Polizei und Rechtsradikalen",
+      "link": "https://orf.at/stories/3442670/",
+      "pubDate": "2026-09-19T15:43:41.152Z",
+      "category_de": "Ausland",
+      "category_ar": "العالم",
+      "title_ar": "اشتباكات بين الشرطة والمتطرفين اليمينيين في لاهاي"
+    },
+    {
+      "id": "ac9de7cd7da7fa7e",
+      "title_de": "Belarussische Militärübung an Grenze zur EU",
+      "link": "https://orf.at/stories/3442669/",
+      "pubDate": "2026-09-19T15:43:41.152Z",
+      "category_de": "Ausland",
+      "category_ar": "العالم",
+      "title_ar": "تدريبات عسكرية بيلاروسية على الحدود مع الاتحاد الأوروبي"
+    },
+    {
+      "id": "a69b1b8818917831",
+      "title_de": "Vermisste Teile von F-35-Tarnkappenjet in China vermutet",
+      "link": "https://orf.at/stories/3442668/",
+      "pubDate": "2026-09-19T15:43:41.152Z",
+      "category_de": "Ausland",
+      "category_ar": "العالم",
+      "title_ar": "أجزاء من مقاتلة إف-35 الشبحية قد تكون في الصين"
+    },
+    {
+      "id": "8a64c1a6e189dabd",
+      "title_de": "Drohne: Flughafen Luxemburg stoppte vorübergehend Betrieb",
+      "link": "https://orf.at/stories/3442659/",
+      "pubDate": "2026-09-19T15:43:41.152Z",
+      "category_de": "Chronik",
+      "category_ar": "حوادث",
+      "title_ar": "طائرة مسيرة تجبر مطار لوكسمبرج على إيقاف العمليات مؤقتاً"
     }
   ]
 }
