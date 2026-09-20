@@ -1,14 +1,122 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-09-20T04:28:50.017Z",
+  "generatedAt": "2026-09-20T11:04:22.503Z",
   "source": "https://rss.orf.at/news.xml",
-  "count": 24,
+  "count": 25,
   "items": [
     {
+      "id": "8181bbfee8d6df69",
+      "title_de": "„Handelsblatt“: Porsche könnte weitere 4.000 Stellen abbauen",
+      "link": "https://orf.at/stories/3442718/",
+      "pubDate": "2026-09-20T11:04:15.511Z",
+      "category_de": "Wirtschaft",
+      "category_ar": "اقتصاد",
+      "title_ar": "بورشه تدرس خفض 4 آلاف وظيفة إضافية"
+    },
+    {
+      "id": "fc6d95eb711a407a",
+      "title_de": "Tansania: Zehn tote Löwen in Naturschutzgebiet gefunden",
+      "link": "https://orf.at/stories/3442712/",
+      "pubDate": "2026-09-20T11:04:15.511Z",
+      "category_de": "Chronik",
+      "category_ar": "حوادث",
+      "title_ar": "تنزانيا: العثور على عشرة أسود نافقة في محمية طبيعية"
+    },
+    {
+      "id": "48373f0a4c5a50f6",
+      "title_de": "Ed Sheeran äußerte sich nach Macklemore-Rauswurf",
+      "link": "https://orf.at/stories/3442705/",
+      "pubDate": "2026-09-20T11:04:15.511Z",
+      "category_de": "Kultur",
+      "category_ar": "ثقافة",
+      "title_ar": "إد شيران يعلق على إقصاء ماكليمور"
+    },
+    {
+      "id": "ca564969e16fb8a4",
+      "title_de": "Letzter Wahltag beginnt mit Drohnenalarm",
+      "link": "https://orf.at/stories/3442703/",
+      "pubDate": "2026-09-20T11:04:15.511Z",
+      "category_de": "Politik",
+      "category_ar": "سياسة",
+      "title_ar": "يوم الانتخابات الأخير يبدأ برنين الأجراس"
+    },
+    {
+      "id": "64f144ed3f45ba77",
+      "title_de": "DR Kongo: Testprogramm für Ebola-Impfung angelaufen",
+      "link": "https://orf.at/stories/3442704/",
+      "pubDate": "2026-09-20T11:04:15.511Z",
+      "category_de": "Wissenschaft",
+      "category_ar": "علوم",
+      "title_ar": "الكونغو الديمقراطية تطلق برنامج اختبار لقاح الإيبولا"
+    },
+    {
+      "id": "8ad907ded65c91e6",
+      "title_de": "Guterres-Nachfolge: Bachelet zieht Kandidatur zurück",
+      "link": "https://orf.at/stories/3442701/",
+      "pubDate": "2026-09-20T11:04:15.511Z",
+      "category_de": "Ausland",
+      "category_ar": "العالم",
+      "title_ar": "باتشيليت تتراجع عن ترشحها لخلافة غوتيريش"
+    },
+    {
+      "id": "a33cd65aabb13d05",
+      "title_de": "Social-Media-Verbot: Über 170 Stellungnahmen eingegangen",
+      "link": "https://orf.at/stories/3442700/",
+      "pubDate": "2026-09-20T11:04:15.511Z",
+      "category_de": "Politik",
+      "category_ar": "سياسة",
+      "title_ar": "أكثر من 170 تعليق وارد بشأن حظر وسائل التواصل"
+    },
+    {
+      "id": "ec04cae73879da5e",
+      "title_de": "Wehrpflicht: Opposition wartet weiter auf konkrete Gespräche",
+      "link": "https://orf.at/stories/3442699/",
+      "pubDate": "2026-09-20T11:04:15.511Z",
+      "category_de": "Politik",
+      "category_ar": "سياسة",
+      "title_ar": "المعارضة تنتظر حوارات ملموسة حول الخدمة العسكرية"
+    },
+    {
+      "id": "4524ef4a3216d49a",
+      "title_de": "Syrien: Ex-General aus Zeit von Assad festgenommen",
+      "link": "https://orf.at/stories/3442698/",
+      "pubDate": "2026-09-20T11:04:15.511Z",
+      "category_de": "Ausland",
+      "category_ar": "العالم",
+      "title_ar": "سوريا: اعتقال جنرال سابق من عهد الأسد"
+    },
+    {
+      "id": "8926d724113bb910",
+      "title_de": "Landtagswahlen sorgen für Nervosität",
+      "link": "https://orf.at/stories/3442435/",
+      "pubDate": "2026-09-20T11:04:15.511Z",
+      "category_de": "Politik",
+      "category_ar": "سياسة",
+      "title_ar": "الانتخابات البرلمانية تثير القلق"
+    },
+    {
+      "id": "0f99fcf657b39f05",
+      "title_de": "Moskau meldet „beispiellosen“ ukrainischen Drohnenangriff",
+      "link": "https://orf.at/stories/3442696/",
+      "pubDate": "2026-09-20T11:04:15.511Z",
+      "category_de": "Ausland",
+      "category_ar": "العالم",
+      "title_ar": "موسكو تعلن عن هجوم أوكراني بدرونات \"غير مسبوق\""
+    },
+    {
+      "id": "5598925ebfc4c270",
+      "title_de": "Kammer: Herbsternte vielfach schlechter als erwartet",
+      "link": "https://orf.at/stories/3442695/",
+      "pubDate": "2026-09-20T11:04:15.511Z",
+      "category_de": "Wirtschaft",
+      "category_ar": "اقتصاد",
+      "title_ar": "الحصاد الخريفي أقل من التوقعات في معظم المناطق"
+    },
+    {
       "id": "a0d5b6f829ab607b",
-      "title_de": "Drei Tote bei Angriff im Kiewer Umland",
+      "title_de": "Drei Tote bei Angriff in Kiewer Umland",
       "link": "https://orf.at/stories/3442694/",
-      "pubDate": "2026-09-20T04:28:50.015Z",
+      "pubDate": "2026-09-20T11:04:15.511Z",
       "category_de": "Ausland",
       "category_ar": "العالم",
       "title_ar": "ثلاثة قتلى في هجوم بضواحي كييف"
@@ -17,7 +125,7 @@
       "id": "ea62a108fe38dad8",
       "title_de": "Frankreichs Le Pen geht auf Abstand zu Russland",
       "link": "https://orf.at/stories/3442693/",
-      "pubDate": "2026-09-20T04:28:50.015Z",
+      "pubDate": "2026-09-20T11:04:15.511Z",
       "category_de": "Ausland",
       "category_ar": "العالم",
       "title_ar": "لوبان تتخذ مسافة من روسيا"
@@ -26,7 +134,7 @@
       "id": "86fb517c93de4950",
       "title_de": "Bilder bei Mona Lisa im Louvre aufgehängt: Festnahmen",
       "link": "https://orf.at/stories/3442692/",
-      "pubDate": "2026-09-20T04:28:50.015Z",
+      "pubDate": "2026-09-20T11:04:15.511Z",
       "category_de": "Chronik",
       "category_ar": "حوادث",
       "title_ar": "احتجاجات فنية في اللوفر: اعتقالات إثر تعليق صور على الموناليزا"
@@ -35,7 +143,7 @@
       "id": "1490ba62b2caf195",
       "title_de": "Schweiz: Volksabstimmung gegen neue AKWs fix",
       "link": "https://orf.at/stories/3442691/",
-      "pubDate": "2026-09-20T04:28:50.015Z",
+      "pubDate": "2026-09-20T11:04:15.511Z",
       "category_de": "Politik",
       "category_ar": "سياسة",
       "title_ar": "سويسرا تصوت ضد بناء محطات نووية جديدة"
@@ -44,7 +152,7 @@
       "id": "fe56ca9fbaf4e26a",
       "title_de": "Weißes Haus weist drei Reporterinnen ab",
       "link": "https://orf.at/stories/3442684/",
-      "pubDate": "2026-09-20T04:28:50.015Z",
+      "pubDate": "2026-09-20T11:04:15.511Z",
       "category_de": "Ausland",
       "category_ar": "العالم",
       "title_ar": "البيت الأبيض يمنع ثلاث صحافيات من الدخول"
@@ -53,7 +161,7 @@
       "id": "2c5bf89c60c95881",
       "title_de": "Slowakei: Fico sieht „Kriegstreiber“ in NATO",
       "link": "https://orf.at/stories/3442690/",
-      "pubDate": "2026-09-20T04:28:50.015Z",
+      "pubDate": "2026-09-20T11:04:15.511Z",
       "category_de": "Ausland",
       "category_ar": "العالم",
       "title_ar": "رئيس سلوفاكيا يتهم الناتو بـ «إثارة الحروب»"
@@ -62,7 +170,7 @@
       "id": "9f51f4c027acd710",
       "title_de": "Berlin und Mecklenburg-Vorpommern wählen",
       "link": "https://orf.at/stories/3442687/",
-      "pubDate": "2026-09-20T04:28:50.015Z",
+      "pubDate": "2026-09-20T11:04:15.511Z",
       "category_de": "Politik",
       "category_ar": "سياسة",
       "title_ar": "برلين وميكلنبورغ-فوربومرن تتجه للانتخابات"
@@ -71,7 +179,7 @@
       "id": "7ebea938b859ce1a",
       "title_de": "Ecuador: Polizei sprengt Kokainversteck",
       "link": "https://orf.at/stories/3442686/",
-      "pubDate": "2026-09-20T04:28:50.015Z",
+      "pubDate": "2026-09-20T11:04:15.511Z",
       "category_de": "Chronik",
       "category_ar": "حوادث",
       "title_ar": "شرطة الإكوادور تفكك مستودع كوكايين ضخم"
@@ -80,7 +188,7 @@
       "id": "2b11a750167ef6fe",
       "title_de": "Welterfolg mit Rissen",
       "link": "https://orf.at/stories/3442133/",
-      "pubDate": "2026-09-20T04:28:50.015Z",
+      "pubDate": "2026-09-20T11:04:15.511Z",
       "category_de": "Wirtschaft",
       "category_ar": "اقتصاد",
       "title_ar": "نجاح عالمي لكن مع علامات استفهام"
@@ -89,7 +197,7 @@
       "id": "8d08c20c0d8021f2",
       "title_de": "Trump kündigt „AI Force“ zur KI-Regulierung an",
       "link": "https://orf.at/stories/3442685/",
-      "pubDate": "2026-09-20T04:28:50.015Z",
+      "pubDate": "2026-09-20T11:04:15.511Z",
       "category_de": "Politik",
       "category_ar": "سياسة",
       "title_ar": "ترامب يعلن عن «قوة ذكاء اصطناعي» للإشراف على تنظيم المجال"
@@ -98,7 +206,7 @@
       "id": "dc180f41f30f6aaf",
       "title_de": "Parlamentswahl in Russland geht zu Ende",
       "link": "https://orf.at/stories/3442683/",
-      "pubDate": "2026-09-20T04:28:50.015Z",
+      "pubDate": "2026-09-20T11:04:15.511Z",
       "category_de": "Ausland",
       "category_ar": "العالم",
       "title_ar": "الانتخابات البرلمانية الروسية تقترب من نهايتها"
@@ -107,118 +215,19 @@
       "id": "38ad9b3c52b750a2",
       "title_de": "KI-Fehler führte beinahe zu US-Militäreinsatz",
       "link": "https://orf.at/stories/3442657/",
-      "pubDate": "2026-09-20T04:28:50.015Z",
+      "pubDate": "2026-09-20T11:04:15.511Z",
       "category_de": "Ausland",
       "category_ar": "العالم",
       "title_ar": "خطأ في الذكاء الاصطناعي كاد يؤدي لعملية عسكرية أمريكية"
     },
     {
-      "id": "674a305a817ecc7b",
-      "title_de": "Deutscher General wird Chef des NATO-Militärausschusses",
-      "link": "https://orf.at/stories/3442673/",
-      "pubDate": "2026-09-20T04:28:50.015Z",
-      "category_de": "Politik",
-      "category_ar": "سياسة",
-      "title_ar": "جنرال ألماني يتولى قيادة لجنة الناتو العسكرية"
-    },
-    {
-      "id": "62adf97067736288",
-      "title_de": "Schlagersänger Peter Petrel gestorben",
-      "link": "https://orf.at/stories/3442671/",
-      "pubDate": "2026-09-20T04:28:50.015Z",
-      "category_de": "Kultur",
-      "category_ar": "ثقافة",
-      "title_ar": "وفاة المغني الشهير بيتر بيترل"
-    },
-    {
-      "id": "4096a815471d884f",
-      "title_de": "Huthis melden Angriffe auf Riad und Ölanlagen",
-      "link": "https://orf.at/stories/3442666/",
-      "pubDate": "2026-09-20T04:28:50.015Z",
-      "category_de": "Chronik",
-      "category_ar": "حوادث",
-      "title_ar": "دخان بالقرب من مطار الرياض"
-    },
-    {
-      "id": "7e0f0882ff90b0e5",
-      "title_de": "Den Haag: Zusammenstöße zwischen Polizei und Rechtsradikalen",
-      "link": "https://orf.at/stories/3442670/",
-      "pubDate": "2026-09-20T04:28:50.015Z",
+      "id": "cf11992f9d066f66",
+      "title_de": "Tötung per Kopfschuss: Ex-Soldat in Israel begnadigt",
+      "link": "https://orf.at/stories/3442719/",
+      "pubDate": "2026-09-20T11:04:15.510Z",
       "category_de": "Ausland",
       "category_ar": "العالم",
-      "title_ar": "اشتباكات بين الشرطة والمتطرفين اليمينيين في لاهاي"
-    },
-    {
-      "id": "ac9de7cd7da7fa7e",
-      "title_de": "Belarussische Militärübung an Grenze zur EU",
-      "link": "https://orf.at/stories/3442669/",
-      "pubDate": "2026-09-20T04:28:50.015Z",
-      "category_de": "Ausland",
-      "category_ar": "العالم",
-      "title_ar": "تدريبات عسكرية بيلاروسية على الحدود مع الاتحاد الأوروبي"
-    },
-    {
-      "id": "a69b1b8818917831",
-      "title_de": "Vermisste Teile von F-35-Tarnkappenjet in China vermutet",
-      "link": "https://orf.at/stories/3442668/",
-      "pubDate": "2026-09-20T04:28:50.015Z",
-      "category_de": "Ausland",
-      "category_ar": "العالم",
-      "title_ar": "أجزاء من مقاتلة إف-35 الشبحية قد تكون في الصين"
-    },
-    {
-      "id": "8a64c1a6e189dabd",
-      "title_de": "Drohne: Flughafen Luxemburg stoppte vorübergehend Betrieb",
-      "link": "https://orf.at/stories/3442659/",
-      "pubDate": "2026-09-20T04:28:50.015Z",
-      "category_de": "Chronik",
-      "category_ar": "حوادث",
-      "title_ar": "طائرة مسيرة تجبر مطار لوكسمبرج على إيقاف العمليات مؤقتاً"
-    },
-    {
-      "id": "b5077dd1482964b5",
-      "title_de": "CNN: KI-Fehler führte beinahe zu US-Militäreinsatz",
-      "link": "https://orf.at/stories/3442653/",
-      "pubDate": "2026-09-20T04:28:50.015Z",
-      "category_de": "Ausland",
-      "category_ar": "العالم",
-      "title_ar": "خطأ في الذكاء الاصطناعي يكاد يقود إلى تدخل عسكري أمريكي"
-    },
-    {
-      "id": "3d81697b52db8176",
-      "title_de": "191. Münchner Oktoberfest ist eröffnet",
-      "link": "https://orf.at/stories/3442650/",
-      "pubDate": "2026-09-20T04:28:50.015Z",
-      "category_de": "Chronik",
-      "category_ar": "حوادث",
-      "title_ar": "افتتاح فعاليات مهرجان ميونخ أوكتوبرفست الـ 191"
-    },
-    {
-      "id": "f443047d1b47dcdb",
-      "title_de": "Dänemark hofft auf „Ende der Unsicherheit“",
-      "link": "https://orf.at/stories/3442645/",
-      "pubDate": "2026-09-20T04:28:50.015Z",
-      "category_de": "Ausland",
-      "category_ar": "العالم",
-      "title_ar": "الدنمارك تأمل في \"إنهاء حالة عدم اليقين\""
-    },
-    {
-      "id": "2833d293b3ea0022",
-      "title_de": "Washington: Menschenkette um Kennedy Center",
-      "link": "https://orf.at/stories/3442648/",
-      "pubDate": "2026-09-20T04:28:50.015Z",
-      "category_de": "Ausland",
-      "category_ar": "العالم",
-      "title_ar": "واشنطن: سلسلة بشرية حول مركز كينيدي"
-    },
-    {
-      "id": "24e76986d5b1c01d",
-      "title_de": "Russland-Wahl: Bericht über Hackerangriff in Moskau",
-      "link": "https://orf.at/stories/3442647/",
-      "pubDate": "2026-09-20T04:28:50.015Z",
-      "category_de": "Ausland",
-      "category_ar": "العالم",
-      "title_ar": "انتخابات روسيا: تقرير عن هجوم إلكتروني في موسكو"
+      "title_ar": "إسرائيل تعفو عن عسكري سابق أدين بقتل برصاصة في الرأس"
     }
   ]
 }
