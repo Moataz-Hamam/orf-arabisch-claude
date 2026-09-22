@@ -1,14 +1,77 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-09-21T23:58:57.554Z",
+  "generatedAt": "2026-09-22T04:43:15.260Z",
   "source": "https://rss.orf.at/news.xml",
-  "count": 30,
+  "count": 33,
   "items": [
+    {
+      "id": "5b1295fb4cc2ef37",
+      "title_de": "Huthi: Mindestens sechs Tote bei Angriff auf Küstenstadt",
+      "link": "https://orf.at/stories/3442867/",
+      "pubDate": "2026-09-22T04:43:10.802Z",
+      "category_de": "Ausland",
+      "category_ar": "العالم",
+      "title_ar": "الحوثيون: مقتل ستة أشخاص على الأقل في هجوم على مدينة ساحلية"
+    },
+    {
+      "id": "2c44ed966aabbae1",
+      "title_de": "Kreml: Versorgungsengpässe in russisch-kontrollierter Stadt",
+      "link": "https://orf.at/stories/3442866/",
+      "pubDate": "2026-09-22T04:43:10.802Z",
+      "category_de": "Ausland",
+      "category_ar": "العالم",
+      "title_ar": "الكرملين: نقص في الإمدادات في مدينة تحت السيطرة الروسية"
+    },
+    {
+      "id": "2ab0f267406826f7",
+      "title_de": "UNO: Aufruf zu stärkerer Regulierung von KI",
+      "link": "https://orf.at/stories/3442865/",
+      "pubDate": "2026-09-22T04:43:10.802Z",
+      "category_de": "Wissenschaft",
+      "category_ar": "علوم",
+      "title_ar": "الأمم المتحدة تدعو إلى تنظيم أقوى للذكاء الاصطناعي"
+    },
+    {
+      "id": "79284150b4aba659",
+      "title_de": "Mindestens vier Tote in Japan durch Taifun",
+      "link": "https://orf.at/stories/3442864/",
+      "pubDate": "2026-09-22T04:43:10.802Z",
+      "category_de": "Chronik",
+      "category_ar": "حوادث",
+      "title_ar": "إعصار يودي بحياة أربعة أشخاص على الأقل في اليابان"
+    },
+    {
+      "id": "752c966de99c8afe",
+      "title_de": "Hausverbot für Medien: Weißes Haus startet „Trump TV“",
+      "link": "https://orf.at/stories/3442863/",
+      "pubDate": "2026-09-22T04:43:10.802Z",
+      "category_de": "Politik",
+      "category_ar": "سياسة",
+      "title_ar": "حظر وسائل الإعلام: البيت الأبيض ينطلق في مشروع \"تلفزيون ترامب\""
+    },
+    {
+      "id": "6bd0f3caff56526d",
+      "title_de": "Guterres-Nachfolge nimmt Konturen an",
+      "link": "https://orf.at/stories/3442792/",
+      "pubDate": "2026-09-22T04:43:10.802Z",
+      "category_de": "Ausland",
+      "category_ar": "العالم",
+      "title_ar": "خليفة غوتيريس يبدأ يأخذ ملامح أوضح"
+    },
+    {
+      "id": "30b6f8c740b18de6",
+      "title_de": "Tödlicher Unfall bei Fahrgeschäft auf Oktoberfest",
+      "link": "https://orf.at/stories/3442862/",
+      "pubDate": "2026-09-22T04:43:10.802Z",
+      "category_de": "Chronik",
+      "category_ar": "حوادث",
+      "title_ar": "حادث قاتل في ملهى ترفيهي خلال احتفالات أوكتوبرفست"
+    },
     {
       "id": "a01942710b4a5e76",
       "title_de": "Fast eine Million Euro für Bardots Erinnerungsstücke",
       "link": "https://orf.at/stories/3442861/",
-      "pubDate": "2026-09-21T23:58:54.393Z",
+      "pubDate": "2026-09-22T04:43:10.802Z",
       "category_de": "Kultur",
       "category_ar": "ثقافة",
       "title_ar": "مليون يورو لمقتنيات بريجيت باردو التذكارية"
@@ -17,7 +80,7 @@
       "id": "fdbad4e1741a75f6",
       "title_de": "Schwarzes Meer als „anderes Hormus“",
       "link": "https://orf.at/stories/3442799/",
-      "pubDate": "2026-09-21T23:58:54.393Z",
+      "pubDate": "2026-09-22T04:43:10.802Z",
       "category_de": "Ausland",
       "category_ar": "العالم",
       "title_ar": "البحر الأسود: الخطر الجديد الذي يهدد الملاحة العالمية"
@@ -26,7 +89,7 @@
       "id": "b7d728b64aa0f067",
       "title_de": "GB: Anklage im Zusammenhang mit Ruanda-Völkermord",
       "link": "https://orf.at/stories/3442858/",
-      "pubDate": "2026-09-21T23:58:54.393Z",
+      "pubDate": "2026-09-22T04:43:10.802Z",
       "category_de": "Ausland",
       "category_ar": "العالم",
       "title_ar": "بريطانيا توجه اتهامات بشأن الإبادة الجماعية في رواندا"
@@ -35,7 +98,7 @@
       "id": "6d42b2b75f1acf83",
       "title_de": "Paramount legt Streit über Warner-Fusion bei",
       "link": "https://orf.at/stories/3442853/",
-      "pubDate": "2026-09-21T23:58:54.393Z",
+      "pubDate": "2026-09-22T04:43:10.802Z",
       "category_de": "Wirtschaft",
       "category_ar": "اقتصاد",
       "title_ar": "بارامونت تسعى لتسوية النزاع حول اندماج وارنر"
@@ -44,7 +107,7 @@
       "id": "174e3a06d0fedc2a",
       "title_de": "Bericht: USA erwägen Milliardenzahlung für Wiederaufbau",
       "link": "https://orf.at/stories/3442856/",
-      "pubDate": "2026-09-21T23:58:54.393Z",
+      "pubDate": "2026-09-22T04:43:10.802Z",
       "category_de": "Ausland",
       "category_ar": "العالم",
       "title_ar": "واشنطن تدرس دفع مليارات دولارات لإعادة البناء"
@@ -53,7 +116,7 @@
       "id": "b31f8b1d4dbcfd5a",
       "title_de": "Bundesstaaten rüsten gegen Einflussnahme",
       "link": "https://orf.at/stories/3442243/",
-      "pubDate": "2026-09-21T23:58:54.393Z",
+      "pubDate": "2026-09-22T04:43:10.802Z",
       "category_de": "Politik",
       "category_ar": "سياسة",
       "title_ar": "الولايات الفيدرالية تتخذ تدابير للحماية من التأثيرات الخارجية"
@@ -62,7 +125,7 @@
       "id": "87afdaec1705ee0e",
       "title_de": "Grönland-Abkommen wird heute unterzeichnet",
       "link": "https://orf.at/stories/3442852/",
-      "pubDate": "2026-09-21T23:58:54.393Z",
+      "pubDate": "2026-09-22T04:43:10.802Z",
       "category_de": "Ausland",
       "category_ar": "العالم",
       "title_ar": "اتفاق غرينلاند سيوقع غداً"
@@ -71,16 +134,16 @@
       "id": "4a42ae84f0f53aa3",
       "title_de": "Abkommen geplant: Trump will Belarus Kali abkaufen",
       "link": "https://orf.at/stories/3442851/",
-      "pubDate": "2026-09-21T23:58:54.393Z",
+      "pubDate": "2026-09-22T04:43:10.802Z",
       "category_de": "Ausland",
       "category_ar": "العالم",
       "title_ar": "ترامب يسعى لاتفاق بوتاسيوم جديد مع بيلاروس"
     },
     {
       "id": "ac606a7b33228552",
-      "title_de": "Durchtrenntes Kabel legt Flugverkehr an US-Ostküste lahm",
+      "title_de": "Störung an mehreren US-Flughäfen wieder behoben",
       "link": "https://orf.at/stories/3442849/",
-      "pubDate": "2026-09-21T23:58:54.393Z",
+      "pubDate": "2026-09-22T04:43:10.802Z",
       "category_de": "Ausland",
       "category_ar": "العالم",
       "title_ar": "إغلاق المجال الجوي فوق مطارات الساحل الشرقي الأمريكي"
@@ -89,7 +152,7 @@
       "id": "8e1620170e242454",
       "title_de": "Verbot von CO2-Speicherung vor Aufhebung",
       "link": "https://orf.at/stories/3442815/",
-      "pubDate": "2026-09-21T23:58:54.393Z",
+      "pubDate": "2026-09-22T04:43:10.802Z",
       "category_de": "Wissenschaft",
       "category_ar": "علوم",
       "title_ar": "حظر تخزين ثاني أكسيد الكربون على أبواب الإلغاء"
@@ -98,7 +161,7 @@
       "id": "394815824969e0b4",
       "title_de": "Politbeben in Deutschland: Politologin Münch zu Gast",
       "link": "https://orf.at/stories/3442847/",
-      "pubDate": "2026-09-21T23:58:54.393Z",
+      "pubDate": "2026-09-22T04:43:10.802Z",
       "category_de": "Politik",
       "category_ar": "سياسة",
       "title_ar": "هزة سياسية في ألمانيا: عالمة السياسة مونش ضيفة الحوار"
@@ -107,7 +170,7 @@
       "id": "3ae9b4c63363480e",
       "title_de": "Schellhorn mit Anti-Bürokratie-Initiative in Brüssel",
       "link": "https://orf.at/stories/3442846/",
-      "pubDate": "2026-09-21T23:58:54.393Z",
+      "pubDate": "2026-09-22T04:43:10.802Z",
       "category_de": "Politik",
       "category_ar": "سياسة",
       "title_ar": "شيلهورن تطرح مبادرة لمكافحة البيروقراطية في بروكسل"
@@ -116,7 +179,7 @@
       "id": "69a1094d187f7540",
       "title_de": "Stocker gedachte der Opfer von 9/11 in New York",
       "link": "https://orf.at/stories/3442845/",
-      "pubDate": "2026-09-21T23:58:54.393Z",
+      "pubDate": "2026-09-22T04:43:10.802Z",
       "category_de": "Ausland",
       "category_ar": "العالم",
       "title_ar": "ستوكر تكرم ضحايا هجمات 11 سبتمبر في نيويورك"
@@ -125,7 +188,7 @@
       "id": "477585bd46d11e85",
       "title_de": "US-Sender schränken Trump-Begleitung ein",
       "link": "https://orf.at/stories/3442838/",
-      "pubDate": "2026-09-21T23:58:54.393Z",
+      "pubDate": "2026-09-22T04:43:10.802Z",
       "category_de": "Sonstiges",
       "category_ar": "عام",
       "title_ar": "محطات أمريكية تحد من تغطيتها لفعاليات ترامب"
@@ -134,7 +197,7 @@
       "id": "3e65ca7bb4d3b5c2",
       "title_de": "Paramount legt Streit über Warner-Fusion bei",
       "link": "https://orf.at/stories/3442841/",
-      "pubDate": "2026-09-21T23:58:54.393Z",
+      "pubDate": "2026-09-22T04:43:10.802Z",
       "category_de": "Wirtschaft",
       "category_ar": "اقتصاد",
       "title_ar": "باراماونت تسوي نزاعها مع وارنر حول الاندماج"
@@ -143,7 +206,7 @@
       "id": "6cc02c6142cf3b0a",
       "title_de": "Verlegerin Kunstmann gestorben",
       "link": "https://orf.at/stories/3442840/",
-      "pubDate": "2026-09-21T23:58:54.393Z",
+      "pubDate": "2026-09-22T04:43:10.802Z",
       "category_de": "Chronik",
       "category_ar": "حوادث",
       "title_ar": "وفاة الناشرة كونستمان"
@@ -152,7 +215,7 @@
       "id": "e3646008eec073bb",
       "title_de": "EU-Rechnungshof: Kooperation bei Cyberabwehr unzureichend",
       "link": "https://orf.at/stories/3442839/",
-      "pubDate": "2026-09-21T23:58:54.393Z",
+      "pubDate": "2026-09-22T04:43:10.802Z",
       "category_de": "Politik",
       "category_ar": "سياسة",
       "title_ar": "ديوان الحسابات الأوروبي: التعاون في الدفاع السيبراني ناقص"
@@ -161,7 +224,7 @@
       "id": "a2197994491c21d6",
       "title_de": "Bericht deckt geheime US-Abkommen auf",
       "link": "https://orf.at/stories/3442791/",
-      "pubDate": "2026-09-21T23:58:54.393Z",
+      "pubDate": "2026-09-22T04:43:10.802Z",
       "category_de": "Ausland",
       "category_ar": "العالم",
       "title_ar": "تقرير يكشف اتفاقيات سرية أمريكية"
@@ -170,7 +233,7 @@
       "id": "2d2d98d733a7b295",
       "title_de": "Unibudget: ÖH wappnet sich für weitere Demos",
       "link": "https://orf.at/stories/3442835/",
-      "pubDate": "2026-09-21T23:58:54.393Z",
+      "pubDate": "2026-09-22T04:43:10.802Z",
       "category_de": "Politik",
       "category_ar": "سياسة",
       "title_ar": "ميزانية الجامعات: الاتحاد الطلابي يستعد لمظاهرات جديدة"
@@ -179,7 +242,7 @@
       "id": "08c16cb15002edf6",
       "title_de": "Merz will CDU wieder zu „Volkspartei“ führen",
       "link": "https://orf.at/stories/3442810/",
-      "pubDate": "2026-09-21T23:58:54.393Z",
+      "pubDate": "2026-09-22T04:43:10.802Z",
       "category_de": "Politik",
       "category_ar": "سياسة",
       "title_ar": "ميرتس يريد قيادة الاتحاد الديمقراطي المسيحي نحو أن تكون حزباً شعبياً"
@@ -188,7 +251,7 @@
       "id": "d9a19bf5b5c4cd75",
       "title_de": "Guterres fordert Regeln für „autonome Waffensysteme“",
       "link": "https://orf.at/stories/3442833/",
-      "pubDate": "2026-09-21T23:58:54.393Z",
+      "pubDate": "2026-09-22T04:43:10.802Z",
       "category_de": "Ausland",
       "category_ar": "العالم",
       "title_ar": "غوتيريش يطالب بقواعد للأنظمة السلاحية المستقلة"
@@ -197,7 +260,7 @@
       "id": "6c80ff5f91d32c46",
       "title_de": "Berlin, Wien und Luxemburg wollen grünes Kerosin fördern",
       "link": "https://orf.at/stories/3442832/",
-      "pubDate": "2026-09-21T23:58:54.393Z",
+      "pubDate": "2026-09-22T04:43:10.802Z",
       "category_de": "Politik",
       "category_ar": "سياسة",
       "title_ar": "برلين وفيينا ولوكسمبرغ تريد دعم الوقود الحيوي الأخضر"
@@ -206,7 +269,7 @@
       "id": "32f14c99c1583dd9",
       "title_de": "VW kündigt verschärften Sparkurs an",
       "link": "https://orf.at/stories/3442829/",
-      "pubDate": "2026-09-21T23:58:54.393Z",
+      "pubDate": "2026-09-22T04:43:10.802Z",
       "category_de": "Wirtschaft",
       "category_ar": "اقتصاد",
       "title_ar": "فولكسفاغن تعلن عن خطة توفير أكثر صرامة"
@@ -215,7 +278,7 @@
       "id": "0c3aff907125d6bf",
       "title_de": "Medwenitsch folgt in ORF-Stiftungsrat auf Schütze",
       "link": "https://orf.at/stories/3442822/",
-      "pubDate": "2026-09-21T23:58:54.393Z",
+      "pubDate": "2026-09-22T04:43:10.802Z",
       "category_de": "Sonstiges",
       "category_ar": "عام",
       "title_ar": "مدفيدينيتش يخلف شوتسه في مجلس ORF الإداري"
@@ -224,7 +287,7 @@
       "id": "f8655fbe82b438c6",
       "title_de": "UVP-Novelle: Verfahren sollen beschleunigt werden",
       "link": "https://orf.at/stories/3442821/",
-      "pubDate": "2026-09-21T23:58:54.393Z",
+      "pubDate": "2026-09-22T04:43:10.802Z",
       "category_de": "Politik",
       "category_ar": "سياسة",
       "title_ar": "تعديل قانون تقييم التأثير البيئي: تسريع الإجراءات"
@@ -233,46 +296,10 @@
       "id": "b98ac883d8940762",
       "title_de": "USA wollen mit China Kommunikationskanal zu KI-Gefahren",
       "link": "https://orf.at/stories/3442819/",
-      "pubDate": "2026-09-21T23:58:54.393Z",
+      "pubDate": "2026-09-22T04:43:10.802Z",
       "category_de": "Ausland",
       "category_ar": "العالم",
       "title_ar": "واشنطن تسعى لفتح قناة اتصال مع بكين بشأن مخاطر الذكاء الاصطناعي"
-    },
-    {
-      "id": "df7e91fc6ae1acff",
-      "title_de": "China schließt zwei Spitzengeneräle aus Partei und Armee aus",
-      "link": "https://orf.at/stories/3442816/",
-      "pubDate": "2026-09-21T23:58:54.393Z",
-      "category_de": "Ausland",
-      "category_ar": "العالم",
-      "title_ar": "الصين تستبعد جنرالين من الحزب والجيش"
-    },
-    {
-      "id": "ccbc79557a21a486",
-      "title_de": "Berliner Linke hält an Enteignungen fest",
-      "link": "https://orf.at/stories/3442797/",
-      "pubDate": "2026-09-21T23:58:54.393Z",
-      "category_de": "Politik",
-      "category_ar": "سياسة",
-      "title_ar": "حزب اليسار في برلين يصر على خطط المصادرة"
-    },
-    {
-      "id": "6b3ab697b4d163b3",
-      "title_de": "Kunstpreis für acht Kulturschaffende und ein Kollektiv",
-      "link": "https://orf.at/stories/3442813/",
-      "pubDate": "2026-09-21T23:58:54.393Z",
-      "category_de": "Kultur",
-      "category_ar": "ثقافة",
-      "title_ar": "جائزة ثقافية لثمانية مبدعين وجماعة فنية"
-    },
-    {
-      "id": "c7f79a0152152aa3",
-      "title_de": "Kämpfe in ölreicher Provinz Marib im Jemen",
-      "link": "https://orf.at/stories/3442812/",
-      "pubDate": "2026-09-21T23:58:54.393Z",
-      "category_de": "Ausland",
-      "category_ar": "العالم",
-      "title_ar": "اشتباكات عنيفة في محافظة مأرب الغنية بالنفط باليمن"
     }
   ]
 }
