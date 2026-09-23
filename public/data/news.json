@@ -1,185 +1,59 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-09-22T21:07:55.021Z",
+  "generatedAt": "2026-09-23T04:19:40.855Z",
   "source": "https://rss.orf.at/news.xml",
-  "count": 30,
+  "count": 31,
   "items": [
     {
-      "id": "3aa75b49319d846a",
-      "title_de": "Expertin Brandic zu Kritik an Rechenzentren",
-      "link": "https://orf.at/stories/3442945/",
-      "pubDate": "2026-09-22T21:07:47.763Z",
-      "category_de": "Wissenschaft",
-      "category_ar": "علوم",
-      "title_ar": "خبيرة برانديك حول الانتقادات الموجهة لمراكز البيانات"
+      "id": "9c158f46c0bd252b",
+      "title_de": "WM-Traum dominiert Wahl in Marokko",
+      "link": "https://orf.at/stories/3441755/",
+      "pubDate": "2026-09-23T04:19:37.376Z",
+      "category_de": "Sport",
+      "category_ar": "رياضة",
+      "title_ar": "حلم كأس العالم يهيمن على الانتخابات في المغرب"
     },
     {
-      "id": "59f4133baf548939",
-      "title_de": "Vielfältiges ORF-Programm trotz Spardrucks",
-      "link": "https://orf.at/stories/3442938/",
-      "pubDate": "2026-09-22T21:07:47.763Z",
-      "category_de": "Kultur",
-      "category_ar": "ثقافة",
-      "title_ar": "برنامج متنوع للتلفزيون النمساوي رغم ضغوط التوفير"
-    },
-    {
-      "id": "67da3379b6d0076d",
-      "title_de": "Abkommen zu Grönland unterzeichnet",
-      "link": "https://orf.at/stories/3442934/",
-      "pubDate": "2026-09-22T21:07:47.763Z",
-      "category_de": "Ausland",
-      "category_ar": "العالم",
-      "title_ar": "توقيع اتفاق بشأن غرينلاند"
-    },
-    {
-      "id": "5dc9e5cbf84d5e59",
-      "title_de": "Sanktionen gegen zwei russische Oligarchen aufgehoben",
-      "link": "https://orf.at/stories/3442942/",
-      "pubDate": "2026-09-22T21:07:47.763Z",
-      "category_de": "Ausland",
-      "category_ar": "العالم",
-      "title_ar": "رفع العقوبات عن رجلي أعمال روسيين"
-    },
-    {
-      "id": "d37901d1b20391e6",
-      "title_de": "Rede vor UNO: Trump wiederholt Drohungen gegen Iran",
-      "link": "https://orf.at/stories/3442940/",
-      "pubDate": "2026-09-22T21:07:47.763Z",
-      "category_de": "Ausland",
-      "category_ar": "العالم",
-      "title_ar": "ترامب يدافع عن حربه ضد إيران في خطابه أمام الأمم المتحدة"
-    },
-    {
-      "id": "9822d48fc5fcaf20",
-      "title_de": "US-Kampfjet F-16 über Deutschland abgestürzt",
-      "link": "https://orf.at/stories/3442939/",
-      "pubDate": "2026-09-22T21:07:47.763Z",
-      "category_de": "Chronik",
-      "category_ar": "حوادث",
-      "title_ar": "تحطم مقاتلة أمريكية من طراز F-16 فوق ألمانيا"
-    },
-    {
-      "id": "9ded7576ae977606",
-      "title_de": "Guterres: USA und China sollen bei KI zusammenarbeiten",
-      "link": "https://orf.at/stories/3442933/",
-      "pubDate": "2026-09-22T21:07:47.763Z",
-      "category_de": "Ausland",
-      "category_ar": "العالم",
-      "title_ar": "جوتيريس يدعو واشنطن وبكين للتعاون في مجال الذكاء الاصطناعي"
-    },
-    {
-      "id": "fc62c7324fe7f5ea",
-      "title_de": "Erneuter Schuldspruch für Benko",
-      "link": "https://orf.at/stories/3442897/",
-      "pubDate": "2026-09-22T21:07:47.763Z",
-      "category_de": "Chronik",
-      "category_ar": "حوادث",
-      "title_ar": "إدانة جديدة لبينكو"
-    },
-    {
-      "id": "19a8362bdfd741d0",
-      "title_de": "Kreml lehnt Selenskyjs Waffenruhevorschlag ab",
-      "link": "https://orf.at/stories/3442929/",
-      "pubDate": "2026-09-22T21:07:47.763Z",
-      "category_de": "Ausland",
-      "category_ar": "العالم",
-      "title_ar": "الكرملين يرفض مقترح وقف إطلاق النار من زيلينسكي"
-    },
-    {
-      "id": "f0da938c52ea5154",
-      "title_de": "Litauen: Neue US-Truppen auf dem Weg",
-      "link": "https://orf.at/stories/3442923/",
-      "pubDate": "2026-09-22T21:07:47.763Z",
-      "category_de": "Ausland",
-      "category_ar": "العالم",
-      "title_ar": "قوات أمريكية جديدة متجهة إلى ليتوانيا"
-    },
-    {
-      "id": "e8f547e5c54c9ed8",
-      "title_de": "UNO-Generaldebatte: Iranische Delegation in New York",
-      "link": "https://orf.at/stories/3442921/",
-      "pubDate": "2026-09-22T21:07:47.763Z",
-      "category_de": "Ausland",
-      "category_ar": "العالم",
-      "title_ar": "الوفد الإيراني يشارك في النقاش العام للأمم المتحدة"
-    },
-    {
-      "id": "310255a69cf4ddbf",
-      "title_de": "Einigung auf neues Modell für Zivildienst",
-      "link": "https://orf.at/stories/3442919/",
-      "pubDate": "2026-09-22T21:07:47.763Z",
-      "category_de": "Politik",
-      "category_ar": "سياسة",
-      "title_ar": "الاتفاق على نموذج جديد للخدمة المدنية"
-    },
-    {
-      "id": "d74ed68de8568ba9",
-      "title_de": "UFO für Frida Kahlo und die Jedi-Ritter",
-      "link": "https://orf.at/stories/3442306/",
-      "pubDate": "2026-09-22T21:07:47.763Z",
-      "category_de": "Kultur",
-      "category_ar": "ثقافة",
-      "title_ar": "تمثال يكرم فريدا كاهلو وفرسان جيداي"
-    },
-    {
-      "id": "8c4b27b72cd898d6",
-      "title_de": "Donatella Versace lanciert neue Marke mit Revolve",
-      "link": "https://orf.at/stories/3442916/",
-      "pubDate": "2026-09-22T21:07:47.763Z",
+      "id": "9c53220b595ab3c7",
+      "title_de": "Burnham will bei KI-Regeln international eine Führungsrolle",
+      "link": "https://orf.at/stories/3442961/",
+      "pubDate": "2026-09-23T04:19:37.376Z",
       "category_de": "Wirtschaft",
       "category_ar": "اقتصاد",
-      "title_ar": "دونатيلا فيرساتشي تطلق علامة تجارية جديدة بالتعاون مع ريفولف"
+      "title_ar": "بيرنهام تسعى لدور قيادي دولي في تنظيم الذكاء الاصطناعي"
     },
     {
-      "id": "78ebab0059bbf489",
-      "title_de": "Regierung: Tiefengeothermie mit „enormem Potenzial“",
-      "link": "https://orf.at/stories/3442912/",
-      "pubDate": "2026-09-22T21:07:47.763Z",
-      "category_de": "Wirtschaft",
-      "category_ar": "اقتصاد",
-      "title_ar": "الحكومة: تخزين ثاني أكسيد الكربون يتمتع بـ \"إمكانيات هائلة\""
-    },
-    {
-      "id": "c0f9ec3317c950b0",
-      "title_de": "Italiens Außenminister empört mit Frauenbild",
-      "link": "https://orf.at/stories/3442908/",
-      "pubDate": "2026-09-22T21:07:47.763Z",
+      "id": "b9ad5c8a70bbac00",
+      "title_de": "Protest nach neuer ICE-Gewalt in Texas",
+      "link": "https://orf.at/stories/3442960/",
+      "pubDate": "2026-09-23T04:19:37.376Z",
       "category_de": "Ausland",
       "category_ar": "العالم",
-      "title_ar": "وزير الخارجية الإيطالي يثير غضباً برؤيته للمرأة"
+      "title_ar": "احتجاجات في تكساس عقب حادثة عنف جديدة على متن قطار"
     },
     {
-      "id": "0efa07e4c79c2a85",
-      "title_de": "FPÖ will „Aktivpension“ nicht zustimmen",
-      "link": "https://orf.at/stories/3442906/",
-      "pubDate": "2026-09-22T21:07:47.763Z",
-      "category_de": "Politik",
-      "category_ar": "سياسة",
-      "title_ar": "حزب الحرية النمساوي يرفض الموافقة على \"معاش العمل\""
+      "id": "6097a80bd5cad0c0",
+      "title_de": "USA prüfen wegen hoher Spritpreise Exportstopp für Diesel",
+      "link": "https://orf.at/stories/3442959/",
+      "pubDate": "2026-09-23T04:19:37.376Z",
+      "category_de": "Wirtschaft",
+      "category_ar": "اقتصاد",
+      "title_ar": "واشنطن تدرس فرض حظر على صادرات الديزل لمعالجة ارتفاع أسعار الوقود"
     },
     {
-      "id": "a638f4c654afa6c3",
-      "title_de": "Wehrpflicht: Modell zur Reform steht",
-      "link": "https://orf.at/stories/3442904/",
-      "pubDate": "2026-09-22T21:07:47.763Z",
-      "category_de": "Politik",
-      "category_ar": "سياسة",
-      "title_ar": "خطة إصلاح الخدمة العسكرية الإلزامية معدة للتنفيذ"
-    },
-    {
-      "id": "4ad13686330ec95a",
-      "title_de": "Abschiebung von Straftätern wird erleichtert",
-      "link": "https://orf.at/stories/3442896/",
-      "pubDate": "2026-09-22T21:07:47.763Z",
-      "category_de": "Politik",
-      "category_ar": "سياسة",
-      "title_ar": "تسهيل ترحيل المجرمين ذوي الجنسيات الأجنبية"
+      "id": "7a71abd1e1617d8c",
+      "title_de": "Zahl der Toten nach Taifun in Japan auf neun gestiegen",
+      "link": "https://orf.at/stories/3442958/",
+      "pubDate": "2026-09-23T04:19:37.376Z",
+      "category_de": "Ausland",
+      "category_ar": "العالم",
+      "title_ar": "ارتفاع حصيلة الوفيات جراء إعصار في اليابان إلى تسع وفيات"
     },
     {
       "id": "a4a0099e6c4101aa",
       "title_de": "Suche nach Wegen aus „Vertrauenskrise“",
       "link": "https://orf.at/stories/3442793/",
-      "pubDate": "2026-09-22T21:07:47.762Z",
+      "pubDate": "2026-09-23T04:19:37.376Z",
       "category_de": "Politik",
       "category_ar": "سياسة",
       "title_ar": "البحث عن مخارج من \"أزمة الثقة\""
@@ -188,7 +62,7 @@
       "id": "e52e60ba888ad084",
       "title_de": "Leichtes Aufatmen nach langem Streit",
       "link": "https://orf.at/stories/3442948/",
-      "pubDate": "2026-09-22T21:07:47.762Z",
+      "pubDate": "2026-09-23T04:19:37.376Z",
       "category_de": "Politik",
       "category_ar": "سياسة",
       "title_ar": "تنفس الصعداء بعد نزاع طويل"
@@ -197,7 +71,7 @@
       "id": "83c5a9904864532e",
       "title_de": "Meinl-Reisinger mahnt „Rückkehr zur Diplomatie“ ein",
       "link": "https://orf.at/stories/3442956/",
-      "pubDate": "2026-09-22T21:07:47.762Z",
+      "pubDate": "2026-09-23T04:19:37.376Z",
       "category_de": "Politik",
       "category_ar": "سياسة",
       "title_ar": "مينل-رايزينغر تدعو إلى \"العودة للدبلوماسية\""
@@ -206,7 +80,7 @@
       "id": "4a2efe098f274103",
       "title_de": "Macron kritisiert bei UNO Situation in Gaza",
       "link": "https://orf.at/stories/3442955/",
-      "pubDate": "2026-09-22T21:07:47.762Z",
+      "pubDate": "2026-09-23T04:19:37.376Z",
       "category_de": "Ausland",
       "category_ar": "العالم",
       "title_ar": "ماكرون ينتقد الوضع في غزة في الأمم المتحدة"
@@ -215,7 +89,7 @@
       "id": "935de5deb749e15b",
       "title_de": "Selenskyj: Ukraine bereit zu begrenzter Waffenruhe",
       "link": "https://orf.at/stories/3442954/",
-      "pubDate": "2026-09-22T21:07:47.762Z",
+      "pubDate": "2026-09-23T04:19:37.376Z",
       "category_de": "Ausland",
       "category_ar": "العالم",
       "title_ar": "زيلينسكي: أوكرانيا مستعدة لوقف أطلاق نار محدود"
@@ -224,7 +98,7 @@
       "id": "89060cc3fe15c4bc",
       "title_de": "Van der Bellen übt scharfe Kritik an Israel",
       "link": "https://orf.at/stories/3442937/",
-      "pubDate": "2026-09-22T21:07:47.762Z",
+      "pubDate": "2026-09-23T04:19:37.376Z",
       "category_de": "Ausland",
       "category_ar": "العالم",
       "title_ar": "فان دير بيلين ينتقد إسرائيل بشدة"
@@ -233,7 +107,7 @@
       "id": "860ea6b32c920778",
       "title_de": "Taylor Swift kündigt neuen Song „Patient Zero“ an",
       "link": "https://orf.at/stories/3442952/",
-      "pubDate": "2026-09-22T21:07:47.762Z",
+      "pubDate": "2026-09-23T04:19:37.376Z",
       "category_de": "Kultur",
       "category_ar": "ثقافة",
       "title_ar": "تايلور سويفت تعلن عن أغنية جديدة بعنوان \"Patient Zero\""
@@ -242,7 +116,7 @@
       "id": "a89a2c5aada13843",
       "title_de": "AfD-Politiker aus Sachsen-Anhalt bei FPÖ: Scharfe Kritik",
       "link": "https://orf.at/stories/3442951/",
-      "pubDate": "2026-09-22T21:07:47.762Z",
+      "pubDate": "2026-09-23T04:19:37.376Z",
       "category_de": "Politik",
       "category_ar": "سياسة",
       "title_ar": "انتقادات حادة لسياسي من البديل من أجل ألمانيا بعد التقاربات مع الحزب الحر النمساوي"
@@ -251,7 +125,7 @@
       "id": "1a20f64245648881",
       "title_de": "Trump: Treffen zwischen USA und Iran bei UNO in New York",
       "link": "https://orf.at/stories/3442950/",
-      "pubDate": "2026-09-22T21:07:47.762Z",
+      "pubDate": "2026-09-23T04:19:37.376Z",
       "category_de": "Ausland",
       "category_ar": "العالم",
       "title_ar": "ترامب: لقاء بين الولايات المتحدة وإيران بالأمم المتحدة في نيويورك"
@@ -260,7 +134,7 @@
       "id": "8a6320aeefd77323",
       "title_de": "Gericht spricht RBI Schadenersatz im Streit mit Rasperia zu",
       "link": "https://orf.at/stories/3442947/",
-      "pubDate": "2026-09-22T21:07:47.762Z",
+      "pubDate": "2026-09-23T04:19:37.376Z",
       "category_de": "Wirtschaft",
       "category_ar": "اقتصاد",
       "title_ar": "محكمة تحكم لصالح البنك المركزي النمساوي بتعويضات في النزاع مع راسبيريا"
@@ -269,10 +143,145 @@
       "id": "245f4c8f2b81856c",
       "title_de": "Erdogan: Welt muss rasch mit Gaza-Wiederaufbau  beginnen",
       "link": "https://orf.at/stories/3442946/",
-      "pubDate": "2026-09-22T21:07:47.762Z",
+      "pubDate": "2026-09-23T04:19:37.376Z",
       "category_de": "Ausland",
       "category_ar": "العالم",
       "title_ar": "أردوغان: على العالم البدء سريعاً بإعادة بناء غزة"
+    },
+    {
+      "id": "3aa75b49319d846a",
+      "title_de": "Expertin Brandic zu Kritik an Rechenzentren",
+      "link": "https://orf.at/stories/3442945/",
+      "pubDate": "2026-09-23T04:19:37.376Z",
+      "category_de": "Wissenschaft",
+      "category_ar": "علوم",
+      "title_ar": "خبيرة برانديك حول الانتقادات الموجهة لمراكز البيانات"
+    },
+    {
+      "id": "59f4133baf548939",
+      "title_de": "Vielfältiges ORF-Programm trotz Spardrucks",
+      "link": "https://orf.at/stories/3442938/",
+      "pubDate": "2026-09-23T04:19:37.376Z",
+      "category_de": "Kultur",
+      "category_ar": "ثقافة",
+      "title_ar": "برنامج متنوع للتلفزيون النمساوي رغم ضغوط التوفير"
+    },
+    {
+      "id": "67da3379b6d0076d",
+      "title_de": "Abkommen zu Grönland unterzeichnet",
+      "link": "https://orf.at/stories/3442934/",
+      "pubDate": "2026-09-23T04:19:37.376Z",
+      "category_de": "Ausland",
+      "category_ar": "العالم",
+      "title_ar": "توقيع اتفاق بشأن غرينلاند"
+    },
+    {
+      "id": "5dc9e5cbf84d5e59",
+      "title_de": "Sanktionen gegen zwei russische Oligarchen aufgehoben",
+      "link": "https://orf.at/stories/3442942/",
+      "pubDate": "2026-09-23T04:19:37.376Z",
+      "category_de": "Ausland",
+      "category_ar": "العالم",
+      "title_ar": "رفع العقوبات عن رجلي أعمال روسيين"
+    },
+    {
+      "id": "d37901d1b20391e6",
+      "title_de": "Rede vor UNO: Trump wiederholt Drohungen gegen Iran",
+      "link": "https://orf.at/stories/3442940/",
+      "pubDate": "2026-09-23T04:19:37.376Z",
+      "category_de": "Ausland",
+      "category_ar": "العالم",
+      "title_ar": "ترامب يدافع عن حربه ضد إيران في خطابه أمام الأمم المتحدة"
+    },
+    {
+      "id": "9822d48fc5fcaf20",
+      "title_de": "US-Kampfjet F-16 über Deutschland abgestürzt",
+      "link": "https://orf.at/stories/3442939/",
+      "pubDate": "2026-09-23T04:19:37.376Z",
+      "category_de": "Chronik",
+      "category_ar": "حوادث",
+      "title_ar": "تحطم مقاتلة أمريكية من طراز F-16 فوق ألمانيا"
+    },
+    {
+      "id": "9ded7576ae977606",
+      "title_de": "Guterres: USA und China sollen bei KI zusammenarbeiten",
+      "link": "https://orf.at/stories/3442933/",
+      "pubDate": "2026-09-23T04:19:37.376Z",
+      "category_de": "Ausland",
+      "category_ar": "العالم",
+      "title_ar": "جوتيريس يدعو واشنطن وبكين للتعاون في مجال الذكاء الاصطناعي"
+    },
+    {
+      "id": "fc62c7324fe7f5ea",
+      "title_de": "Erneuter Schuldspruch für Benko",
+      "link": "https://orf.at/stories/3442897/",
+      "pubDate": "2026-09-23T04:19:37.376Z",
+      "category_de": "Chronik",
+      "category_ar": "حوادث",
+      "title_ar": "إدانة جديدة لبينكو"
+    },
+    {
+      "id": "19a8362bdfd741d0",
+      "title_de": "Kreml lehnt Selenskyjs Waffenruhevorschlag ab",
+      "link": "https://orf.at/stories/3442929/",
+      "pubDate": "2026-09-23T04:19:37.376Z",
+      "category_de": "Ausland",
+      "category_ar": "العالم",
+      "title_ar": "الكرملين يرفض مقترح وقف إطلاق النار من زيلينسكي"
+    },
+    {
+      "id": "f0da938c52ea5154",
+      "title_de": "Litauen: Neue US-Truppen auf dem Weg",
+      "link": "https://orf.at/stories/3442923/",
+      "pubDate": "2026-09-23T04:19:37.376Z",
+      "category_de": "Ausland",
+      "category_ar": "العالم",
+      "title_ar": "قوات أمريكية جديدة متجهة إلى ليتوانيا"
+    },
+    {
+      "id": "e8f547e5c54c9ed8",
+      "title_de": "UNO-Generaldebatte: Iranische Delegation in New York",
+      "link": "https://orf.at/stories/3442921/",
+      "pubDate": "2026-09-23T04:19:37.376Z",
+      "category_de": "Ausland",
+      "category_ar": "العالم",
+      "title_ar": "الوفد الإيراني يشارك في النقاش العام للأمم المتحدة"
+    },
+    {
+      "id": "310255a69cf4ddbf",
+      "title_de": "Einigung auf neues Modell für Zivildienst",
+      "link": "https://orf.at/stories/3442919/",
+      "pubDate": "2026-09-23T04:19:37.376Z",
+      "category_de": "Politik",
+      "category_ar": "سياسة",
+      "title_ar": "الاتفاق على نموذج جديد للخدمة المدنية"
+    },
+    {
+      "id": "d74ed68de8568ba9",
+      "title_de": "UFO für Frida Kahlo und die Jedi-Ritter",
+      "link": "https://orf.at/stories/3442306/",
+      "pubDate": "2026-09-23T04:19:37.376Z",
+      "category_de": "Kultur",
+      "category_ar": "ثقافة",
+      "title_ar": "تمثال يكرم فريدا كاهلو وفرسان جيداي"
+    },
+    {
+      "id": "8c4b27b72cd898d6",
+      "title_de": "Donatella Versace lanciert neue Marke mit Revolve",
+      "link": "https://orf.at/stories/3442916/",
+      "pubDate": "2026-09-23T04:19:37.376Z",
+      "category_de": "Wirtschaft",
+      "category_ar": "اقتصاد",
+      "title_ar": "دونатيلا فيرساتشي تطلق علامة تجارية جديدة بالتعاون مع ريفولف"
+    },
+    {
+      "id": "78ebab0059bbf489",
+      "title_de": "Regierung: Tiefengeothermie mit „enormem Potenzial“",
+      "link": "https://orf.at/stories/3442912/",
+      "pubDate": "2026-09-23T04:19:37.376Z",
+      "category_de": "Wirtschaft",
+      "category_ar": "اقتصاد",
+      "title_ar": "الحكومة: تخزين ثاني أكسيد الكربون يتمتع بـ \"إمكانيات هائلة\""
     }
   ]
 }
