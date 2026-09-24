@@ -1,14 +1,113 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-09-24T16:56:11.782Z",
+  "generatedAt": "2026-09-24T21:23:32.835Z",
   "source": "https://rss.orf.at/news.xml",
-  "count": 25,
+  "count": 30,
   "items": [
+    {
+      "id": "3faba973ec15d0ed",
+      "title_de": "Macron will Truppen zum Schutz von Ölhafen in Saudi-Arabien",
+      "link": "https://orf.at/stories/3443182/",
+      "pubDate": "2026-09-24T21:23:25.895Z",
+      "category_de": "Ausland",
+      "category_ar": "العالم",
+      "title_ar": "ماكرون يسعى لنشر قوات فرنسية لحماية ميناء نفطي في السعودية"
+    },
+    {
+      "id": "c5fbb3bd7a5405ed",
+      "title_de": "Niger: Mindestens 57 Sicherheitskräfte bei IS-Angriffen getötet",
+      "link": "https://orf.at/stories/3443180/",
+      "pubDate": "2026-09-24T21:23:25.895Z",
+      "category_de": "Ausland",
+      "category_ar": "العالم",
+      "title_ar": "النيجر: مقتل 57 عنصراً أمنياً على الأقل في هجمات تنظيم الدولة"
+    },
+    {
+      "id": "2160e837293cb2d4",
+      "title_de": "Netanjahus Rundumschlag vor UNO",
+      "link": "https://orf.at/stories/3443154/",
+      "pubDate": "2026-09-24T21:23:25.895Z",
+      "category_de": "Ausland",
+      "category_ar": "العالم",
+      "title_ar": "نتنياهو يشن هجوماً شاملاً أمام الأمم المتحدة"
+    },
+    {
+      "id": "c083f8d440cb9cf0",
+      "title_de": "Dolly Parton auf neuem U2-Album zu hören",
+      "link": "https://orf.at/stories/3443177/",
+      "pubDate": "2026-09-24T21:23:25.895Z",
+      "category_de": "Kultur",
+      "category_ar": "ثقافة",
+      "title_ar": "دولي بارتون تظهر في ألبوم يو تو الجديد"
+    },
+    {
+      "id": "46522964fe271fa1",
+      "title_de": "Met in New York verschenkt Tausende Gratiseintrittskarten",
+      "link": "https://orf.at/stories/3443176/",
+      "pubDate": "2026-09-24T21:23:25.895Z",
+      "category_de": "Kultur",
+      "category_ar": "ثقافة",
+      "title_ar": "متحف متروبوليتان بنيويورك يوزع آلاف تذاكر الدخول المجانية"
+    },
+    {
+      "id": "253a5ec6f23bdc3d",
+      "title_de": "Netanjahu verteidigt Krieg gegen Iran vor UNO",
+      "link": "https://orf.at/stories/3443174/",
+      "pubDate": "2026-09-24T21:23:25.895Z",
+      "category_de": "Ausland",
+      "category_ar": "العالم",
+      "title_ar": "نتنياهو يدافع عن الحرب ضد إيران أمام الأمم المتحدة"
+    },
+    {
+      "id": "f8dd60f341c457cf",
+      "title_de": "EU kündigt Widerstand gegen Trumps IStGH-Vorstoß an",
+      "link": "https://orf.at/stories/3443173/",
+      "pubDate": "2026-09-24T21:23:25.895Z",
+      "category_de": "Ausland",
+      "category_ar": "العالم",
+      "title_ar": "الاتحاد الأوروبي يعلن مقاومته لخطوة ترامب ضد المحكمة الجنائية الدولية"
+    },
+    {
+      "id": "0d1ed2f1ace8208d",
+      "title_de": "Trump und Xi betonen „Freundschaft“",
+      "link": "https://orf.at/stories/3443126/",
+      "pubDate": "2026-09-24T21:23:25.895Z",
+      "category_de": "Ausland",
+      "category_ar": "العالم",
+      "title_ar": "ترامب وشي جين بينغ يؤكدان على 'الصداقة'"
+    },
+    {
+      "id": "bcd826ce30e30c70",
+      "title_de": "Außenministerin Meinl-Reisinger zu Gast",
+      "link": "https://orf.at/stories/3443172/",
+      "pubDate": "2026-09-24T21:23:25.895Z",
+      "category_de": "Politik",
+      "category_ar": "سياسة",
+      "title_ar": "وزيرة الخارجية مينل-رايزينغر في زيارة"
+    },
+    {
+      "id": "13b6154599048bf5",
+      "title_de": "Rauswurf bei Ed Sheeran: Macklemore mit „Free Palestine Tour“",
+      "link": "https://orf.at/stories/3443167/",
+      "pubDate": "2026-09-24T21:23:25.895Z",
+      "category_de": "Kultur",
+      "category_ar": "ثقافة",
+      "title_ar": "ماكليمور يطرد من حفل إد شيران ببرنامج 'جولة فلسطين حرة'"
+    },
+    {
+      "id": "119eab10dbb4143e",
+      "title_de": "New York geht gegen Prognoseplattform Polymarket vor",
+      "link": "https://orf.at/stories/3443166/",
+      "pubDate": "2026-09-24T21:23:25.895Z",
+      "category_de": "Wirtschaft",
+      "category_ar": "اقتصاد",
+      "title_ar": "نيويورك تتخذ إجراءات قانونية ضد منصة بوليمركت للتنبؤات"
+    },
     {
       "id": "098c0717294613c3",
       "title_de": "Van der Bellen sprach mit Mamdani über Zusammenarbeit",
       "link": "https://orf.at/stories/3443163/",
-      "pubDate": "2026-09-24T16:56:00.665Z",
+      "pubDate": "2026-09-24T21:23:25.895Z",
       "category_de": "Politik",
       "category_ar": "سياسة",
       "title_ar": "فان دير بيلن يبحث التعاون مع ممداني"
@@ -17,7 +116,7 @@
       "id": "73fc2a38596dcc28",
       "title_de": "NATO: USA stellen künftig begrenztere Fähigkeiten bereit",
       "link": "https://orf.at/stories/3443162/",
-      "pubDate": "2026-09-24T16:56:00.665Z",
+      "pubDate": "2026-09-24T21:23:25.895Z",
       "category_de": "Politik",
       "category_ar": "سياسة",
       "title_ar": "الناتو: واشنطن ستقدم قدرات أكثر محدودية مستقبلاً"
@@ -26,7 +125,7 @@
       "id": "30cd3ca197c0e6de",
       "title_de": "Italien: 30-Prozent-Grenze für ausländische Schüler",
       "link": "https://orf.at/stories/3443160/",
-      "pubDate": "2026-09-24T16:56:00.665Z",
+      "pubDate": "2026-09-24T21:23:25.895Z",
       "category_de": "Politik",
       "category_ar": "سياسة",
       "title_ar": "إيطاليا: حد أقصى 30% للطلاب الأجانب"
@@ -35,7 +134,7 @@
       "id": "ace1a4f28f407963",
       "title_de": "Immobilienmarkt in Bewegung",
       "link": "https://orf.at/stories/3443109/",
-      "pubDate": "2026-09-24T16:56:00.665Z",
+      "pubDate": "2026-09-24T21:23:25.895Z",
       "category_de": "Wirtschaft",
       "category_ar": "اقتصاد",
       "title_ar": "سوق العقارات يشهد تحركات كبيرة"
@@ -44,7 +143,7 @@
       "id": "e83707dbc774d309",
       "title_de": "Meinl-Reisinger: Migrationsabkommen mit Uganda unterzeichnet",
       "link": "https://orf.at/stories/3443158/",
-      "pubDate": "2026-09-24T16:56:00.665Z",
+      "pubDate": "2026-09-24T21:23:25.895Z",
       "category_de": "Politik",
       "category_ar": "سياسة",
       "title_ar": "مينل-رايزينجر: توقيع اتفاق الهجرة مع أوغندا"
@@ -53,7 +152,7 @@
       "id": "00b124b1b8a35cf6",
       "title_de": "EZB-Direktorin Schnabel wechselt zu IWF",
       "link": "https://orf.at/stories/3443157/",
-      "pubDate": "2026-09-24T16:56:00.665Z",
+      "pubDate": "2026-09-24T21:23:25.895Z",
       "category_de": "Wirtschaft",
       "category_ar": "اقتصاد",
       "title_ar": "مديرة البنك المركزي الأوروبي شنابل تنتقل للصندوق النقدي"
@@ -62,7 +161,7 @@
       "id": "6d40d4b507cda12d",
       "title_de": "Thurnher in Stiftungsrat: Sparkurs und „digitale Transformation“",
       "link": "https://orf.at/stories/3443153/",
-      "pubDate": "2026-09-24T16:56:00.665Z",
+      "pubDate": "2026-09-24T21:23:25.895Z",
       "category_de": "Wirtschaft",
       "category_ar": "اقتصاد",
       "title_ar": "تورنهير في مجلس الأمناء: تقشف و\"التحول الرقمي\""
@@ -71,7 +170,7 @@
       "id": "40093cfdfd16aace",
       "title_de": "30 Monate Haft: Benko-Urteil rechtskräftig",
       "link": "https://orf.at/stories/3443152/",
-      "pubDate": "2026-09-24T16:56:00.665Z",
+      "pubDate": "2026-09-24T21:23:25.895Z",
       "category_de": "Chronik",
       "category_ar": "حوادث",
       "title_ar": "حكم بينكو بـ 30 شهراً حبساً أصبح نهائياً"
@@ -80,7 +179,7 @@
       "id": "654854145cac7a4e",
       "title_de": "Israels Wahlkomitee schließt arabische Parteien aus",
       "link": "https://orf.at/stories/3443150/",
-      "pubDate": "2026-09-24T16:56:00.665Z",
+      "pubDate": "2026-09-24T21:23:25.895Z",
       "category_de": "Ausland",
       "category_ar": "العالم",
       "title_ar": "لجنة الانتخابات الإسرائيلية تستبعد الأحزاب العربية"
@@ -89,7 +188,7 @@
       "id": "634886f14707d94e",
       "title_de": "Schnee und Lawinen: Expeditionen auf Manaslu abgesagt",
       "link": "https://orf.at/stories/3443149/",
-      "pubDate": "2026-09-24T16:56:00.665Z",
+      "pubDate": "2026-09-24T21:23:25.895Z",
       "category_de": "Chronik",
       "category_ar": "حوادث",
       "title_ar": "الثلوج والانهيارات الجليدية: إلغاء البعثات على جبل مناسلو"
@@ -98,7 +197,7 @@
       "id": "377f61d005d7e0e0",
       "title_de": "Äthiopische Armee: 272 Tigray-Kämpfer getötet",
       "link": "https://orf.at/stories/3443147/",
-      "pubDate": "2026-09-24T16:56:00.665Z",
+      "pubDate": "2026-09-24T21:23:25.895Z",
       "category_de": "Ausland",
       "category_ar": "العالم",
       "title_ar": "الجيش الإثيوبي: مقتل 272 مقاتلاً من جبهة تيجراي"
@@ -107,7 +206,7 @@
       "id": "e6c8f5dd2128f1b2",
       "title_de": "Metaller-KV vom Vorjahr bestätigt",
       "link": "https://orf.at/stories/3443145/",
-      "pubDate": "2026-09-24T16:56:00.665Z",
+      "pubDate": "2026-09-24T21:23:25.895Z",
       "category_de": "Wirtschaft",
       "category_ar": "اقتصاد",
       "title_ar": "تأكيد اتفاق العمال المعدني من العام السابق"
@@ -116,7 +215,7 @@
       "id": "f17a4b41b60ce6f3",
       "title_de": "Flüchtlingsboot aufgeschlitzt: Brite in Haft",
       "link": "https://orf.at/stories/3443144/",
-      "pubDate": "2026-09-24T16:56:00.665Z",
+      "pubDate": "2026-09-24T21:23:25.895Z",
       "category_de": "Chronik",
       "category_ar": "حوادث",
       "title_ar": "قارب لاجئين مثقوب: بريطاني قيد الاحتجاز"
@@ -125,16 +224,16 @@
       "id": "e61f1603290256c4",
       "title_de": "Ungarn: Neustart für unter Orban eingestellte Qualitätszeitung",
       "link": "https://orf.at/stories/3443143/",
-      "pubDate": "2026-09-24T16:56:00.665Z",
+      "pubDate": "2026-09-24T21:23:25.895Z",
       "category_de": "Politik",
       "category_ar": "سياسة",
       "title_ar": "المجر: إعادة تشغيل جريدة أُوقفت في عهد أوربان"
     },
     {
       "id": "843641036a36aad2",
-      "title_de": "Medien teils doch wieder zugelassen",
+      "title_de": "Medien doch wieder zugelassen",
       "link": "https://orf.at/stories/3443131/",
-      "pubDate": "2026-09-24T16:56:00.665Z",
+      "pubDate": "2026-09-24T21:23:25.895Z",
       "category_de": "Politik",
       "category_ar": "سياسة",
       "title_ar": "السماح جزئياً بعودة الإعلام"
@@ -143,7 +242,7 @@
       "id": "adcb8b614a63cb6a",
       "title_de": "Trump: USA und China gegen staatliche KI-Regulierung",
       "link": "https://orf.at/stories/3443135/",
-      "pubDate": "2026-09-24T16:56:00.665Z",
+      "pubDate": "2026-09-24T21:23:25.895Z",
       "category_de": "Wirtschaft",
       "category_ar": "اقتصاد",
       "title_ar": "ترامب: أمريكا والصين ضد التنظيم الحكومي للذكاء الاصطناعي"
@@ -152,7 +251,7 @@
       "id": "cbc741f13965be6a",
       "title_de": "Sugababes melden sich mit „Sugababes“ zurück",
       "link": "https://orf.at/stories/3443134/",
-      "pubDate": "2026-09-24T16:56:00.665Z",
+      "pubDate": "2026-09-24T21:23:25.895Z",
       "category_de": "Kultur",
       "category_ar": "ثقافة",
       "title_ar": "فريق سوجابايبز يعود بألبوم جديد باسم فرقتهم"
@@ -161,7 +260,7 @@
       "id": "66885d7a929a49e0",
       "title_de": "Polen: Toter bei Messerangriff in Kloster",
       "link": "https://orf.at/stories/3443133/",
-      "pubDate": "2026-09-24T16:56:00.665Z",
+      "pubDate": "2026-09-24T21:23:25.895Z",
       "category_de": "Chronik",
       "category_ar": "حوادث",
       "title_ar": "بولندا: مقتل شخص في هجوم بسكين بدير"
@@ -170,64 +269,10 @@
       "id": "b52d0050307ef0ed",
       "title_de": "Starbucks schließt 250 Filialen in Nordamerika",
       "link": "https://orf.at/stories/3443130/",
-      "pubDate": "2026-09-24T16:56:00.665Z",
+      "pubDate": "2026-09-24T21:23:25.895Z",
       "category_de": "Wirtschaft",
       "category_ar": "اقتصاد",
       "title_ar": "ستاربكس تغلق 250 فرعاً في أمريكا الشمالية"
-    },
-    {
-      "id": "38aea9b9547ca604",
-      "title_de": "Pilotversuch zu sechs Jahren Volksschule",
-      "link": "https://orf.at/stories/3443114/",
-      "pubDate": "2026-09-24T16:56:00.665Z",
-      "category_de": "Politik",
-      "category_ar": "سياسة",
-      "title_ar": "مشروع تجريبي: ست سنوات للمرحلة الابتدائية"
-    },
-    {
-      "id": "a898deade1256a44",
-      "title_de": "Gepunktete Laternenträgerzikade erstmals in EU entdeckt",
-      "link": "https://orf.at/stories/3443127/",
-      "pubDate": "2026-09-24T16:56:00.665Z",
-      "category_de": "Wissenschaft",
-      "category_ar": "علوم",
-      "title_ar": "اكتشاف حشرة الزيز الحاملة للأمراض للمرة الأولى في الاتحاد الأوروبي"
-    },
-    {
-      "id": "0ff52e51b0222c83",
-      "title_de": "Nordirak: Türkei will Stützpunkt schrittweise übergeben",
-      "link": "https://orf.at/stories/3443122/",
-      "pubDate": "2026-09-24T16:56:00.665Z",
-      "category_de": "Ausland",
-      "category_ar": "العالم",
-      "title_ar": "تركيا تخطط لتسليم قاعدتها العسكرية بشمال العراق تدريجياً"
-    },
-    {
-      "id": "b009c1b31ffa843e",
-      "title_de": "Neun Tote bei Marineübung am Kaspischen Meer",
-      "link": "https://orf.at/stories/3443116/",
-      "pubDate": "2026-09-24T16:56:00.665Z",
-      "category_de": "Chronik",
-      "category_ar": "حوادث",
-      "title_ar": "تسع قتلى في مناورة عسكرية بحرية بحر قزوين"
-    },
-    {
-      "id": "cb092cd0266d27b6",
-      "title_de": "Zwischen Freude am Job und Notwendigkeit",
-      "link": "https://orf.at/stories/3442988/",
-      "pubDate": "2026-09-24T16:56:00.665Z",
-      "category_de": "Sonstiges",
-      "category_ar": "عام",
-      "title_ar": "بين متعة العمل والضرورة الاقتصادية"
-    },
-    {
-      "id": "95f812b9bf28c3d5",
-      "title_de": "Teheran warnt vor Ausweitung von Krieg auf Indischen Ozean",
-      "link": "https://orf.at/stories/3443113/",
-      "pubDate": "2026-09-24T16:56:00.665Z",
-      "category_de": "Ausland",
-      "category_ar": "العالم",
-      "title_ar": "طهران تحذر من توسع الصراع إلى المحيط الهندي"
     }
   ]
 }
