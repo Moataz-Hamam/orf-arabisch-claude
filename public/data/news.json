@@ -1,14 +1,86 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-09-23T21:21:55.980Z",
+  "generatedAt": "2026-09-24T04:15:56.703Z",
   "source": "https://rss.orf.at/news.xml",
-  "count": 32,
+  "count": 34,
   "items": [
+    {
+      "id": "45a601efbf977d0f",
+      "title_de": "Venezuelas Präsidentin Rodriguez stellt Wahlen in Aussicht",
+      "link": "https://orf.at/stories/3443069/",
+      "pubDate": "2026-09-24T04:15:52.764Z",
+      "category_de": "Ausland",
+      "category_ar": "العالم",
+      "title_ar": "رئيسة فنزويلا تلمح إلى إجراء انتخابات قريبة"
+    },
+    {
+      "id": "b0e71b45477fec0d",
+      "title_de": "Trump empfängt Xi: Zölle gegen China aufgeschoben",
+      "link": "https://orf.at/stories/3443068/",
+      "pubDate": "2026-09-24T04:15:52.764Z",
+      "category_de": "Ausland",
+      "category_ar": "العالم",
+      "title_ar": "ترامب يستقبل شي: تأجيل الرسوم الجمركية على الصين"
+    },
+    {
+      "id": "e2e545184f9770eb",
+      "title_de": "Spätsommer gibt noch ein Gastspiel",
+      "link": "https://orf.at/stories/3443017/",
+      "pubDate": "2026-09-24T04:15:52.764Z",
+      "category_de": "Chronik",
+      "category_ar": "حوادث",
+      "title_ar": "الصيف الهندي يعود للظهور مرة أخرى"
+    },
+    {
+      "id": "9773430a8a4211fb",
+      "title_de": "Zwei Tote bei neuen Angriffen auf Kiew",
+      "link": "https://orf.at/stories/3443065/",
+      "pubDate": "2026-09-24T04:15:52.764Z",
+      "category_de": "Ausland",
+      "category_ar": "العالم",
+      "title_ar": "قتيلان في هجمات جديدة على كييف"
+    },
+    {
+      "id": "513a684cfa5e3287",
+      "title_de": "Streit über Erbe von Dolly Parton entbrannt",
+      "link": "https://orf.at/stories/3443064/",
+      "pubDate": "2026-09-24T04:15:52.764Z",
+      "category_de": "Kultur",
+      "category_ar": "ثقافة",
+      "title_ar": "نزاع حول إرث دولي بارتون"
+    },
+    {
+      "id": "5ac3915d76ca9293",
+      "title_de": "Dreifachjackpot bei Lotto „6 aus 45“",
+      "link": "https://orf.at/stories/3443063/",
+      "pubDate": "2026-09-24T04:15:52.764Z",
+      "category_de": "Sonstiges",
+      "category_ar": "عام",
+      "title_ar": "جائزة يانصيب \"6 من 45\" بقيمة ثلاثية"
+    },
+    {
+      "id": "2b2627bec782734e",
+      "title_de": "Tech-Chefs warnen vor Gefahr durch KI",
+      "link": "https://orf.at/stories/3443052/",
+      "pubDate": "2026-09-24T04:15:52.764Z",
+      "category_de": "Wissenschaft",
+      "category_ar": "علوم",
+      "title_ar": "رؤساء شركات التكنولوجيا يحذرون من أخطار الذكاء الاصطناعي"
+    },
+    {
+      "id": "453fb6de7ee1f019",
+      "title_de": "Selenskyj ruft vor UNO zur Eindämmung Russlands auf",
+      "link": "https://orf.at/stories/3443061/",
+      "pubDate": "2026-09-24T04:15:52.764Z",
+      "category_de": "Ausland",
+      "category_ar": "العالم",
+      "title_ar": "زيلينسكي يدعو الأمم المتحدة للضغط على روسيا"
+    },
     {
       "id": "d59c61e33e45eee0",
       "title_de": "Milei attackiert UNO und pocht auf Falkland-Anspruch",
       "link": "https://orf.at/stories/3443059/",
-      "pubDate": "2026-09-23T21:21:50.526Z",
+      "pubDate": "2026-09-24T04:15:52.764Z",
       "category_de": "Ausland",
       "category_ar": "العالم",
       "title_ar": "ميلي يهاجم الأمم المتحدة ويؤكد مطالب الأرجنتين في جزر فوكلاند"
@@ -17,7 +89,7 @@
       "id": "09f9f2eea04f0c1d",
       "title_de": "Neue Eskalation in Tigray-Region",
       "link": "https://orf.at/stories/3443015/",
-      "pubDate": "2026-09-23T21:21:50.526Z",
+      "pubDate": "2026-09-24T04:15:52.764Z",
       "category_de": "Ausland",
       "category_ar": "العالم",
       "title_ar": "تصعيد جديد في منطقة تيغراي"
@@ -26,7 +98,7 @@
       "id": "e1ba3111ef99cd40",
       "title_de": "Kritik aus Israel: Meinl-Reisinger verteidigt Van der Bellen",
       "link": "https://orf.at/stories/3443058/",
-      "pubDate": "2026-09-23T21:21:50.526Z",
+      "pubDate": "2026-09-24T04:15:52.764Z",
       "category_de": "Politik",
       "category_ar": "سياسة",
       "title_ar": "انتقادات إسرائيلية: مينل-رايسينغر تدافع عن فان دير بيلين"
@@ -35,7 +107,7 @@
       "id": "73575c477edb177d",
       "title_de": "FPÖ lässt Zustimmung weiter offen",
       "link": "https://orf.at/stories/3443049/",
-      "pubDate": "2026-09-23T21:21:50.526Z",
+      "pubDate": "2026-09-24T04:15:52.764Z",
       "category_de": "Politik",
       "category_ar": "سياسة",
       "title_ar": "الحزب النمساوي الحر يبقي موقفه معلقاً"
@@ -44,7 +116,7 @@
       "id": "33ba9d8c5a39804f",
       "title_de": "Staatssekretärin Eibinger-Miedl zu Gast",
       "link": "https://orf.at/stories/3443051/",
-      "pubDate": "2026-09-23T21:21:50.526Z",
+      "pubDate": "2026-09-24T04:15:52.764Z",
       "category_de": "Politik",
       "category_ar": "سياسة",
       "title_ar": "وزيرة الدولة إيبينغر-مييدل في زيارة رسمية"
@@ -53,7 +125,7 @@
       "id": "426595b5cad9537b",
       "title_de": "Die Gewinnzahlen von Lotto „6 aus 45“",
       "link": "https://orf.at/stories/3443050/",
-      "pubDate": "2026-09-23T21:21:50.526Z",
+      "pubDate": "2026-09-24T04:15:52.764Z",
       "category_de": "Sonstiges",
       "category_ar": "عام",
       "title_ar": "أرقام الفائزين في اليانصيب النمساوي"
@@ -62,7 +134,7 @@
       "id": "4822641fe96ea7fc",
       "title_de": "Servus Radio: Servus Media steigt ins Radiogeschäft ein",
       "link": "https://orf.at/stories/3443048/",
-      "pubDate": "2026-09-23T21:21:50.526Z",
+      "pubDate": "2026-09-24T04:15:52.764Z",
       "category_de": "Wirtschaft",
       "category_ar": "اقتصاد",
       "title_ar": "سيرفوس ميديا تدخل قطاع الإذاعة"
@@ -71,7 +143,7 @@
       "id": "2a4f4b2390907fb1",
       "title_de": "London will Rückgabe von Chagos-Inseln neu bewerten",
       "link": "https://orf.at/stories/3443047/",
-      "pubDate": "2026-09-23T21:21:50.526Z",
+      "pubDate": "2026-09-24T04:15:52.764Z",
       "category_de": "Ausland",
       "category_ar": "العالم",
       "title_ar": "لندن تعيد النظر في قضية إرجاع جزر تشاغوس"
@@ -80,7 +152,7 @@
       "id": "353155e485a3c074",
       "title_de": "Van der Bellen sichert Kiew weitere Unterstützung zu",
       "link": "https://orf.at/stories/3443046/",
-      "pubDate": "2026-09-23T21:21:50.526Z",
+      "pubDate": "2026-09-24T04:15:52.764Z",
       "category_de": "Ausland",
       "category_ar": "العالم",
       "title_ar": "فان دير بيلن يؤكد لكييف استمرار الدعم النمساوي"
@@ -89,7 +161,7 @@
       "id": "4b5a540df3af7eca",
       "title_de": "Iranischer Präsident beklagt bei UNO „Politik der Gewalt“",
       "link": "https://orf.at/stories/3443045/",
-      "pubDate": "2026-09-23T21:21:50.526Z",
+      "pubDate": "2026-09-24T04:15:52.764Z",
       "category_de": "Ausland",
       "category_ar": "العالم",
       "title_ar": "الرئيس الإيراني ينتقد «سياسة العنف» أمام الأمم المتحدة"
@@ -98,7 +170,7 @@
       "id": "0526391bc3dbcd13",
       "title_de": "15 Jahre Haft für Ex-Hollywood-Produzenten Weinstein",
       "link": "https://orf.at/stories/3443044/",
-      "pubDate": "2026-09-23T21:21:50.526Z",
+      "pubDate": "2026-09-24T04:15:52.764Z",
       "category_de": "Chronik",
       "category_ar": "حوادث",
       "title_ar": "وسائل إعلام: السجن 15 سنة لمنتج هوليوود السابق واينشتاين"
@@ -107,7 +179,7 @@
       "id": "f344cba6f95d2fbb",
       "title_de": "Trumps „Friedensrat“ stellt Wiederaufbauplan für Gaza vor",
       "link": "https://orf.at/stories/3443043/",
-      "pubDate": "2026-09-23T21:21:50.526Z",
+      "pubDate": "2026-09-24T04:15:52.764Z",
       "category_de": "Ausland",
       "category_ar": "العالم",
       "title_ar": "«مجلس السلام» الأمريكي يعرض خطة إعادة بناء غزة"
@@ -116,7 +188,7 @@
       "id": "1d121b80be6901e0",
       "title_de": "Nationalrat: KI-Einsatz in Verwaltung vereinfacht",
       "link": "https://orf.at/stories/3443042/",
-      "pubDate": "2026-09-23T21:21:50.526Z",
+      "pubDate": "2026-09-24T04:15:52.764Z",
       "category_de": "Politik",
       "category_ar": "سياسة",
       "title_ar": "البرلمان النمساوي يوافق على تبسيط استخدام الذكاء الاصطناعي في الإدارة"
@@ -125,7 +197,7 @@
       "id": "35622cccd0be7a2c",
       "title_de": "WKO: Sonntagsöffnung bis zu zehnmal im Jahr „vorstellbar“",
       "link": "https://orf.at/stories/3443041/",
-      "pubDate": "2026-09-23T21:21:50.526Z",
+      "pubDate": "2026-09-24T04:15:52.764Z",
       "category_de": "Wirtschaft",
       "category_ar": "اقتصاد",
       "title_ar": "غرفة التجارة النمساوية: فتح المتاجر يوم الأحد عشر مرات سنوياً «مقبول»"
@@ -134,7 +206,7 @@
       "id": "c406c74895ed9095",
       "title_de": "Bären als ungebetene Gäste",
       "link": "https://orf.at/stories/3442901/",
-      "pubDate": "2026-09-23T21:21:50.526Z",
+      "pubDate": "2026-09-24T04:15:52.764Z",
       "category_de": "Chronik",
       "category_ar": "حوادث",
       "title_ar": "الدببة ضيوف غير مرحب بهم"
@@ -143,7 +215,7 @@
       "id": "06521674949e0057",
       "title_de": "USA laden Putin zum G-20-Gipfel in Miami ein",
       "link": "https://orf.at/stories/3443039/",
-      "pubDate": "2026-09-23T21:21:50.526Z",
+      "pubDate": "2026-09-24T04:15:52.764Z",
       "category_de": "Ausland",
       "category_ar": "العالم",
       "title_ar": "واشنطن تدعو بوتين لحضور قمة العشرين في ميامي"
@@ -152,7 +224,7 @@
       "id": "0a7c43670b4db22f",
       "title_de": "OSZE: Keine Einladung zu US-Midterms",
       "link": "https://orf.at/stories/3443038/",
-      "pubDate": "2026-09-23T21:21:50.526Z",
+      "pubDate": "2026-09-24T04:15:52.764Z",
       "category_de": "Ausland",
       "category_ar": "العالم",
       "title_ar": "منظمة الأمن والتعاون: لا تدعوة لمراقبة الانتخابات النصفية الأمريكية"
@@ -161,7 +233,7 @@
       "id": "3eddf29ed9dd45c9",
       "title_de": "Neue Spritpreisbremse kommt",
       "link": "https://orf.at/stories/3443029/",
-      "pubDate": "2026-09-23T21:21:50.526Z",
+      "pubDate": "2026-09-24T04:15:52.764Z",
       "category_de": "Wirtschaft",
       "category_ar": "اقتصاد",
       "title_ar": "سياسة تخفيف أسعار الوقود الجديدة قادمة"
@@ -170,7 +242,7 @@
       "id": "6c6d0f2875d1e8c0",
       "title_de": "Ausstieg aus fossiler Energie: Deutscher Plan bei UNO vorgelegt",
       "link": "https://orf.at/stories/3443036/",
-      "pubDate": "2026-09-23T21:21:50.526Z",
+      "pubDate": "2026-09-24T04:15:52.764Z",
       "category_de": "Ausland",
       "category_ar": "العالم",
       "title_ar": "خطة ألمانية للخروج من الطاقة الأحفورية تُعرض في الأمم المتحدة"
@@ -179,7 +251,7 @@
       "id": "05f0a28416c3ceb8",
       "title_de": "Scharaa fordert Rückzug Israels vom Golan",
       "link": "https://orf.at/stories/3443034/",
-      "pubDate": "2026-09-23T21:21:50.526Z",
+      "pubDate": "2026-09-24T04:15:52.764Z",
       "category_de": "Ausland",
       "category_ar": "العالم",
       "title_ar": "الشرع يطالب بانسحاب إسرائيل من الجولان"
@@ -188,7 +260,7 @@
       "id": "74edcd6684bc6950",
       "title_de": "Zwölf Cent pro Liter: Einigung bei Spritpreisbremse",
       "link": "https://orf.at/stories/3443032/",
-      "pubDate": "2026-09-23T21:21:50.526Z",
+      "pubDate": "2026-09-24T04:15:52.764Z",
       "category_de": "Wirtschaft",
       "category_ar": "اقتصاد",
       "title_ar": "اتفاق على تخفيض 12 سنتاً لكل لتر بندية الوقود"
@@ -197,7 +269,7 @@
       "id": "c4a6d212c702c7a3",
       "title_de": "Eurovision Song Contest: Niederlande 2027 wieder dabei",
       "link": "https://orf.at/stories/3443031/",
-      "pubDate": "2026-09-23T21:21:50.526Z",
+      "pubDate": "2026-09-24T04:15:52.764Z",
       "category_de": "Kultur",
       "category_ar": "ثقافة",
       "title_ar": "مسابقة يوروفيجن: هولندا تعود للمشاركة عام 2027"
@@ -206,7 +278,7 @@
       "id": "7414d83a57816df4",
       "title_de": "Influencer Clavicular wegen Vergewaltigung angeklagt",
       "link": "https://orf.at/stories/3443028/",
-      "pubDate": "2026-09-23T21:21:50.526Z",
+      "pubDate": "2026-09-24T04:15:52.764Z",
       "category_de": "Chronik",
       "category_ar": "حوادث",
       "title_ar": "مؤثر إعلامي مشهور متهم بجرائم اغتصاب"
@@ -215,7 +287,7 @@
       "id": "9e2140f47b72656d",
       "title_de": "Steuergutschrift für Arbeit in Pension kommt",
       "link": "https://orf.at/stories/3442989/",
-      "pubDate": "2026-09-23T21:21:50.526Z",
+      "pubDate": "2026-09-24T04:15:52.764Z",
       "category_de": "Politik",
       "category_ar": "سياسة",
       "title_ar": "إعفاءات ضريبية للعاملين عند التقاعد"
@@ -224,7 +296,7 @@
       "id": "01194077d95cd59f",
       "title_de": "Polen: Russischer Hubschrauber dringt in Luftraum ein",
       "link": "https://orf.at/stories/3443020/",
-      "pubDate": "2026-09-23T21:21:50.526Z",
+      "pubDate": "2026-09-24T04:15:52.764Z",
       "category_de": "Ausland",
       "category_ar": "العالم",
       "title_ar": "بولندا: مروحية روسية تخترق الأجواء الوطنية"
@@ -233,64 +305,10 @@
       "id": "fecf88f7b37f9b09",
       "title_de": "London schützt Satelliten mit neuer Weltraumeinheit",
       "link": "https://orf.at/stories/3443019/",
-      "pubDate": "2026-09-23T21:21:50.526Z",
+      "pubDate": "2026-09-24T04:15:52.764Z",
       "category_de": "Ausland",
       "category_ar": "العالم",
       "title_ar": "لندن تحمي الأقمار الصناعية بوحدة فضاء جديدة"
-    },
-    {
-      "id": "4685635ef6d1f269",
-      "title_de": "Spritpreise: ÖVP-Landeshauptleute fordern Steuersenkung",
-      "link": "https://orf.at/stories/3443018/",
-      "pubDate": "2026-09-23T21:21:50.526Z",
-      "category_de": "Wirtschaft",
-      "category_ar": "اقتصاد",
-      "title_ar": "أسعار الوقود: حكام النمسا بالحزب الشعبي يطالبون بخفض الضرائب"
-    },
-    {
-      "id": "51608a8b3a21023a",
-      "title_de": "Huthis warnen USA vor Einmischung im Jemen",
-      "link": "https://orf.at/stories/3443016/",
-      "pubDate": "2026-09-23T21:21:50.526Z",
-      "category_de": "Ausland",
-      "category_ar": "العالم",
-      "title_ar": "الحوثيون يحذرون أمريكا من التدخل في اليمن"
-    },
-    {
-      "id": "27d9ad14186c693d",
-      "title_de": "Großer Empfang trotz vieler Streitpunkte",
-      "link": "https://orf.at/stories/3442985/",
-      "pubDate": "2026-09-23T21:21:50.526Z",
-      "category_de": "Ausland",
-      "category_ar": "العالم",
-      "title_ar": "استقبال حافل رغم العديد من نقاط الخلاف"
-    },
-    {
-      "id": "35d556dcf50ea066",
-      "title_de": "Aserbaidschan begnadigt verurteilten Franzosen",
-      "link": "https://orf.at/stories/3443012/",
-      "pubDate": "2026-09-23T21:21:50.526Z",
-      "category_de": "Ausland",
-      "category_ar": "العالم",
-      "title_ar": "أذربيجان تعفو عن فرنسي محكوم"
-    },
-    {
-      "id": "ffafc3f83920de2a",
-      "title_de": "Trump traf Venezuelas Übergangspräsidentin in New York",
-      "link": "https://orf.at/stories/3443011/",
-      "pubDate": "2026-09-23T21:21:50.526Z",
-      "category_de": "Ausland",
-      "category_ar": "العالم",
-      "title_ar": "ترامب يلتقي الرئيسة الانتقالية لفنزويلا في نيويورك"
-    },
-    {
-      "id": "453fb6de7ee1f019",
-      "title_de": "Selenskyj ruft vor UNO zur Eindämmung Russlands auf",
-      "link": "https://orf.at/stories/3443061/",
-      "pubDate": "2026-09-23T21:21:50.525Z",
-      "category_de": "Ausland",
-      "category_ar": "العالم",
-      "title_ar": "زيلينسكي يدعو الأمم المتحدة للضغط على روسيا"
     }
   ]
 }
