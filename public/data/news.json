@@ -1,122 +1,14 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-09-25T11:35:41.515Z",
+  "generatedAt": "2026-09-25T16:58:31.061Z",
   "source": "https://rss.orf.at/news.xml",
-  "count": 25,
+  "count": 21,
   "items": [
-    {
-      "id": "bcf354da68f635ec",
-      "title_de": "D: Kritik an Stolpersteinverbot in Heidenau",
-      "link": "https://orf.at/stories/3443200/",
-      "pubDate": "2026-09-25T11:35:29.886Z",
-      "category_de": "Politik",
-      "category_ar": "سياسة",
-      "title_ar": "انتقادات لحظر أحجار الذاكرة في مدينة هايدناو الألمانية"
-    },
-    {
-      "id": "77a7d7ffca976ba3",
-      "title_de": "Bericht über neues Verhandlungsangebot des Iran an USA",
-      "link": "https://orf.at/stories/3443193/",
-      "pubDate": "2026-09-25T11:35:29.886Z",
-      "category_de": "Ausland",
-      "category_ar": "العالم",
-      "title_ar": "إيران تقدم عرض تفاوضي جديد للولايات المتحدة"
-    },
-    {
-      "id": "c9d8acfb2f652f33",
-      "title_de": "Plädoyer für das Völkerrecht",
-      "link": "https://orf.at/stories/3443185/",
-      "pubDate": "2026-09-25T11:35:29.886Z",
-      "category_de": "Politik",
-      "category_ar": "سياسة",
-      "title_ar": "دعوة لتعزيز احترام القانون الدولي"
-    },
-    {
-      "id": "a95bdc17dcce1d20",
-      "title_de": "Greenwashing: Greenpeace mit EU-Beschwerde gegen Österreich",
-      "link": "https://orf.at/stories/3443192/",
-      "pubDate": "2026-09-25T11:35:29.886Z",
-      "category_de": "Politik",
-      "category_ar": "سياسة",
-      "title_ar": "غرينبيس تقدم شكوى ضد النمسا للاتحاد الأوروبي بسبب الغسيل الأخضر"
-    },
-    {
-      "id": "1bcb116bdf060826",
-      "title_de": "Ausbildung der Sekundarstufenlehrer wird kürzer",
-      "link": "https://orf.at/stories/3443191/",
-      "pubDate": "2026-09-25T11:35:29.886Z",
-      "category_de": "Wissenschaft",
-      "category_ar": "علوم",
-      "title_ar": "تقصير مدة برامج تدريب معلمي المرحلة الثانوية"
-    },
-    {
-      "id": "ac90cde7807af436",
-      "title_de": "Jugendarbeitslosigkeit: Deutliche Unterschiede nach Herkunft",
-      "link": "https://orf.at/stories/3443190/",
-      "pubDate": "2026-09-25T11:35:29.886Z",
-      "category_de": "Chronik",
-      "category_ar": "حوادث",
-      "title_ar": "فروقات كبيرة في البطالة بين الشباب حسب أصولهم"
-    },
-    {
-      "id": "fd266ade6eb87f2b",
-      "title_de": "Hunderte junge Wale in Argentinien verendet",
-      "link": "https://orf.at/stories/3443189/",
-      "pubDate": "2026-09-25T11:35:29.886Z",
-      "category_de": "Chronik",
-      "category_ar": "حوادث",
-      "title_ar": "نفوق المئات من صغار الحيتان على السواحل الأرجنتينية"
-    },
-    {
-      "id": "f92634926291f90c",
-      "title_de": "Teheran will angeblich auch über Uran sprechen",
-      "link": "https://orf.at/stories/3443188/",
-      "pubDate": "2026-09-25T11:35:29.886Z",
-      "category_de": "Ausland",
-      "category_ar": "العالم",
-      "title_ar": "إيران تبدي استعدادها للحوار حول الملف النووي"
-    },
-    {
-      "id": "5b69095f764fde6b",
-      "title_de": "Trumps Abschiebepläne beschäftigen US-Höchstgericht",
-      "link": "https://orf.at/stories/3443187/",
-      "pubDate": "2026-09-25T11:35:29.886Z",
-      "category_de": "Ausland",
-      "category_ar": "العالم",
-      "title_ar": "المحكمة العليا الأمريكية تنظر في قضية الترحيل إلى دول ثالثة"
-    },
-    {
-      "id": "0fde8ba504cee2b8",
-      "title_de": "Jemen: Regierung fordert internationale Hilfe gegen Huthis",
-      "link": "https://orf.at/stories/3443186/",
-      "pubDate": "2026-09-25T11:35:29.886Z",
-      "category_de": "Ausland",
-      "category_ar": "العالم",
-      "title_ar": "الحكومة اليمنية تطالب بتدخل دولي لمواجهة الحوثيين"
-    },
-    {
-      "id": "e0f687197ef3ab86",
-      "title_de": "Warnung vor humanitärer Katastrophe",
-      "link": "https://orf.at/stories/3443099/",
-      "pubDate": "2026-09-25T11:35:29.886Z",
-      "category_de": "Ausland",
-      "category_ar": "العالم",
-      "title_ar": "تحذيرات من كارثة إنسانية وشيكة"
-    },
-    {
-      "id": "3faba973ec15d0ed",
-      "title_de": "Macron will Ölhafen in Saudi-Arabien militärisch schützen",
-      "link": "https://orf.at/stories/3443182/",
-      "pubDate": "2026-09-25T11:35:29.886Z",
-      "category_de": "Ausland",
-      "category_ar": "العالم",
-      "title_ar": "ماكرون يسعى لنشر قوات فرنسية لحماية ميناء نفطي في السعودية"
-    },
     {
       "id": "0eb37da37e5aaf37",
       "title_de": "Vier neue Vertragsverletzungsverfahren gegen Österreich",
       "link": "https://orf.at/stories/3443238/",
-      "pubDate": "2026-09-25T11:35:29.885Z",
+      "pubDate": "2026-09-25T16:58:22.536Z",
       "category_de": "Politik",
       "category_ar": "سياسة",
       "title_ar": "النمسا تواجه أربع إجراءات تحت طائلة المسؤولية أمام الاتحاد الأوروبي"
@@ -125,7 +17,7 @@
       "id": "73da56d824b2eae8",
       "title_de": "Zeiler will SPÖ-Chef werden",
       "link": "https://orf.at/stories/3443233/",
-      "pubDate": "2026-09-25T11:35:29.885Z",
+      "pubDate": "2026-09-25T16:58:22.536Z",
       "category_de": "Politik",
       "category_ar": "سياسة",
       "title_ar": "تسابق محموم على رئاسة الحزب الاشتراكي النمساوي"
@@ -134,7 +26,7 @@
       "id": "9c14153b96378895",
       "title_de": "Delfine und Wale verenden nach Verlegung aus Freizeitpark",
       "link": "https://orf.at/stories/3443232/",
-      "pubDate": "2026-09-25T11:35:29.885Z",
+      "pubDate": "2026-09-25T16:58:22.536Z",
       "category_de": "Chronik",
       "category_ar": "حوادث",
       "title_ar": "نفوق الدلافين والحيتان بعد نقلها من حديقة الملاهي"
@@ -143,25 +35,16 @@
       "id": "748dedce5c85bc58",
       "title_de": "Junge ohne Job: Studie beleuchtet Rolle der Herkunft",
       "link": "https://orf.at/stories/3443221/",
-      "pubDate": "2026-09-25T11:35:29.885Z",
+      "pubDate": "2026-09-25T16:58:22.536Z",
       "category_de": "Chronik",
       "category_ar": "حوادث",
       "title_ar": "دراسة تكشف تأثير الأصول على فرص العمل للشباب"
     },
     {
-      "id": "b29e9244349e5647",
-      "title_de": "Urlaub in Österreich heuer stärker gefragt",
-      "link": "https://orf.at/stories/3443225/",
-      "pubDate": "2026-09-25T11:35:29.885Z",
-      "category_de": "Wirtschaft",
-      "category_ar": "اقتصاد",
-      "title_ar": "الإجازات في النمسا تشهد طلباً متزايداً هذا العام"
-    },
-    {
       "id": "47768bd8a699ba35",
       "title_de": "Finnland und Schweden fangen russische Jets über Ostsee ab",
       "link": "https://orf.at/stories/3443223/",
-      "pubDate": "2026-09-25T11:35:29.885Z",
+      "pubDate": "2026-09-25T16:58:22.536Z",
       "category_de": "Ausland",
       "category_ar": "العالم",
       "title_ar": "فنلندا والسويد تعترضان مقاتلات روسية فوق بحر البلطيق"
@@ -170,7 +53,7 @@
       "id": "401c40e42d83bfb0",
       "title_de": "Selenskyj: USA schlagen Dreiertreffen mit Russland vor",
       "link": "https://orf.at/stories/3443219/",
-      "pubDate": "2026-09-25T11:35:29.885Z",
+      "pubDate": "2026-09-25T16:58:22.536Z",
       "category_de": "Ausland",
       "category_ar": "العالم",
       "title_ar": "زيلينسكي: واشنطن تقترح لقاء ثلاثياً مع روسيا"
@@ -179,55 +62,136 @@
       "id": "1f5a87e15417761c",
       "title_de": "VW ruft weltweit zwei Millionen Autos zurück",
       "link": "https://orf.at/stories/3443216/",
-      "pubDate": "2026-09-25T11:35:29.885Z",
+      "pubDate": "2026-09-25T16:58:22.536Z",
       "category_de": "Wirtschaft",
       "category_ar": "اقتصاد",
       "title_ar": "فولكسفاجن تستدعي مليوني سيارة عالمياً"
     },
     {
-      "id": "f9f15a411b606e61",
-      "title_de": "Berichte über neues Angebot aus Teheran",
-      "link": "https://orf.at/stories/3443203/",
-      "pubDate": "2026-09-25T11:35:29.885Z",
+      "id": "bf2308e6e3d18b2a",
+      "title_de": "Viel Show, wenig Inhalt auf Gipfel Trump – Xi",
+      "link": "https://orf.at/stories/3443218/",
+      "pubDate": "2026-09-25T16:58:22.535Z",
       "category_de": "Ausland",
       "category_ar": "العالم",
-      "title_ar": "تقارير عن عرض جديد من طهران"
+      "title_ar": "قمة ترامب - شي: عرض كبير لكن محتوى ضئيل"
     },
     {
-      "id": "b18b6117c8048b71",
-      "title_de": "Weiter schwere Kämpfe in Äthiopiens Tigray-Region",
-      "link": "https://orf.at/stories/3443214/",
-      "pubDate": "2026-09-25T11:35:29.885Z",
+      "id": "acfd6f7f6288cbad",
+      "title_de": "Israelischer Siedlungsbau: UNO listet 214 Firmen auf",
+      "link": "https://orf.at/stories/3443266/",
+      "pubDate": "2026-09-25T16:58:22.535Z",
       "category_de": "Ausland",
       "category_ar": "العالم",
-      "title_ar": "اشتباكات عنيفة مستمرة في إقليم تيجراي الإثيوبي"
+      "title_ar": "الأمم المتحدة تدرج 214 شركة في قائمة الاستيطان الإسرائيلي"
     },
     {
-      "id": "eeac99672e771149",
-      "title_de": "Bericht: Mehr Zivildiensterklärungen",
-      "link": "https://orf.at/stories/3443213/",
-      "pubDate": "2026-09-25T11:35:29.885Z",
+      "id": "061e43e125ef87ec",
+      "title_de": "Falschmeldung über Millionenfund bei Razzia zieht Kreise",
+      "link": "https://orf.at/stories/3443265/",
+      "pubDate": "2026-09-25T16:58:22.535Z",
       "category_de": "Chronik",
       "category_ar": "حوادث",
-      "title_ar": "زيادة ملحوظة في التطوع للخدمة المدنية"
+      "title_ar": "شائعة كاذبة عن العثور على ملايين في مداهمة تثير موجة استياء"
     },
     {
-      "id": "ee001747dbb1691a",
-      "title_de": "Papst Leo XIV. zu Besuch in Frankreich eingetroffen",
-      "link": "https://orf.at/stories/3443208/",
-      "pubDate": "2026-09-25T11:35:29.885Z",
-      "category_de": "Ausland",
-      "category_ar": "العالم",
-      "title_ar": "البابا ليو الرابع عشر يصل إلى فرنسا في زيارة رسمية"
+      "id": "e80a3c95deaf4750",
+      "title_de": "EU-Länder einigen sich bei Waffenfondsmitteln",
+      "link": "https://orf.at/stories/3443264/",
+      "pubDate": "2026-09-25T16:58:22.535Z",
+      "category_de": "Politik",
+      "category_ar": "سياسة",
+      "title_ar": "دول الاتحاد الأوروبي توافق على تمويل صندوق الأسلحة"
     },
     {
-      "id": "ab102837bea99d15",
-      "title_de": "Sydney: Ai Weiweis „Mushrooms“ gegen den Krieg",
-      "link": "https://orf.at/stories/3443205/",
-      "pubDate": "2026-09-25T11:35:29.885Z",
+      "id": "c96bc918f8110b5f",
+      "title_de": "Österreicher nach Fahrradsturz in Bergen Udines verletzt",
+      "link": "https://orf.at/stories/3443263/",
+      "pubDate": "2026-09-25T16:58:22.535Z",
+      "category_de": "Chronik",
+      "category_ar": "حوادث",
+      "title_ar": "نمساوي يصاب بجروح إثر سقوط من دراجة هوائية في بيرغامو أوديني"
+    },
+    {
+      "id": "63aed83811c141d8",
+      "title_de": "Gruselige Gegenwart mit „Vampirin“ Holzinger",
+      "link": "https://orf.at/stories/3442883/",
+      "pubDate": "2026-09-25T16:58:22.535Z",
       "category_de": "Kultur",
       "category_ar": "ثقافة",
-      "title_ar": "معرض \"الفطر\" لآي ويوي في سيدني رسالة ضد الحرب"
+      "title_ar": "عرض مخيف مع \"مصاصة الدماء\" هولزينغر"
+    },
+    {
+      "id": "32ada30678f85456",
+      "title_de": "Vier Tote bei russischem Drohnenangriff auf Kiew",
+      "link": "https://orf.at/stories/3443257/",
+      "pubDate": "2026-09-25T16:58:22.535Z",
+      "category_de": "Ausland",
+      "category_ar": "العالم",
+      "title_ar": "أربعة قتلى في هجوم بطائرات روسية بدون طيار على كييف"
+    },
+    {
+      "id": "d2c1938b0e72cb72",
+      "title_de": "US-Sanktionen gegen Flugsektor: Iran droht Nachbarn",
+      "link": "https://orf.at/stories/3443251/",
+      "pubDate": "2026-09-25T16:58:22.535Z",
+      "category_de": "Ausland",
+      "category_ar": "العالم",
+      "title_ar": "العقوبات الأمريكية على قطاع الطيران: إيران تهدد دول الجوار"
+    },
+    {
+      "id": "1398144149d58a29",
+      "title_de": "Frankreich: Roman wegen KI-Verdachts von Shortlist gestrichen",
+      "link": "https://orf.at/stories/3443250/",
+      "pubDate": "2026-09-25T16:58:22.535Z",
+      "category_de": "Kultur",
+      "category_ar": "ثقافة",
+      "title_ar": "فرنسا: حذف رواية من القائمة القصيرة للجوائز بسبب مخاوف من الذكاء الاصطناعي"
+    },
+    {
+      "id": "367ae6123edb2117",
+      "title_de": "UNICEF: Akute Mangelernährung bei Kindern im Jemen",
+      "link": "https://orf.at/stories/3443247/",
+      "pubDate": "2026-09-25T16:58:22.535Z",
+      "category_de": "Ausland",
+      "category_ar": "العالم",
+      "title_ar": "اليونيسيف: سوء التغذية الحاد يهدد الأطفال باليمن"
+    },
+    {
+      "id": "0c47076f961338f8",
+      "title_de": "Mailänder Flughafen offiziell nach Berlusconi benannt",
+      "link": "https://orf.at/stories/3443245/",
+      "pubDate": "2026-09-25T16:58:22.535Z",
+      "category_de": "Chronik",
+      "category_ar": "حوادث",
+      "title_ar": "مطار ميلانو يحمل رسمياً اسم برلوسكوني"
+    },
+    {
+      "id": "63efccf8088104d3",
+      "title_de": "Gerhard Zeiler will SPÖ-Chef werden",
+      "link": "https://orf.at/stories/3443237/",
+      "pubDate": "2026-09-25T16:58:22.535Z",
+      "category_de": "Politik",
+      "category_ar": "سياسة",
+      "title_ar": "غيرهارد تسايلر يسعى ليصبح رئيساً لحزب الحزب الاشتراكي الديمقراطي"
+    },
+    {
+      "id": "f1143a0095ebd06c",
+      "title_de": "Urlaub in Österreich heuer stärker gefragt",
+      "link": "https://orf.at/stories/3443236/",
+      "pubDate": "2026-09-25T16:58:22.535Z",
+      "category_de": "Wirtschaft",
+      "category_ar": "اقتصاد",
+      "title_ar": "السياحة في النمسا تشهد طلباً متزايداً هذا الموسم"
+    },
+    {
+      "id": "db9285fb9fef8da9",
+      "title_de": "Deutschland: Bundestag gibt grünes Licht für Tankrabatt",
+      "link": "https://orf.at/stories/3443239/",
+      "pubDate": "2026-09-25T16:58:22.535Z",
+      "category_de": "Politik",
+      "category_ar": "سياسة",
+      "title_ar": "البرلمان الألماني يصادق على خصم ضرائب الوقود"
     }
   ]
 }
