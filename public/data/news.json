@@ -1,14 +1,50 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-09-25T21:23:31.588Z",
+  "generatedAt": "2026-09-26T04:32:39.863Z",
   "source": "https://rss.orf.at/news.xml",
-  "count": 24,
+  "count": 25,
   "items": [
+    {
+      "id": "91aedcd776fa2d74",
+      "title_de": "Trump lehnt iranischen Waffenruhe-Vorschlag ab",
+      "link": "https://orf.at/stories/3443292/",
+      "pubDate": "2026-09-26T04:32:36.936Z",
+      "category_de": "Ausland",
+      "category_ar": "العالم",
+      "title_ar": "ترامب يرفض مقترح وقف إطلاق النار الإيراني"
+    },
+    {
+      "id": "a352ef05925b8436",
+      "title_de": "Tiktok schließt Millionenvergleich in den USA",
+      "link": "https://orf.at/stories/3443291/",
+      "pubDate": "2026-09-26T04:32:36.936Z",
+      "category_de": "Wirtschaft",
+      "category_ar": "اقتصاد",
+      "title_ar": "تيكتوك توقع تسوية بملايين الدولارات في الولايات المتحدة"
+    },
+    {
+      "id": "f3fd956f70f32b53",
+      "title_de": "USA: Konstruktive Gespräche mit Iran über Vermittler",
+      "link": "https://orf.at/stories/3443290/",
+      "pubDate": "2026-09-26T04:32:36.936Z",
+      "category_de": "Ausland",
+      "category_ar": "العالم",
+      "title_ar": "محادثات بناءة بين واشنطن وطهران عبر وسيط"
+    },
+    {
+      "id": "c782c3a37b5a44c1",
+      "title_de": "„Der Berg hat sich verändert“",
+      "link": "https://orf.at/stories/3443217/",
+      "pubDate": "2026-09-26T04:32:36.936Z",
+      "category_de": "Chronik",
+      "category_ar": "حوادث",
+      "title_ar": "الجبل تغيّر معالمه"
+    },
     {
       "id": "5cd996afd8832046",
       "title_de": "Zeiler-Vorstoß mit weitreichenden Folgen",
       "link": "https://orf.at/stories/3443268/",
-      "pubDate": "2026-09-25T21:23:25.905Z",
+      "pubDate": "2026-09-26T04:32:36.936Z",
       "category_de": "Politik",
       "category_ar": "سياسة",
       "title_ar": "مبادرة تسايلر تحمل تبعات واسعة النطاق"
@@ -17,7 +53,7 @@
       "id": "51079544ecac5151",
       "title_de": "Cambridge-Analytica-Skandal: Meta verlor Prozess",
       "link": "https://orf.at/stories/3443285/",
-      "pubDate": "2026-09-25T21:23:25.905Z",
+      "pubDate": "2026-09-26T04:32:36.936Z",
       "category_de": "Ausland",
       "category_ar": "العالم",
       "title_ar": "فضيحة كامبريدج أناليتيكا: ميتا تخسر القضية"
@@ -26,7 +62,7 @@
       "id": "67280cc722e6261f",
       "title_de": "Gates über KI: „Gab noch nie eine so mächtige Waffe“",
       "link": "https://orf.at/stories/3443284/",
-      "pubDate": "2026-09-25T21:23:25.905Z",
+      "pubDate": "2026-09-26T04:32:36.936Z",
       "category_de": "Wissenschaft",
       "category_ar": "علوم",
       "title_ar": "غيتس عن الذكاء الاصطناعي: \"لم نشهد أداة بهذه القوة من قبل\""
@@ -35,7 +71,7 @@
       "id": "1903b8461e35e368",
       "title_de": "US-Supreme-Court erlaubt Datenbank zur Wählerprüfung",
       "link": "https://orf.at/stories/3443283/",
-      "pubDate": "2026-09-25T21:23:25.905Z",
+      "pubDate": "2026-09-26T04:32:36.936Z",
       "category_de": "Ausland",
       "category_ar": "العالم",
       "title_ar": "المحكمة العليا الأمريكية توافق على قاعدة بيانات للتحقق من الناخبين"
@@ -44,7 +80,7 @@
       "id": "a58ca1951ba29d74",
       "title_de": "Jemen will Bevölkerung gegen Huthis mobilisieren",
       "link": "https://orf.at/stories/3443281/",
-      "pubDate": "2026-09-25T21:23:25.905Z",
+      "pubDate": "2026-09-26T04:32:36.936Z",
       "category_de": "Ausland",
       "category_ar": "العالم",
       "title_ar": "اليمن يسعى لحشد السكان ضد الحوثيين"
@@ -53,7 +89,7 @@
       "id": "5026d301b4955ea8",
       "title_de": "Politikwissenschaftler Filzmaier im Studio",
       "link": "https://orf.at/stories/3443280/",
-      "pubDate": "2026-09-25T21:23:25.905Z",
+      "pubDate": "2026-09-26T04:32:36.936Z",
       "category_de": "Politik",
       "category_ar": "سياسة",
       "title_ar": "عالم السياسة فيلتسمايير في الاستوديو"
@@ -62,7 +98,7 @@
       "id": "5fce63d838dee141",
       "title_de": "Putin: Keine Vorbereitung auf „Kampf mit Europa“",
       "link": "https://orf.at/stories/3443279/",
-      "pubDate": "2026-09-25T21:23:25.905Z",
+      "pubDate": "2026-09-26T04:32:36.936Z",
       "category_de": "Ausland",
       "category_ar": "العالم",
       "title_ar": "بوتين: لا استعدادات لـ \"الصراع مع أوروبا\""
@@ -71,7 +107,7 @@
       "id": "f7e67ae8e48d4468",
       "title_de": "Berliner Linke will mit Grünen und SPD sondieren",
       "link": "https://orf.at/stories/3443274/",
-      "pubDate": "2026-09-25T21:23:25.905Z",
+      "pubDate": "2026-09-26T04:32:36.936Z",
       "category_de": "Politik",
       "category_ar": "سياسة",
       "title_ar": "اليسار البرليني يسعى للتشاور مع الخضر والاشتراكيين الديمقراطيين"
@@ -80,7 +116,7 @@
       "id": "a3452fb769cdceaa",
       "title_de": "Bericht: Fed plant Lockerung der Aufsichtsregeln für Banken",
       "link": "https://orf.at/stories/3443273/",
-      "pubDate": "2026-09-25T21:23:25.905Z",
+      "pubDate": "2026-09-26T04:32:36.936Z",
       "category_de": "Wirtschaft",
       "category_ar": "اقتصاد",
       "title_ar": "تقرير: الاحتياطي الفيدرالي يخطط لتيسير قواعد الإشراف على البنوك"
@@ -89,7 +125,7 @@
       "id": "bf2308e6e3d18b2a",
       "title_de": "Viel Show, wenig Inhalt auf Gipfel Trump – Xi",
       "link": "https://orf.at/stories/3443218/",
-      "pubDate": "2026-09-25T21:23:25.905Z",
+      "pubDate": "2026-09-26T04:32:36.936Z",
       "category_de": "Ausland",
       "category_ar": "العالم",
       "title_ar": "قمة ترامب - شي: عرض كبير لكن محتوى ضئيل"
@@ -98,7 +134,7 @@
       "id": "acfd6f7f6288cbad",
       "title_de": "Israelischer Siedlungsbau: UNO listet 214 Firmen auf",
       "link": "https://orf.at/stories/3443266/",
-      "pubDate": "2026-09-25T21:23:25.905Z",
+      "pubDate": "2026-09-26T04:32:36.936Z",
       "category_de": "Ausland",
       "category_ar": "العالم",
       "title_ar": "الأمم المتحدة تدرج 214 شركة في قائمة الاستيطان الإسرائيلي"
@@ -107,7 +143,7 @@
       "id": "061e43e125ef87ec",
       "title_de": "Falschmeldung über Millionenfund bei Razzia zieht Kreise",
       "link": "https://orf.at/stories/3443265/",
-      "pubDate": "2026-09-25T21:23:25.905Z",
+      "pubDate": "2026-09-26T04:32:36.936Z",
       "category_de": "Chronik",
       "category_ar": "حوادث",
       "title_ar": "شائعة كاذبة عن العثور على ملايين في مداهمة تثير موجة استياء"
@@ -116,7 +152,7 @@
       "id": "e80a3c95deaf4750",
       "title_de": "EU-Länder einigen sich bei Waffenfondsmitteln",
       "link": "https://orf.at/stories/3443264/",
-      "pubDate": "2026-09-25T21:23:25.905Z",
+      "pubDate": "2026-09-26T04:32:36.936Z",
       "category_de": "Politik",
       "category_ar": "سياسة",
       "title_ar": "دول الاتحاد الأوروبي توافق على تمويل صندوق الأسلحة"
@@ -125,7 +161,7 @@
       "id": "c96bc918f8110b5f",
       "title_de": "Österreicher nach Fahrradsturz in Bergen Udines verletzt",
       "link": "https://orf.at/stories/3443263/",
-      "pubDate": "2026-09-25T21:23:25.905Z",
+      "pubDate": "2026-09-26T04:32:36.936Z",
       "category_de": "Chronik",
       "category_ar": "حوادث",
       "title_ar": "نمساوي يصاب بجروح إثر سقوط من دراجة هوائية في بيرغامو أوديني"
@@ -134,7 +170,7 @@
       "id": "63aed83811c141d8",
       "title_de": "Gruselige Gegenwart mit „Vampirin“ Holzinger",
       "link": "https://orf.at/stories/3442883/",
-      "pubDate": "2026-09-25T21:23:25.905Z",
+      "pubDate": "2026-09-26T04:32:36.936Z",
       "category_de": "Kultur",
       "category_ar": "ثقافة",
       "title_ar": "عرض مخيف مع \"مصاصة الدماء\" هولزينغر"
@@ -143,7 +179,7 @@
       "id": "32ada30678f85456",
       "title_de": "Vier Tote bei russischem Drohnenangriff auf Kiew",
       "link": "https://orf.at/stories/3443257/",
-      "pubDate": "2026-09-25T21:23:25.905Z",
+      "pubDate": "2026-09-26T04:32:36.936Z",
       "category_de": "Ausland",
       "category_ar": "العالم",
       "title_ar": "أربعة قتلى في هجوم بطائرات روسية بدون طيار على كييف"
@@ -152,7 +188,7 @@
       "id": "d2c1938b0e72cb72",
       "title_de": "US-Sanktionen gegen Flugsektor: Iran droht Nachbarn",
       "link": "https://orf.at/stories/3443251/",
-      "pubDate": "2026-09-25T21:23:25.905Z",
+      "pubDate": "2026-09-26T04:32:36.936Z",
       "category_de": "Ausland",
       "category_ar": "العالم",
       "title_ar": "العقوبات الأمريكية على قطاع الطيران: إيران تهدد دول الجوار"
@@ -161,7 +197,7 @@
       "id": "1398144149d58a29",
       "title_de": "Frankreich: Roman wegen KI-Verdachts von Shortlist gestrichen",
       "link": "https://orf.at/stories/3443250/",
-      "pubDate": "2026-09-25T21:23:25.905Z",
+      "pubDate": "2026-09-26T04:32:36.936Z",
       "category_de": "Kultur",
       "category_ar": "ثقافة",
       "title_ar": "فرنسا: حذف رواية من القائمة القصيرة للجوائز بسبب مخاوف من الذكاء الاصطناعي"
@@ -170,7 +206,7 @@
       "id": "367ae6123edb2117",
       "title_de": "UNICEF: Akute Mangelernährung bei Kindern im Jemen",
       "link": "https://orf.at/stories/3443247/",
-      "pubDate": "2026-09-25T21:23:25.905Z",
+      "pubDate": "2026-09-26T04:32:36.936Z",
       "category_de": "Ausland",
       "category_ar": "العالم",
       "title_ar": "اليونيسيف: سوء التغذية الحاد يهدد الأطفال باليمن"
@@ -179,46 +215,19 @@
       "id": "0c47076f961338f8",
       "title_de": "Mailänder Flughafen offiziell nach Berlusconi benannt",
       "link": "https://orf.at/stories/3443245/",
-      "pubDate": "2026-09-25T21:23:25.905Z",
+      "pubDate": "2026-09-26T04:32:36.936Z",
       "category_de": "Chronik",
       "category_ar": "حوادث",
       "title_ar": "مطار ميلانو يحمل رسمياً اسم برلوسكوني"
     },
     {
-      "id": "63efccf8088104d3",
-      "title_de": "Gerhard Zeiler will SPÖ-Chef werden",
-      "link": "https://orf.at/stories/3443237/",
-      "pubDate": "2026-09-25T21:23:25.905Z",
+      "id": "bdc0d528ce58b24c",
+      "title_de": "Überlastung: Justiz-Proteste Mitte Oktober",
+      "link": "https://orf.at/stories/3443293/",
+      "pubDate": "2026-09-26T04:32:36.935Z",
       "category_de": "Politik",
       "category_ar": "سياسة",
-      "title_ar": "غيرهارد تسايلر يسعى ليصبح رئيساً لحزب الحزب الاشتراكي الديمقراطي"
-    },
-    {
-      "id": "f1143a0095ebd06c",
-      "title_de": "Urlaub in Österreich heuer stärker gefragt",
-      "link": "https://orf.at/stories/3443236/",
-      "pubDate": "2026-09-25T21:23:25.905Z",
-      "category_de": "Wirtschaft",
-      "category_ar": "اقتصاد",
-      "title_ar": "السياحة في النمسا تشهد طلباً متزايداً هذا الموسم"
-    },
-    {
-      "id": "db9285fb9fef8da9",
-      "title_de": "Deutschland: Bundestag gibt grünes Licht für Tankrabatt",
-      "link": "https://orf.at/stories/3443239/",
-      "pubDate": "2026-09-25T21:23:25.905Z",
-      "category_de": "Politik",
-      "category_ar": "سياسة",
-      "title_ar": "البرلمان الألماني يصادق على خصم ضرائب الوقود"
-    },
-    {
-      "id": "c782c3a37b5a44c1",
-      "title_de": "„Der Berg hat sich verändert“",
-      "link": "https://orf.at/stories/3443217/",
-      "pubDate": "2026-09-25T21:23:25.904Z",
-      "category_de": "Chronik",
-      "category_ar": "حوادث",
-      "title_ar": "الجبل تغيّر معالمه"
+      "title_ar": "احتجاجات على الاختناقات في القضاء منتصف أكتوبر"
     }
   ]
 }
