@@ -1,203 +1,59 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-09-26T20:54:52.292Z",
+  "generatedAt": "2026-09-26T23:28:16.933Z",
   "source": "https://rss.orf.at/news.xml",
-  "count": 24,
+  "count": 28,
   "items": [
     {
-      "id": "e4313505d64ffd38",
-      "title_de": "Auch Ägypten warnte Israel vor 7. Oktober",
-      "link": "https://orf.at/stories/3443348/",
-      "pubDate": "2026-09-26T20:54:47.866Z",
-      "category_de": "Ausland",
-      "category_ar": "العالم",
-      "title_ar": "مصر حذّرت إسرائيل قبل السابع من أكتوبر"
-    },
-    {
-      "id": "866d4a21933d7eb3",
-      "title_de": "Ätna-Aschewolke legt Flughafen auf Sizilien lahm",
-      "link": "https://orf.at/stories/3443353/",
-      "pubDate": "2026-09-26T20:54:47.866Z",
-      "category_de": "Chronik",
-      "category_ar": "حوادث",
-      "title_ar": "سحابة رماد من بركان إتنا تشل مطار صقلية"
-    },
-    {
-      "id": "140edbde202b138a",
-      "title_de": "Berlin: SPD für Sondierungen mit der Linken",
-      "link": "https://orf.at/stories/3443352/",
-      "pubDate": "2026-09-26T20:54:47.866Z",
-      "category_de": "Politik",
-      "category_ar": "سياسة",
-      "title_ar": "برلين: الحزب الاشتراكي الألماني يؤيد محادثات استكشافية مع حزب اليسار"
-    },
-    {
-      "id": "4b8e626d7dd04d94",
-      "title_de": "VW hat ein Schraubenproblem",
-      "link": "https://orf.at/stories/3443343/",
-      "pubDate": "2026-09-26T20:54:47.866Z",
+      "id": "bb7f25b1664c1f24",
+      "title_de": "„Umweltfreundlich“ muss nun belegt werden",
+      "link": "https://orf.at/stories/3443211/",
+      "pubDate": "2026-09-26T23:28:13.561Z",
       "category_de": "Wirtschaft",
       "category_ar": "اقتصاد",
-      "title_ar": "فولكسفاغن تواجه مشكلة في المسامير"
+      "title_ar": "يجب إثبات \"صديق البيئة\" علمياً"
     },
     {
-      "id": "de3083e16eca5f29",
-      "title_de": "Hunderttausende bei Papst-Messe in Paris",
-      "link": "https://orf.at/stories/3443333/",
-      "pubDate": "2026-09-26T20:54:47.866Z",
-      "category_de": "Sonstiges",
-      "category_ar": "عام",
-      "title_ar": "مئات الآلاف يحضرون قداس البابا في باريس"
-    },
-    {
-      "id": "125b40aa39e55b79",
-      "title_de": "Bericht: Warnungen vor 7. Oktober auch aus Ägypten",
-      "link": "https://orf.at/stories/3443345/",
-      "pubDate": "2026-09-26T20:54:47.866Z",
+      "id": "812545f9d4154b30",
+      "title_de": "Russische Angriffe treffen Odessa",
+      "link": "https://orf.at/stories/3443362/",
+      "pubDate": "2026-09-26T23:28:13.561Z",
       "category_de": "Ausland",
       "category_ar": "العالم",
-      "title_ar": "تقرير: تحذيرات من السابع من أكتوبر وصلت أيضاً من مصر"
+      "title_ar": "الهجمات الروسية تستهدف مدينة أوديسا"
     },
     {
-      "id": "1b8b1a481adaff77",
-      "title_de": "Trump: Habe iranisches Hormus-Angebot abgelehnt",
-      "link": "https://orf.at/stories/3443344/",
-      "pubDate": "2026-09-26T20:54:47.866Z",
-      "category_de": "Ausland",
-      "category_ar": "العالم",
-      "title_ar": "ترامب: رفضت عرضاً إيرانياً بشأن مضيق هرمز"
-    },
-    {
-      "id": "195f9c04feed9f98",
-      "title_de": "Wadephul traf Lawrow in New York",
-      "link": "https://orf.at/stories/3443342/",
-      "pubDate": "2026-09-26T20:54:47.866Z",
-      "category_de": "Ausland",
-      "category_ar": "العالم",
-      "title_ar": "فادة فول يلتقي لافروف في نيويورك"
-    },
-    {
-      "id": "1082a3875974dbcc",
-      "title_de": "Papst feiert in Paris Messe mit 700.000 Menschen",
-      "link": "https://orf.at/stories/3443338/",
-      "pubDate": "2026-09-26T20:54:47.866Z",
-      "category_de": "Sonstiges",
-      "category_ar": "عام",
-      "title_ar": "البابا يحتفل بقداس في باريس بحضور 700 ألف شخص"
-    },
-    {
-      "id": "76aa4dd3f705bb03",
-      "title_de": "Bauer für stärkere staatliche Aufsicht",
-      "link": "https://orf.at/stories/3443320/",
-      "pubDate": "2026-09-26T20:54:47.866Z",
-      "category_de": "Politik",
-      "category_ar": "سياسة",
-      "title_ar": "باور يطالب بمراقبة حكومية أقوى"
-    },
-    {
-      "id": "385bfd2920d1c209",
-      "title_de": "Madrid: Großdemo gegen Migrationspolitik der Regierung",
-      "link": "https://orf.at/stories/3443331/",
-      "pubDate": "2026-09-26T20:54:47.866Z",
-      "category_de": "Ausland",
-      "category_ar": "العالم",
-      "title_ar": "مظاهرة حاشدة في مدريد احتجاجاً على سياسة الهجرة الحكومية"
-    },
-    {
-      "id": "26f4c3d4fdc14ebb",
-      "title_de": "Keuchhusten: Impfplan mit neuer Auffrischungsempfehlung",
-      "link": "https://orf.at/stories/3443330/",
-      "pubDate": "2026-09-26T20:54:47.866Z",
-      "category_de": "Gesundheit",
-      "category_ar": "صحة",
-      "title_ar": "السعال الديكي: خطة تطعيم جديدة مع توصية معدلة بالجرعات المنشطة"
-    },
-    {
-      "id": "362de220414d05a0",
-      "title_de": "Tote nach Anschlag in Pakistan",
-      "link": "https://orf.at/stories/3443327/",
-      "pubDate": "2026-09-26T20:54:47.866Z",
+      "id": "3c087c22bdc408d5",
+      "title_de": "Schwerer Herbststurm über Nordosten der USA",
+      "link": "https://orf.at/stories/3443361/",
+      "pubDate": "2026-09-26T23:28:13.561Z",
       "category_de": "Chronik",
       "category_ar": "حوادث",
-      "title_ar": "قتلى في هجوم بباكستان"
+      "title_ar": "عاصفة خريفية قوية تضرب شمال الولايات المتحدة الشرقي"
     },
     {
-      "id": "f22ede5875e80195",
-      "title_de": "Sechs Tote nach Gebäudeexplosion in Athen",
-      "link": "https://orf.at/stories/3443324/",
-      "pubDate": "2026-09-26T20:54:47.866Z",
-      "category_de": "Chronik",
-      "category_ar": "حوادث",
-      "title_ar": "ستة قتلى في انفجار مبنى بأثينا"
-    },
-    {
-      "id": "66b15629810fe04c",
-      "title_de": "Tote und Verletzte bei Angriffen in Ukraine und Russland",
-      "link": "https://orf.at/stories/3443321/",
-      "pubDate": "2026-09-26T20:54:47.866Z",
+      "id": "5531e91ab8a93cde",
+      "title_de": "Über 700 Mio. Euro für weltweite Krisenhilfe",
+      "link": "https://orf.at/stories/3443360/",
+      "pubDate": "2026-09-26T23:28:13.561Z",
       "category_de": "Ausland",
       "category_ar": "العالم",
-      "title_ar": "قتلى وجرحى في هجمات بأوكرانيا وروسيا"
+      "title_ar": "أكثر من 700 مليون يورو للمساعدات الإنسانية العالمية"
     },
     {
-      "id": "f8f12b36802bce44",
-      "title_de": "Babler will SPÖ-Chef bleiben",
-      "link": "https://orf.at/stories/3443317/",
-      "pubDate": "2026-09-26T20:54:47.866Z",
-      "category_de": "Politik",
-      "category_ar": "سياسة",
-      "title_ar": "بابلر يصر على البقاء في قيادة الحزب الاشتراكي النمساوي"
-    },
-    {
-      "id": "fb447f1416fca953",
-      "title_de": "Waldbrände auf Borneo bedrohen Orang-Utans",
-      "link": "https://orf.at/stories/3443319/",
-      "pubDate": "2026-09-26T20:54:47.866Z",
-      "category_de": "Ausland",
-      "category_ar": "العالم",
-      "title_ar": "حرائق الغابات في بورنيو تهدد الإنسان الآسيوي"
-    },
-    {
-      "id": "5c856929dd05b73f",
-      "title_de": "Saudi-Arabien: Neuer Huthi-Luftangriff auf Riad",
-      "link": "https://orf.at/stories/3443318/",
-      "pubDate": "2026-09-26T20:54:47.866Z",
-      "category_de": "Ausland",
-      "category_ar": "العالم",
-      "title_ar": "السعودية: هجوم حوثي جديد على الرياض"
-    },
-    {
-      "id": "8e384672165523a2",
-      "title_de": "OpenAI meldet weitere KI-Vorfälle",
-      "link": "https://orf.at/stories/3443307/",
-      "pubDate": "2026-09-26T20:54:47.866Z",
-      "category_de": "Wissenschaft",
-      "category_ar": "علوم",
-      "title_ar": "أوبن إيه آي تعلن عن حوادث جديدة متعلقة بالذكاء الاصطناعي"
-    },
-    {
-      "id": "aa71c042235001a9",
-      "title_de": "Umjubelte Wien-Premiere für „Die Schöne und das Biest“",
-      "link": "https://orf.at/stories/3443311/",
-      "pubDate": "2026-09-26T20:54:47.866Z",
+      "id": "5e43d2a60b5de502",
+      "title_de": "Mike-Leigh-Film gewinnt bei Filmfestival San Sebastian",
+      "link": "https://orf.at/stories/3443359/",
+      "pubDate": "2026-09-26T23:28:13.561Z",
       "category_de": "Kultur",
       "category_ar": "ثقافة",
-      "title_ar": "حفل افتتاح فيينا الموفق لـ \"الجميلة والوحش\""
-    },
-    {
-      "id": "3d81b43b8046bf2c",
-      "title_de": "Überflutungen: Bangkok ruft Katastrophenfall aus",
-      "link": "https://orf.at/stories/3443308/",
-      "pubDate": "2026-09-26T20:54:47.866Z",
-      "category_de": "Chronik",
-      "category_ar": "حوادث",
-      "title_ar": "بانكوك تعلن حالة كارثة بسبب الفيضانات"
+      "title_ar": "فيلم مايك لي يفوز بجائزة مهرجان سان سيباستيان السينمائي"
     },
     {
       "id": "f71cfb31962ddf15",
       "title_de": "Boeing meldet Softwarefehler bei 737 Max",
       "link": "https://orf.at/stories/3443357/",
-      "pubDate": "2026-09-26T20:54:47.865Z",
+      "pubDate": "2026-09-26T23:28:13.561Z",
       "category_de": "Wirtschaft",
       "category_ar": "اقتصاد",
       "title_ar": "بوينج تكتشف عطلاً برمجياً في طائرات 737 ماكس"
@@ -206,7 +62,7 @@
       "id": "14fece8330515e04",
       "title_de": "Kuba kritisiert US-Druck und drohenden Militäreinsatz",
       "link": "https://orf.at/stories/3443356/",
-      "pubDate": "2026-09-26T20:54:47.865Z",
+      "pubDate": "2026-09-26T23:28:13.561Z",
       "category_de": "Ausland",
       "category_ar": "العالم",
       "title_ar": "كوبا تنتقد الضغوط الأمريكية والتهديدات العسكرية"
@@ -215,10 +71,190 @@
       "id": "18cae654b485a070",
       "title_de": "Saudi-Arabien: Straße von Hormus muss gebührenfrei bleiben",
       "link": "https://orf.at/stories/3443354/",
-      "pubDate": "2026-09-26T20:54:47.865Z",
+      "pubDate": "2026-09-26T23:28:13.561Z",
       "category_de": "Ausland",
       "category_ar": "العالم",
       "title_ar": "السعودية: مضيق هرمز يجب أن يبقى ممراً حراً"
+    },
+    {
+      "id": "e4313505d64ffd38",
+      "title_de": "Auch Ägypten warnte Israel vor 7. Oktober",
+      "link": "https://orf.at/stories/3443348/",
+      "pubDate": "2026-09-26T23:28:13.561Z",
+      "category_de": "Ausland",
+      "category_ar": "العالم",
+      "title_ar": "مصر حذّرت إسرائيل قبل السابع من أكتوبر"
+    },
+    {
+      "id": "866d4a21933d7eb3",
+      "title_de": "Ätna-Aschewolke legt Flughafen auf Sizilien lahm",
+      "link": "https://orf.at/stories/3443353/",
+      "pubDate": "2026-09-26T23:28:13.561Z",
+      "category_de": "Chronik",
+      "category_ar": "حوادث",
+      "title_ar": "سحابة رماد من بركان إتنا تشل مطار صقلية"
+    },
+    {
+      "id": "140edbde202b138a",
+      "title_de": "Berlin: SPD für Sondierungen mit der Linken",
+      "link": "https://orf.at/stories/3443352/",
+      "pubDate": "2026-09-26T23:28:13.561Z",
+      "category_de": "Politik",
+      "category_ar": "سياسة",
+      "title_ar": "برلين: الحزب الاشتراكي الألماني يؤيد محادثات استكشافية مع حزب اليسار"
+    },
+    {
+      "id": "4b8e626d7dd04d94",
+      "title_de": "VW hat ein Schraubenproblem",
+      "link": "https://orf.at/stories/3443343/",
+      "pubDate": "2026-09-26T23:28:13.561Z",
+      "category_de": "Wirtschaft",
+      "category_ar": "اقتصاد",
+      "title_ar": "فولكسفاغن تواجه مشكلة في المسامير"
+    },
+    {
+      "id": "de3083e16eca5f29",
+      "title_de": "Hunderttausende bei Papst-Messe in Paris",
+      "link": "https://orf.at/stories/3443333/",
+      "pubDate": "2026-09-26T23:28:13.561Z",
+      "category_de": "Sonstiges",
+      "category_ar": "عام",
+      "title_ar": "مئات الآلاف يحضرون قداس البابا في باريس"
+    },
+    {
+      "id": "125b40aa39e55b79",
+      "title_de": "Bericht: Warnungen vor 7. Oktober auch aus Ägypten",
+      "link": "https://orf.at/stories/3443345/",
+      "pubDate": "2026-09-26T23:28:13.561Z",
+      "category_de": "Ausland",
+      "category_ar": "العالم",
+      "title_ar": "تقرير: تحذيرات من السابع من أكتوبر وصلت أيضاً من مصر"
+    },
+    {
+      "id": "1b8b1a481adaff77",
+      "title_de": "Trump: Habe iranisches Hormus-Angebot abgelehnt",
+      "link": "https://orf.at/stories/3443344/",
+      "pubDate": "2026-09-26T23:28:13.561Z",
+      "category_de": "Ausland",
+      "category_ar": "العالم",
+      "title_ar": "ترامب: رفضت عرضاً إيرانياً بشأن مضيق هرمز"
+    },
+    {
+      "id": "195f9c04feed9f98",
+      "title_de": "Wadephul traf Lawrow in New York",
+      "link": "https://orf.at/stories/3443342/",
+      "pubDate": "2026-09-26T23:28:13.561Z",
+      "category_de": "Ausland",
+      "category_ar": "العالم",
+      "title_ar": "فادة فول يلتقي لافروف في نيويورك"
+    },
+    {
+      "id": "1082a3875974dbcc",
+      "title_de": "Papst feiert in Paris Messe mit 700.000 Menschen",
+      "link": "https://orf.at/stories/3443338/",
+      "pubDate": "2026-09-26T23:28:13.561Z",
+      "category_de": "Sonstiges",
+      "category_ar": "عام",
+      "title_ar": "البابا يحتفل بقداس في باريس بحضور 700 ألف شخص"
+    },
+    {
+      "id": "76aa4dd3f705bb03",
+      "title_de": "Bauer für stärkere staatliche Aufsicht",
+      "link": "https://orf.at/stories/3443320/",
+      "pubDate": "2026-09-26T23:28:13.561Z",
+      "category_de": "Politik",
+      "category_ar": "سياسة",
+      "title_ar": "باور يطالب بمراقبة حكومية أقوى"
+    },
+    {
+      "id": "385bfd2920d1c209",
+      "title_de": "Madrid: Großdemo gegen Migrationspolitik der Regierung",
+      "link": "https://orf.at/stories/3443331/",
+      "pubDate": "2026-09-26T23:28:13.561Z",
+      "category_de": "Ausland",
+      "category_ar": "العالم",
+      "title_ar": "مظاهرة حاشدة في مدريد احتجاجاً على سياسة الهجرة الحكومية"
+    },
+    {
+      "id": "26f4c3d4fdc14ebb",
+      "title_de": "Keuchhusten: Impfplan mit neuer Auffrischungsempfehlung",
+      "link": "https://orf.at/stories/3443330/",
+      "pubDate": "2026-09-26T23:28:13.561Z",
+      "category_de": "Gesundheit",
+      "category_ar": "صحة",
+      "title_ar": "السعال الديكي: خطة تطعيم جديدة مع توصية معدلة بالجرعات المنشطة"
+    },
+    {
+      "id": "362de220414d05a0",
+      "title_de": "Tote nach Anschlag in Pakistan",
+      "link": "https://orf.at/stories/3443327/",
+      "pubDate": "2026-09-26T23:28:13.561Z",
+      "category_de": "Chronik",
+      "category_ar": "حوادث",
+      "title_ar": "قتلى في هجوم بباكستان"
+    },
+    {
+      "id": "f22ede5875e80195",
+      "title_de": "Sechs Tote nach Gebäudeexplosion in Athen",
+      "link": "https://orf.at/stories/3443324/",
+      "pubDate": "2026-09-26T23:28:13.561Z",
+      "category_de": "Chronik",
+      "category_ar": "حوادث",
+      "title_ar": "ستة قتلى في انفجار مبنى بأثينا"
+    },
+    {
+      "id": "66b15629810fe04c",
+      "title_de": "Tote und Verletzte bei Angriffen in Ukraine und Russland",
+      "link": "https://orf.at/stories/3443321/",
+      "pubDate": "2026-09-26T23:28:13.561Z",
+      "category_de": "Ausland",
+      "category_ar": "العالم",
+      "title_ar": "قتلى وجرحى في هجمات بأوكرانيا وروسيا"
+    },
+    {
+      "id": "f8f12b36802bce44",
+      "title_de": "Babler will SPÖ-Chef bleiben",
+      "link": "https://orf.at/stories/3443317/",
+      "pubDate": "2026-09-26T23:28:13.561Z",
+      "category_de": "Politik",
+      "category_ar": "سياسة",
+      "title_ar": "بابلر يصر على البقاء في قيادة الحزب الاشتراكي النمساوي"
+    },
+    {
+      "id": "fb447f1416fca953",
+      "title_de": "Waldbrände auf Borneo bedrohen Orang-Utans",
+      "link": "https://orf.at/stories/3443319/",
+      "pubDate": "2026-09-26T23:28:13.561Z",
+      "category_de": "Ausland",
+      "category_ar": "العالم",
+      "title_ar": "حرائق الغابات في بورنيو تهدد الإنسان الآسيوي"
+    },
+    {
+      "id": "5c856929dd05b73f",
+      "title_de": "Saudi-Arabien: Neuer Huthi-Luftangriff auf Riad",
+      "link": "https://orf.at/stories/3443318/",
+      "pubDate": "2026-09-26T23:28:13.561Z",
+      "category_de": "Ausland",
+      "category_ar": "العالم",
+      "title_ar": "السعودية: هجوم حوثي جديد على الرياض"
+    },
+    {
+      "id": "8e384672165523a2",
+      "title_de": "OpenAI meldet weitere KI-Vorfälle",
+      "link": "https://orf.at/stories/3443307/",
+      "pubDate": "2026-09-26T23:28:13.561Z",
+      "category_de": "Wissenschaft",
+      "category_ar": "علوم",
+      "title_ar": "أوبن إيه آي تعلن عن حوادث جديدة متعلقة بالذكاء الاصطناعي"
+    },
+    {
+      "id": "04576624d99cc048",
+      "title_de": "USA lockern Spritsparvorgaben für Autos deutlich",
+      "link": "https://orf.at/stories/3443365/",
+      "pubDate": "2026-09-26T23:28:13.560Z",
+      "category_de": "Wirtschaft",
+      "category_ar": "اقتصاد",
+      "title_ar": "الولايات المتحدة تخفف معايير توفير الوقود للسيارات بشكل كبير"
     }
   ]
 }
