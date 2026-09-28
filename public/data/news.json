@@ -1,287 +1,188 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-09-28T04:53:06.785Z",
+  "generatedAt": "2026-09-28T13:31:09.132Z",
   "source": "https://rss.orf.at/news.xml",
-  "count": 31,
+  "count": 20,
   "items": [
     {
-      "id": "3188fd61622229ac",
-      "title_de": "MTV Video Music Awards: Swift mit neuem Preis geehrt",
-      "link": "https://orf.at/stories/3443445/",
-      "pubDate": "2026-09-28T04:53:02.583Z",
-      "category_de": "Kultur",
-      "category_ar": "ثقافة",
-      "title_ar": "تايلور سويفت تفوز بجائزة جديدة في حفل جوائز إم تي في للموسيقى"
-    },
-    {
-      "id": "ad7b3cde2192b82b",
-      "title_de": "Georgescu in Rumänien vor Gericht",
-      "link": "https://orf.at/stories/3443212/",
-      "pubDate": "2026-09-28T04:53:02.583Z",
-      "category_de": "Ausland",
-      "category_ar": "العالم",
-      "title_ar": "جورجيسكو يمثل أمام القضاء الروماني"
-    },
-    {
-      "id": "c37a2715d514d8cb",
-      "title_de": "Mindestens fünf Tote bei russischen Angriffen",
-      "link": "https://orf.at/stories/3443443/",
-      "pubDate": "2026-09-28T04:53:02.583Z",
-      "category_de": "Ausland",
-      "category_ar": "العالم",
-      "title_ar": "مقتل خمسة أشخاص على الأقل في هجمات روسية"
-    },
-    {
-      "id": "6850fccfd6377587",
-      "title_de": "Klitschko: Tote nach russischem Angriff auf Markt",
-      "link": "https://orf.at/stories/3443441/",
-      "pubDate": "2026-09-28T04:53:02.583Z",
-      "category_de": "Ausland",
-      "category_ar": "العالم",
-      "title_ar": "كليتشكو: قتلى بعد الهجوم الروسي على السوق"
-    },
-    {
-      "id": "0d0300e41d99c5a9",
-      "title_de": "F: Le-Pen-Partei gewinnt Sitze bei Senatsteilwahl",
-      "link": "https://orf.at/stories/3443440/",
-      "pubDate": "2026-09-28T04:53:02.583Z",
-      "category_de": "Ausland",
-      "category_ar": "العالم",
-      "title_ar": "حزب لوبان يحقق مكاسب في الانتخابات الجزئية للمجلس الفرنسي"
-    },
-    {
-      "id": "fbaec37f8b754030",
-      "title_de": "Israel entzieht niederländischen Diplomaten Status",
-      "link": "https://orf.at/stories/3443439/",
-      "pubDate": "2026-09-28T04:53:02.583Z",
-      "category_de": "Ausland",
-      "category_ar": "العالم",
-      "title_ar": "إسرائيل تسحب المركز الدبلوماسي من هولندا"
-    },
-    {
-      "id": "943838cdb3403faa",
-      "title_de": "Irak meldet vollständigen Abzug von US-Truppen",
-      "link": "https://orf.at/stories/3443438/",
-      "pubDate": "2026-09-28T04:53:02.583Z",
-      "category_de": "Ausland",
-      "category_ar": "العالم",
-      "title_ar": "العراق يعلن الانسحاب الكامل للقوات الأمريكية"
-    },
-    {
-      "id": "afa7389c309748fc",
-      "title_de": "Zeiler bekräftigt Ambitionen auf Vorsitz",
-      "link": "https://orf.at/stories/3443431/",
-      "pubDate": "2026-09-28T04:53:02.583Z",
-      "category_de": "Politik",
-      "category_ar": "سياسة",
-      "title_ar": "زايلر يؤكد طموحاته للفوز بمنصب الرئاسة"
-    },
-    {
-      "id": "8295ac5fbb87ed68",
-      "title_de": "Solosechser bei Lotto „6 aus 45“",
-      "link": "https://orf.at/stories/3443436/",
-      "pubDate": "2026-09-28T04:53:02.583Z",
-      "category_de": "Chronik",
-      "category_ar": "حوادث",
-      "title_ar": "فائز وحيد باليانصيب النمساوي"
-    },
-    {
-      "id": "f3b39dff226d7723",
-      "title_de": "Papst kritisiert Gesetze zu Sterbehilfe",
-      "link": "https://orf.at/stories/3443432/",
-      "pubDate": "2026-09-28T04:53:02.583Z",
-      "category_de": "Ausland",
-      "category_ar": "العالم",
-      "title_ar": "البابا ينتقد قوانين الموت الرحيم"
-    },
-    {
-      "id": "5dd7db81757d84a7",
-      "title_de": "ÖVP-Frauen: Tanner als neue Bundesleiterin nominiert",
-      "link": "https://orf.at/stories/3443428/",
-      "pubDate": "2026-09-28T04:53:02.583Z",
-      "category_de": "Politik",
-      "category_ar": "سياسة",
-      "title_ar": "نساء الحزب الشعبي يرشحن تانر رئيسة فدرالية جديدة"
-    },
-    {
-      "id": "c92fecf28f5aebc4",
-      "title_de": "Serbiens Präsident Vucic offiziell zurückgetreten",
-      "link": "https://orf.at/stories/3443430/",
-      "pubDate": "2026-09-28T04:53:02.583Z",
-      "category_de": "Ausland",
-      "category_ar": "العالم",
-      "title_ar": "رئيس صربيا فوتشيتش يعلن استقالته رسمياً"
-    },
-    {
-      "id": "db2bec437c0f44a7",
-      "title_de": "Ministerium regt Disziplinarverfahren gegen Böhmdorfer an",
-      "link": "https://orf.at/stories/3443427/",
-      "pubDate": "2026-09-28T04:53:02.583Z",
-      "category_de": "Politik",
-      "category_ar": "سياسة",
-      "title_ar": "الوزارة تطالب بفتح تحقيق تأديبي ضد بوهمدورفر"
-    },
-    {
-      "id": "8fb7cc1129d1ed0a",
-      "title_de": "Terrorverdacht in Großbritannien",
-      "link": "https://orf.at/stories/3443422/",
-      "pubDate": "2026-09-28T04:53:02.583Z",
-      "category_de": "Ausland",
-      "category_ar": "العالم",
-      "title_ar": "اشتباهات بعمل إرهابي في بريطانيا"
-    },
-    {
-      "id": "1975d2f30e50a728",
-      "title_de": "Medienmanager Gerhard Zeiler zu Gast",
-      "link": "https://orf.at/stories/3443424/",
-      "pubDate": "2026-09-28T04:53:02.583Z",
-      "category_de": "Sonstiges",
-      "category_ar": "عام",
-      "title_ar": "مدير الإعلام جيرهارد زايلر في زيارة"
-    },
-    {
-      "id": "91961bfd9268a266",
-      "title_de": "Trump rechnet mit neuen Gesprächen mit dem Iran",
-      "link": "https://orf.at/stories/3443423/",
-      "pubDate": "2026-09-28T04:53:02.583Z",
-      "category_de": "Ausland",
-      "category_ar": "العالم",
-      "title_ar": "ترامب يتوقع محادثات جديدة مع إيران"
-    },
-    {
-      "id": "b058b78c8eaabcc0",
-      "title_de": "Bruno Kreisky als adretter Rebell",
-      "link": "https://orf.at/stories/3442885/",
-      "pubDate": "2026-09-28T04:53:02.583Z",
-      "category_de": "Kultur",
-      "category_ar": "ثقافة",
-      "title_ar": "برونو كرايسكي: ثائر بأناقة"
-    },
-    {
-      "id": "ea844ce96891861b",
-      "title_de": "Lebensmittel aus der Luft für ukrainische Stadt Oleschky",
-      "link": "https://orf.at/stories/3443419/",
-      "pubDate": "2026-09-28T04:53:02.583Z",
-      "category_de": "Chronik",
-      "category_ar": "حوادث",
-      "title_ar": "إمدادات غذائية جوية لمدينة أوليشكي الأوكرانية"
-    },
-    {
-      "id": "35fb4166a51267cb",
-      "title_de": "Zeiler-Vorstoß: Weiter Zurückhaltung in SPÖ",
-      "link": "https://orf.at/stories/3443417/",
-      "pubDate": "2026-09-28T04:53:02.583Z",
-      "category_de": "Politik",
-      "category_ar": "سياسة",
-      "title_ar": "خطوة تسايلر: الحذر يستمر داخل الحزب الاشتراكي"
-    },
-    {
-      "id": "0feddc88cacf653c",
-      "title_de": "Vorfall bei Militärbasis in GB: Terrorverdacht",
-      "link": "https://orf.at/stories/3443416/",
-      "pubDate": "2026-09-28T04:53:02.583Z",
-      "category_de": "Ausland",
-      "category_ar": "العالم",
-      "title_ar": "حادثة في قاعدة عسكرية بريطانية: اشتباهات إرهابية"
-    },
-    {
-      "id": "b307230e43382ee2",
-      "title_de": "Huthi-Medien: Tote bei saudi-arabischem Angriff im Jemen",
-      "link": "https://orf.at/stories/3443415/",
-      "pubDate": "2026-09-28T04:53:02.583Z",
-      "category_de": "Ausland",
-      "category_ar": "العالم",
-      "title_ar": "إعلام الحوثيين: قتلى في غارة سعودية على اليمن"
-    },
-    {
-      "id": "42db05b572d0bf3a",
-      "title_de": "Aufsicht für Wiederkehr „nicht trivial“",
-      "link": "https://orf.at/stories/3443400/",
-      "pubDate": "2026-09-28T04:53:02.583Z",
-      "category_de": "Politik",
-      "category_ar": "سياسة",
-      "title_ar": "مراقبة فيدركهر: مهمة ليست بسيطة"
-    },
-    {
-      "id": "e9948ad5ab9cef1a",
-      "title_de": "Dutzende Tote bei Unwettern in Nepal und Indien",
-      "link": "https://orf.at/stories/3443408/",
-      "pubDate": "2026-09-28T04:53:02.583Z",
-      "category_de": "Chronik",
-      "category_ar": "حوادث",
-      "title_ar": "عشرات القتلى في العواصف القاسية بنيبال والهند"
-    },
-    {
-      "id": "7da0d57916b7d423",
-      "title_de": "Manipulationsskandal an der Börse erschüttert Türkei",
-      "link": "https://orf.at/stories/3443406/",
-      "pubDate": "2026-09-28T04:53:02.583Z",
+      "id": "8ba7a5df32785301",
+      "title_de": "Neue Spritpreisbremse beschlossen",
+      "link": "https://orf.at/stories/3443485/",
+      "pubDate": "2026-09-28T13:30:58.694Z",
       "category_de": "Wirtschaft",
       "category_ar": "اقتصاد",
-      "title_ar": "فضيحة تلاعب بالبورصة تهز تركيا"
+      "title_ar": "الحكومة تقرر إجراء جديد للحد من أسعار الوقود"
     },
     {
-      "id": "5f6e1814f5fa6b8f",
-      "title_de": "Schweizer gegen striktere Neutralität",
-      "link": "https://orf.at/stories/3443403/",
-      "pubDate": "2026-09-28T04:53:02.583Z",
+      "id": "e55bd67e4b189304",
+      "title_de": "Falschaussage-Ermittlungen gegen Schmid eingestellt",
+      "link": "https://orf.at/stories/3443499/",
+      "pubDate": "2026-09-28T13:30:58.694Z",
       "category_de": "Politik",
       "category_ar": "سياسة",
-      "title_ar": "سويسريون يرفضون تشديد سياسة الحياد"
+      "title_ar": "إغلاق التحقيقات ضد شميد بتهمة الإدلاء ببيانات كاذبة"
     },
     {
-      "id": "a3b7c77124168d17",
-      "title_de": "Israel: Ausschreibung von Siedlungsprojekt verlängert",
-      "link": "https://orf.at/stories/3443405/",
-      "pubDate": "2026-09-28T04:53:02.583Z",
+      "id": "b965358c2914eb30",
+      "title_de": "Biontech schließt mehrere Standorte",
+      "link": "https://orf.at/stories/3443496/",
+      "pubDate": "2026-09-28T13:30:58.694Z",
+      "category_de": "Wirtschaft",
+      "category_ar": "اقتصاد",
+      "title_ar": "بيونتك تغلق عدة منشآت إنتاجية"
+    },
+    {
+      "id": "8207cb9d3dab727c",
+      "title_de": "EU verhängt nach Duma-Wahl in Russland neue Sanktionen",
+      "link": "https://orf.at/stories/3443492/",
+      "pubDate": "2026-09-28T13:30:58.694Z",
       "category_de": "Ausland",
       "category_ar": "العالم",
-      "title_ar": "إسرائيل: تمديد عطاء لمشاريع استيطانية"
+      "title_ar": "الاتحاد الأوروبي يفرض عقوبات جديدة على روسيا بعد انتخابات الدوما"
     },
     {
-      "id": "e6514cb45328aa8b",
-      "title_de": "Gegendemonstranten blockieren Oranier-Parade in Nordirland",
-      "link": "https://orf.at/stories/3443404/",
-      "pubDate": "2026-09-28T04:53:02.583Z",
+      "id": "361980cd0f6a4b86",
+      "title_de": "Bericht zu Verteidigungsbereitschaft zeigt Lücken",
+      "link": "https://orf.at/stories/3443489/",
+      "pubDate": "2026-09-28T13:30:58.694Z",
+      "category_de": "Politik",
+      "category_ar": "سياسة",
+      "title_ar": "تقرير حول الاستعداد الدفاعي يكشف ثغرات كبيرة"
+    },
+    {
+      "id": "e4bd3109c3ffa2ac",
+      "title_de": "Projekt für mehr Herkunftstransparenz in Gastronomie",
+      "link": "https://orf.at/stories/3443486/",
+      "pubDate": "2026-09-28T13:30:58.694Z",
+      "category_de": "Wirtschaft",
+      "category_ar": "اقتصاد",
+      "title_ar": "مشروع لزيادة الشفافية حول مصدر المنتجات في المطاعم"
+    },
+    {
+      "id": "cec44ca9c2919819",
+      "title_de": "ÖVP und NEOS gegen SPÖ-Vorschlag",
+      "link": "https://orf.at/stories/3443474/",
+      "pubDate": "2026-09-28T13:30:58.694Z",
+      "category_de": "Politik",
+      "category_ar": "سياسة",
+      "title_ar": "حزب الشعب والليبراليون يرفضان مقترح الحزب الاشتراكي"
+    },
+    {
+      "id": "a158e34bb3058c73",
+      "title_de": "Vorfall bei Militärbasis in GB: Fünf Männer einvernommen",
+      "link": "https://orf.at/stories/3443481/",
+      "pubDate": "2026-09-28T13:30:58.694Z",
       "category_de": "Chronik",
       "category_ar": "حوادث",
-      "title_ar": "متظاهرون يحاصرون موكب البرتقالية في أيرلندا الشمالية"
+      "title_ar": "استجواب خمسة رجال بعد حادث في قاعدة عسكرية بريطانية"
     },
     {
-      "id": "7ee868c7c3d4a00c",
-      "title_de": "Ukraine meldet Tote nach russischen Angriffen",
-      "link": "https://orf.at/stories/3443401/",
-      "pubDate": "2026-09-28T04:53:02.583Z",
+      "id": "4f45432b31afbec3",
+      "title_de": "3.000 Tonnen landen täglich im Müll",
+      "link": "https://orf.at/stories/3443470/",
+      "pubDate": "2026-09-28T13:30:58.694Z",
+      "category_de": "Chronik",
+      "category_ar": "حوادث",
+      "title_ar": "3000 طن من الغذاء تنتهي في القمامة يومياً"
+    },
+    {
+      "id": "fd8b442aabc170cb",
+      "title_de": "Schwedens Sozialdemokraten: Regierungsbildung gescheitert",
+      "link": "https://orf.at/stories/3443479/",
+      "pubDate": "2026-09-28T13:30:58.694Z",
       "category_de": "Ausland",
       "category_ar": "العالم",
-      "title_ar": "أوكرانيا تعلن عن ضحايا في هجمات روسية"
+      "title_ar": "الحزب الاشتراكي السويدي: فشل محادثات تشكيل الحكومة"
     },
     {
-      "id": "0cf2107cc3fced4e",
-      "title_de": "Schwangerschaftsabbruch: Grüne fordern Schutzzonen",
-      "link": "https://orf.at/stories/3443399/",
-      "pubDate": "2026-09-28T04:53:02.583Z",
+      "id": "c5c22c1725860998",
+      "title_de": "Schon über 8.000 Ebola-Infektionen in DR Kongo",
+      "link": "https://orf.at/stories/3443478/",
+      "pubDate": "2026-09-28T13:30:58.694Z",
+      "category_de": "Ausland",
+      "category_ar": "العالم",
+      "title_ar": "إصابات الإيبولا تتجاوز 8000 حالة في جمهورية الكونغو الديمقراطية"
+    },
+    {
+      "id": "5f6d1989cbeb6596",
+      "title_de": "Dürre: Totschnig verweist auf Bedeutung der Agrarförderungen",
+      "link": "https://orf.at/stories/3443477/",
+      "pubDate": "2026-09-28T13:30:58.694Z",
       "category_de": "Politik",
       "category_ar": "سياسة",
-      "title_ar": "الخضر يطالبون بمناطق حماية حول عيادات الإجهاض"
+      "title_ar": "توتشنيغ يؤكد أهمية الدعم الزراعي في مواجهة الجفاف"
     },
     {
-      "id": "f03a36d249f52226",
-      "title_de": "Medizinische Begutachtungen: Rufe nach Reform",
-      "link": "https://orf.at/stories/3443397/",
-      "pubDate": "2026-09-28T04:53:02.583Z",
+      "id": "420d059fe9c0109f",
+      "title_de": "Überschwemmungen in Indien und Nepal: Schon über 100 Tote",
+      "link": "https://orf.at/stories/3443471/",
+      "pubDate": "2026-09-28T13:30:58.694Z",
+      "category_de": "Chronik",
+      "category_ar": "حوادث",
+      "title_ar": "الفيضانات في الهند ونيبال تودي بحياة أكثر من 100 شخص"
+    },
+    {
+      "id": "f9b3f9166b6ea8fa",
+      "title_de": "Ungarns Parlament hob Immunität von Premier Magyar auf",
+      "link": "https://orf.at/stories/3443468/",
+      "pubDate": "2026-09-28T13:30:58.694Z",
+      "category_de": "Ausland",
+      "category_ar": "العالم",
+      "title_ar": "البرلمان المجري يرفع الحصانة عن رئيس الوزراء مادجار"
+    },
+    {
+      "id": "7d18f404cdbe7a38",
+      "title_de": "US-Iran-Verhandlungen ungewiss: Ölpreis steigt erneut",
+      "link": "https://orf.at/stories/3443466/",
+      "pubDate": "2026-09-28T13:30:58.694Z",
+      "category_de": "Wirtschaft",
+      "category_ar": "اقتصاد",
+      "title_ar": "المفاوضات الأمريكية الإيرانية في طريق مسدود والنفط يرتفع"
+    },
+    {
+      "id": "03cf4217ef5a0b92",
+      "title_de": "Saudischer Außenminister zu Gesprächen in Washington",
+      "link": "https://orf.at/stories/3443455/",
+      "pubDate": "2026-09-28T13:30:58.694Z",
+      "category_de": "Ausland",
+      "category_ar": "العالم",
+      "title_ar": "وزير الخارجية السعودي يزور واشنطن للمحادثات"
+    },
+    {
+      "id": "d72da0bf36336007",
+      "title_de": "Spritpreisbremse vor Beschluss",
+      "link": "https://orf.at/stories/3443447/",
+      "pubDate": "2026-09-28T13:30:58.694Z",
       "category_de": "Politik",
       "category_ar": "سياسة",
-      "title_ar": "دعوات متجددة لإصلاح شامل في نظام التقييم"
+      "title_ar": "إجراء جديد للحد من أسعار الوقود قيد النقاش"
     },
     {
-      "id": "6083dfd466a6f658",
-      "title_de": "Papst feiert Messe mit 150.000 Menschen in Lourdes",
-      "link": "https://orf.at/stories/3443395/",
-      "pubDate": "2026-09-28T04:53:02.583Z",
-      "category_de": "Kultur",
-      "category_ar": "ثقافة",
-      "title_ar": "البابا يقيم قداساً بحضور 150 ألف شخص في لورد"
+      "id": "24ed638b5f80e650",
+      "title_de": "SPÖ-Vorschlag: Spitzensteuersatz schon ab 500.000 Euro",
+      "link": "https://orf.at/stories/3443450/",
+      "pubDate": "2026-09-28T13:30:58.694Z",
+      "category_de": "Politik",
+      "category_ar": "سياسة",
+      "title_ar": "الحزب الاشتراكي: فرض الضريبة العليا ابتداءً من 500 ألف يورو"
+    },
+    {
+      "id": "e9cba335fae06f88",
+      "title_de": "China: Zollpause mit USA ebnet Weg für Gespräche",
+      "link": "https://orf.at/stories/3443449/",
+      "pubDate": "2026-09-28T13:30:58.694Z",
+      "category_de": "Ausland",
+      "category_ar": "العالم",
+      "title_ar": "الصين: وقف الرسوم الجمركية مع أمريكا يمهد الطريق للمحادثات"
+    },
+    {
+      "id": "29ffc5d8632ab92f",
+      "title_de": "Nationalrat: Sondersitzung zu Spritpreisbremse",
+      "link": "https://orf.at/stories/3443448/",
+      "pubDate": "2026-09-28T13:30:58.694Z",
+      "category_de": "Politik",
+      "category_ar": "سياسة",
+      "title_ar": "جلسة خاصة في المجلس الوطني بشأن إجراء أسعار الوقود"
     }
   ]
 }
