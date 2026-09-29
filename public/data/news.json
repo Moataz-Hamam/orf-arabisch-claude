@@ -1,23 +1,86 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-09-28T21:10:17.725Z",
+  "generatedAt": "2026-09-29T05:18:19.627Z",
   "source": "https://rss.orf.at/news.xml",
-  "count": 24,
+  "count": 29,
   "items": [
     {
-      "id": "8207cb9d3dab727c",
-      "title_de": "EU verhängt nach Duma-Wahl in Russland neue Sanktionen",
-      "link": "https://orf.at/stories/3443492/",
-      "pubDate": "2026-09-28T21:10:06.766Z",
+      "id": "906c1aca3770c7a4",
+      "title_de": "Fast 50 Tote bei Luftangriff auf Markt in Myanmar",
+      "link": "https://orf.at/stories/3443551/",
+      "pubDate": "2026-09-29T05:18:13.616Z",
       "category_de": "Ausland",
       "category_ar": "العالم",
-      "title_ar": "الاتحاد الأوروبي يفرض عقوبات جديدة على روسيا بعد انتخابات الدوما"
+      "title_ar": "غارات جوية على سوق في ميانمار تودي بحياة نحو 50 شخصاً"
+    },
+    {
+      "id": "2f4f8b2db376fe1e",
+      "title_de": "Frauenanteil in Vorständen bei 15 Prozent",
+      "link": "https://orf.at/stories/3443550/",
+      "pubDate": "2026-09-29T05:18:13.616Z",
+      "category_de": "Wirtschaft",
+      "category_ar": "اقتصاد",
+      "title_ar": "النساء تشغل 15 في المئة فقط من المناصب القيادية في مجالس الإدارة"
+    },
+    {
+      "id": "86fcfdcad4e54921",
+      "title_de": "Stresstest für Moldau",
+      "link": "https://orf.at/stories/3443088/",
+      "pubDate": "2026-09-29T05:18:13.616Z",
+      "category_de": "Ausland",
+      "category_ar": "العالم",
+      "title_ar": "مولدوفا تواجه اختبارات صعبة في الطريق نحو الاستقرار"
+    },
+    {
+      "id": "4323c9eff873b5e3",
+      "title_de": "Weiter heftige Raketenangriffe auf Kiew",
+      "link": "https://orf.at/stories/3443547/",
+      "pubDate": "2026-09-29T05:18:13.616Z",
+      "category_de": "Ausland",
+      "category_ar": "العالم",
+      "title_ar": "قصف روسي مكثف مستمر على العاصمة الأوكرانية كييف"
+    },
+    {
+      "id": "df5a1f451c39f43c",
+      "title_de": "Erdölprojekt: Milei setzt Großbritannien Frist",
+      "link": "https://orf.at/stories/3443546/",
+      "pubDate": "2026-09-29T05:18:13.616Z",
+      "category_de": "Wirtschaft",
+      "category_ar": "اقتصاد",
+      "title_ar": "ميلي يضع بريطانيا أمام مهلة حول مشروع استخراج النفط"
+    },
+    {
+      "id": "f47f3e895c2a6900",
+      "title_de": "OpenAI stoppt Veröffentlichung neuen KI-Modells",
+      "link": "https://orf.at/stories/3443545/",
+      "pubDate": "2026-09-29T05:18:13.616Z",
+      "category_de": "Wissenschaft",
+      "category_ar": "علوم",
+      "title_ar": "أوبن إيه آي توقف نشر نموذج ذكاء اصطناعي جديد"
+    },
+    {
+      "id": "785bb4b20fad2a07",
+      "title_de": "Studentenliste bietet Vucic die Stirn",
+      "link": "https://orf.at/stories/3443476/",
+      "pubDate": "2026-09-29T05:18:13.616Z",
+      "category_de": "Ausland",
+      "category_ar": "العالم",
+      "title_ar": "حركة طالبية تواجه الرئيس الصربي فوتشيتش"
+    },
+    {
+      "id": "3b80cbca1ca5be78",
+      "title_de": "Nach Zwangsräumung: Spanierin darf zurück in Wohnung",
+      "link": "https://orf.at/stories/3443543/",
+      "pubDate": "2026-09-29T05:18:13.616Z",
+      "category_de": "Chronik",
+      "category_ar": "حوادث",
+      "title_ar": "إسبانية تستعيد منزلها بعد محاولة إجلاء قسري"
     },
     {
       "id": "b6d32b14e5515def",
       "title_de": "Größter Waldbrand in Frankreich seit 1949 gelöscht",
       "link": "https://orf.at/stories/3443541/",
-      "pubDate": "2026-09-28T21:10:06.765Z",
+      "pubDate": "2026-09-29T05:18:13.616Z",
       "category_de": "Chronik",
       "category_ar": "حوادث",
       "title_ar": "إخماد أكبر حريق غابات في فرنسا منذ عام 1949"
@@ -26,7 +89,7 @@
       "id": "703127bf1969c5e6",
       "title_de": "Viele Tote bei Brand in Feuerwerksfabrik in Russland",
       "link": "https://orf.at/stories/3443540/",
-      "pubDate": "2026-09-28T21:10:06.765Z",
+      "pubDate": "2026-09-29T05:18:13.616Z",
       "category_de": "Chronik",
       "category_ar": "حوادث",
       "title_ar": "عشرات القتلى في حريق مصنع ألعاب نارية بروسيا"
@@ -35,7 +98,7 @@
       "id": "a7634614dad874ad",
       "title_de": "Gespräch Meinl-Reisinger – Saar: Enge Beziehungen betont",
       "link": "https://orf.at/stories/3443539/",
-      "pubDate": "2026-09-28T21:10:06.765Z",
+      "pubDate": "2026-09-29T05:18:13.616Z",
       "category_de": "Politik",
       "category_ar": "سياسة",
       "title_ar": "مينل-رايسنغر وسار يؤكدان على العلاقات الوثيقة"
@@ -44,7 +107,7 @@
       "id": "66e5e499309d3045",
       "title_de": "Selenskyj: Russland hat mit Mobilmachung begonnen",
       "link": "https://orf.at/stories/3443536/",
-      "pubDate": "2026-09-28T21:10:06.765Z",
+      "pubDate": "2026-09-29T05:18:13.616Z",
       "category_de": "Ausland",
       "category_ar": "العالم",
       "title_ar": "زيلينسكي: روسيا بدأت الحشد العسكري"
@@ -53,7 +116,7 @@
       "id": "9e856d7e2ca793ab",
       "title_de": "Kiews Zentrum erneut russisches Angriffsziel",
       "link": "https://orf.at/stories/3443529/",
-      "pubDate": "2026-09-28T21:10:06.765Z",
+      "pubDate": "2026-09-29T05:18:13.616Z",
       "category_de": "Ausland",
       "category_ar": "العالم",
       "title_ar": "كييف تتعرض مجددًا للقصف الروسي"
@@ -62,7 +125,7 @@
       "id": "cadc5aec83718416",
       "title_de": "Proteste an Frankreichs Schulen: 164 Festnahmen",
       "link": "https://orf.at/stories/3443535/",
-      "pubDate": "2026-09-28T21:10:06.765Z",
+      "pubDate": "2026-09-29T05:18:13.616Z",
       "category_de": "Chronik",
       "category_ar": "حوادث",
       "title_ar": "احتجاجات في المدارس الفرنسية: 164 توقيفًا"
@@ -71,7 +134,7 @@
       "id": "afc834eca72abfed",
       "title_de": "Tausende demonstrieren in Prag gegen Regierung",
       "link": "https://orf.at/stories/3443534/",
-      "pubDate": "2026-09-28T21:10:06.765Z",
+      "pubDate": "2026-09-29T05:18:13.616Z",
       "category_de": "Ausland",
       "category_ar": "العالم",
       "title_ar": "آلاف يتظاهرون في براغ ضد الحكومة"
@@ -80,7 +143,7 @@
       "id": "c1c4911d2abaa554",
       "title_de": "SPÖ-Führung: Stuiber und Herrmann im Studio",
       "link": "https://orf.at/stories/3443532/",
-      "pubDate": "2026-09-28T21:10:06.765Z",
+      "pubDate": "2026-09-29T05:18:13.616Z",
       "category_de": "Politik",
       "category_ar": "سياسة",
       "title_ar": "قيادة الحزب الاشتراكي: شتوبر وهيرمان في الاستوديو"
@@ -89,7 +152,7 @@
       "id": "b65d9b7a73714e9b",
       "title_de": "NATO-General: Russische Sabotage in Europa erfolglos",
       "link": "https://orf.at/stories/3443526/",
-      "pubDate": "2026-09-28T21:10:06.765Z",
+      "pubDate": "2026-09-29T05:18:13.616Z",
       "category_de": "Ausland",
       "category_ar": "العالم",
       "title_ar": "جنرال بالناتو: أنشطة روسية تخريبية فاشلة في أوروبا"
@@ -98,7 +161,7 @@
       "id": "8ea30025269859e4",
       "title_de": "„Neptun Deep“: OMV plant erste Förderung ab 2027",
       "link": "https://orf.at/stories/3443524/",
-      "pubDate": "2026-09-28T21:10:06.765Z",
+      "pubDate": "2026-09-29T05:18:13.616Z",
       "category_de": "Wirtschaft",
       "category_ar": "اقتصاد",
       "title_ar": "أوميفي تخطط لبدء الإنتاج من \"نبتون ديب\" عام 2027"
@@ -107,7 +170,7 @@
       "id": "5b80d5a60f22438b",
       "title_de": "Russland-Geschäft von Metro unter Zwangsverwaltung",
       "link": "https://orf.at/stories/3443523/",
-      "pubDate": "2026-09-28T21:10:06.765Z",
+      "pubDate": "2026-09-29T05:18:13.616Z",
       "category_de": "Wirtschaft",
       "category_ar": "اقتصاد",
       "title_ar": "أعمال مترو في روسيا تحت الإدارة الجبرية"
@@ -116,7 +179,7 @@
       "id": "7ca211ffce66b3b5",
       "title_de": "147 Abgeordnete von sexualisierten KI-Deepfakes betroffen",
       "link": "https://orf.at/stories/3443521/",
-      "pubDate": "2026-09-28T21:10:06.765Z",
+      "pubDate": "2026-09-29T05:18:13.616Z",
       "category_de": "Politik",
       "category_ar": "سياسة",
       "title_ar": "147 نائبًا يتأثرون برسائل مزيفة ذكية تم إنشاؤها بالذكاء الاصطناعي"
@@ -125,7 +188,7 @@
       "id": "78f91046d2ca85ca",
       "title_de": "Türkischer Börsenskandal weitet sich aus",
       "link": "https://orf.at/stories/3443467/",
-      "pubDate": "2026-09-28T21:10:06.765Z",
+      "pubDate": "2026-09-29T05:18:13.616Z",
       "category_de": "Wirtschaft",
       "category_ar": "اقتصاد",
       "title_ar": "فضيحة بورصة تركية تتسع نطاقًا"
@@ -134,7 +197,7 @@
       "id": "12d7cb6d2c2839f3",
       "title_de": "Russland stellt Metro-Geschäft unter staatliche Verwaltung",
       "link": "https://orf.at/stories/3443515/",
-      "pubDate": "2026-09-28T21:10:06.765Z",
+      "pubDate": "2026-09-29T05:18:13.616Z",
       "category_de": "Wirtschaft",
       "category_ar": "اقتصاد",
       "title_ar": "روسيا تضع أعمال مترو تحت الإدارة الحكومية"
@@ -143,7 +206,7 @@
       "id": "e9eb94312bc8d517",
       "title_de": "Polen lockert Regelungen für Abschuss von Drohnen",
       "link": "https://orf.at/stories/3443514/",
-      "pubDate": "2026-09-28T21:10:06.765Z",
+      "pubDate": "2026-09-29T05:18:13.616Z",
       "category_de": "Ausland",
       "category_ar": "العالم",
       "title_ar": "بولندا تخفف اللوائح المتعلقة بإسقاط الطائرات بدون طيار"
@@ -152,7 +215,7 @@
       "id": "7074206e0154f1bc",
       "title_de": "ORF tritt in Dialog mit Sport und Kultur",
       "link": "https://orf.at/stories/3443513/",
-      "pubDate": "2026-09-28T21:10:06.765Z",
+      "pubDate": "2026-09-29T05:18:13.616Z",
       "category_de": "Kultur",
       "category_ar": "ثقافة",
       "title_ar": "التلفزيون النمساوي يدخل في حوار مع قطاع الرياضة والثقافة"
@@ -161,7 +224,7 @@
       "id": "5926b7a4fbcffbf0",
       "title_de": "Regierungsbildung in Schweden gescheitert",
       "link": "https://orf.at/stories/3443482/",
-      "pubDate": "2026-09-28T21:10:06.765Z",
+      "pubDate": "2026-09-29T05:18:13.616Z",
       "category_de": "Politik",
       "category_ar": "سياسة",
       "title_ar": "فشل تشكيل الحكومة في السويد"
@@ -170,7 +233,7 @@
       "id": "9ea556ff620cd75f",
       "title_de": "Selenskyj: Auch Klinik in Kiew getroffen",
       "link": "https://orf.at/stories/3443512/",
-      "pubDate": "2026-09-28T21:10:06.765Z",
+      "pubDate": "2026-09-29T05:18:13.616Z",
       "category_de": "Ausland",
       "category_ar": "العالم",
       "title_ar": "زيلينسكي: عيادة في كييف تعرضت للقصف أيضًا"
@@ -179,7 +242,7 @@
       "id": "6ee295fa8cc0b4ce",
       "title_de": "Ralph Siegel will wieder bei Song Contest mitmischen",
       "link": "https://orf.at/stories/3443511/",
-      "pubDate": "2026-09-28T21:10:06.765Z",
+      "pubDate": "2026-09-29T05:18:13.616Z",
       "category_de": "Kultur",
       "category_ar": "ثقافة",
       "title_ar": "رالف سيغل يرغب في العودة للمشاركة في مسابقة يوروفيجن"
@@ -188,37 +251,19 @@
       "id": "2b79537895710689",
       "title_de": "SpaceX-Rakete „Starship“ erreicht erstmals Erdumlaufbahn",
       "link": "https://orf.at/stories/3443509/",
-      "pubDate": "2026-09-28T21:10:06.765Z",
+      "pubDate": "2026-09-29T05:18:13.616Z",
       "category_de": "Wissenschaft",
       "category_ar": "علوم",
       "title_ar": "صاروخ \"ستارشيب\" لـ سبيس إكس يصل لأول مرة إلى مدار الأرض"
     },
     {
-      "id": "8ba7a5df32785301",
-      "title_de": "Neue Spritpreisbremse beschlossen",
-      "link": "https://orf.at/stories/3443485/",
-      "pubDate": "2026-09-28T21:10:06.765Z",
+      "id": "07cf41df7a8feefa",
+      "title_de": "Bier und Molke aus Kanada: Neue US-Einfuhrsperre in Kraft",
+      "link": "https://orf.at/stories/3443552/",
+      "pubDate": "2026-09-29T05:18:13.615Z",
       "category_de": "Wirtschaft",
       "category_ar": "اقتصاد",
-      "title_ar": "الحكومة تقرر إجراء جديد للحد من أسعار الوقود"
-    },
-    {
-      "id": "e55bd67e4b189304",
-      "title_de": "Falschaussage-Ermittlungen gegen Schmid eingestellt",
-      "link": "https://orf.at/stories/3443499/",
-      "pubDate": "2026-09-28T21:10:06.765Z",
-      "category_de": "Politik",
-      "category_ar": "سياسة",
-      "title_ar": "إغلاق التحقيقات ضد شميد بتهمة الإدلاء ببيانات كاذبة"
-    },
-    {
-      "id": "b965358c2914eb30",
-      "title_de": "Biontech schließt mehrere Standorte",
-      "link": "https://orf.at/stories/3443496/",
-      "pubDate": "2026-09-28T21:10:06.765Z",
-      "category_de": "Wirtschaft",
-      "category_ar": "اقتصاد",
-      "title_ar": "بيونتك تغلق عدة منشآت إنتاجية"
+      "title_ar": "واشنطن تفرض حظراً على واردات البيرة والمنتجات الألبانية الكندية"
     }
   ]
 }
