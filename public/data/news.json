@@ -1,14 +1,149 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-09-30T00:15:19.677Z",
+  "generatedAt": "2026-09-30T09:31:37.863Z",
   "source": "https://rss.orf.at/news.xml",
-  "count": 25,
+  "count": 26,
   "items": [
+    {
+      "id": "9ba2543ddb66a445",
+      "title_de": "Österreichs Wirtschaft im Vorjahr stärker gewachsen als gedacht",
+      "link": "https://orf.at/stories/3443672/",
+      "pubDate": "2026-09-30T09:31:29.834Z",
+      "category_de": "Wirtschaft",
+      "category_ar": "اقتصاد",
+      "title_ar": "الاقتصاد النمساوي حقق نموًا أقوى من التوقعات العام الماضي"
+    },
+    {
+      "id": "51fc478421ea1eef",
+      "title_de": "Bericht: Babler lädt zu Treffen mit SPÖ-Landesspitzen",
+      "link": "https://orf.at/stories/3443667/",
+      "pubDate": "2026-09-30T09:31:29.834Z",
+      "category_de": "Politik",
+      "category_ar": "سياسة",
+      "title_ar": "باب لر يدعو إلى لقاء مع قيادات الحزب الاشتراكي في الولايات"
+    },
+    {
+      "id": "589213f8a75b266c",
+      "title_de": "Prügelei im Cockpit führte zu falschem Entführungsalarm",
+      "link": "https://orf.at/stories/3443664/",
+      "pubDate": "2026-09-30T09:31:29.834Z",
+      "category_de": "Chronik",
+      "category_ar": "حوادث",
+      "title_ar": "شجار في قمرة القيادة يثير إنذار اختطاف كاذب"
+    },
+    {
+      "id": "021456d7a7fca828",
+      "title_de": "GB: Burnham schließt Rückkehr in EU nicht aus",
+      "link": "https://orf.at/stories/3443658/",
+      "pubDate": "2026-09-30T09:31:29.834Z",
+      "category_de": "Ausland",
+      "category_ar": "العالم",
+      "title_ar": "بريطانيا: بيرنهام لا يستبعد العودة إلى الاتحاد الأوروبي"
+    },
+    {
+      "id": "eccff9d5e4ad14c5",
+      "title_de": "Guterres-Nachfolge: Grynspan gewinnt erneut Probeabstimmung",
+      "link": "https://orf.at/stories/3443657/",
+      "pubDate": "2026-09-30T09:31:29.834Z",
+      "category_de": "Ausland",
+      "category_ar": "العالم",
+      "title_ar": "خلافة غوتيريس: جرينسبان تفوز بالتصويت الاستكشافي مجددًا"
+    },
+    {
+      "id": "72ae426217885f43",
+      "title_de": "D: Bürgermeister stirbt nach Zusammenbruch in Rathaus",
+      "link": "https://orf.at/stories/3443655/",
+      "pubDate": "2026-09-30T09:31:29.834Z",
+      "category_de": "Ausland",
+      "category_ar": "العالم",
+      "title_ar": "ألمانيا: وفاة عمدة بعد إغماءة في مقر البلدية"
+    },
+    {
+      "id": "c5fffdb4f79be21c",
+      "title_de": "Angriffe in Ukraine: Polen schließt grenznahe Flughäfen",
+      "link": "https://orf.at/stories/3443653/",
+      "pubDate": "2026-09-30T09:31:29.834Z",
+      "category_de": "Ausland",
+      "category_ar": "العالم",
+      "title_ar": "بولندا تغلق المطارات القريبة من الحدود بسبب الهجمات على أوكرانيا"
+    },
+    {
+      "id": "fb258db314b407f1",
+      "title_de": "Braunbär Backpack ist „Fat Bear“ 2026",
+      "link": "https://orf.at/stories/3443652/",
+      "pubDate": "2026-09-30T09:31:29.834Z",
+      "category_de": "Sonstiges",
+      "category_ar": "عام",
+      "title_ar": "الدب البني باكباك يفوز بجائزة أسمن دب 2026"
+    },
+    {
+      "id": "541c1a792cf418c8",
+      "title_de": "E-Control: Erneuerbaren-Anteil bei Strom 2025 gesunken",
+      "link": "https://orf.at/stories/3443651/",
+      "pubDate": "2026-09-30T09:31:29.834Z",
+      "category_de": "Wirtschaft",
+      "category_ar": "اقتصاد",
+      "title_ar": "هيئة التحكم: نسبة الطاقات المتجددة في الكهرباء انخفضت عام 2025"
+    },
+    {
+      "id": "3c50eeab31b1308c",
+      "title_de": "Hochwasser in Thailand: 2,6 Millionen Betroffene",
+      "link": "https://orf.at/stories/3443650/",
+      "pubDate": "2026-09-30T09:31:29.834Z",
+      "category_de": "Ausland",
+      "category_ar": "العالم",
+      "title_ar": "فيضانات في تايلاند تؤثر على 2.6 مليون شخص"
+    },
+    {
+      "id": "c2793531a2541710",
+      "title_de": "40 Prozent der Menschen zu hohen Ozonwerten ausgesetzt",
+      "link": "https://orf.at/stories/3443649/",
+      "pubDate": "2026-09-30T09:31:29.834Z",
+      "category_de": "Gesundheit",
+      "category_ar": "صحة",
+      "title_ar": "40 بالمئة من السكان معرضون لمستويات أوزون عالية"
+    },
+    {
+      "id": "9f62583efcbf27da",
+      "title_de": "Alternative Nobelpreise an KI-Expertin, Anwältin und NGOs",
+      "link": "https://orf.at/stories/3443648/",
+      "pubDate": "2026-09-30T09:31:29.834Z",
+      "category_de": "Kultur",
+      "category_ar": "ثقافة",
+      "title_ar": "جوائز نوبل البديلة لخبيرة ذكاء اصطناعي ومحامية ومنظمات إنسانية"
+    },
+    {
+      "id": "ef6d4c010190cc01",
+      "title_de": "„El Nino“ lässt Simbabwe zittern",
+      "link": "https://orf.at/stories/3442795/",
+      "pubDate": "2026-09-30T09:31:29.834Z",
+      "category_de": "Ausland",
+      "category_ar": "العالم",
+      "title_ar": "ظاهرة إل نينيو تهز زيمبابوي"
+    },
+    {
+      "id": "5b092054b56d1341",
+      "title_de": "Misstrauensvotum: Ficos Vize abgesetzt",
+      "link": "https://orf.at/stories/3443646/",
+      "pubDate": "2026-09-30T09:31:29.834Z",
+      "category_de": "Politik",
+      "category_ar": "سياسة",
+      "title_ar": "عزل نائب فيكو عقب تصويت عدم الثقة"
+    },
+    {
+      "id": "0b59678aade0f6df",
+      "title_de": "USA beendeten Abzug aus Irak",
+      "link": "https://orf.at/stories/3443497/",
+      "pubDate": "2026-09-30T09:31:29.834Z",
+      "category_de": "Ausland",
+      "category_ar": "العالم",
+      "title_ar": "الولايات المتحدة تنهي انسحابها من العراق"
+    },
     {
       "id": "861d72bd08093540",
       "title_de": "Ortsgröße entscheidet über Wohl und Wehe",
       "link": "https://orf.at/stories/3443597/",
-      "pubDate": "2026-09-30T00:15:16.627Z",
+      "pubDate": "2026-09-30T09:31:29.834Z",
       "category_de": "Chronik",
       "category_ar": "حوادث",
       "title_ar": "حجم المدينة يحدد الحظ والشقاء"
@@ -17,16 +152,16 @@
       "id": "3ab1f69a48ed1516",
       "title_de": "Börsenskandal: Türkische Regierung bestellt Kontrollgremium",
       "link": "https://orf.at/stories/3443641/",
-      "pubDate": "2026-09-30T00:15:16.627Z",
+      "pubDate": "2026-09-30T09:31:29.834Z",
       "category_de": "Wirtschaft",
       "category_ar": "اقتصاد",
       "title_ar": "فضيحة بورصة: الحكومة التركية تعيّن لجنة رقابية"
     },
     {
       "id": "a38c6ad9d47387d6",
-      "title_de": "US-Supreme Court erlaubt Abschiebungen in Drittstaaten",
+      "title_de": "US-Höchstgericht erlaubt Abschiebungen in Drittstaaten",
       "link": "https://orf.at/stories/3443640/",
-      "pubDate": "2026-09-30T00:15:16.627Z",
+      "pubDate": "2026-09-30T09:31:29.834Z",
       "category_de": "Ausland",
       "category_ar": "العالم",
       "title_ar": "المحكمة العليا الأمريكية تجيز ترحيل اللاجئين إلى دول ثالثة"
@@ -35,7 +170,7 @@
       "id": "2b4a59c6e3e3cfe0",
       "title_de": "Trump setzt auf Selbstregulierung der KI-Branche",
       "link": "https://orf.at/stories/3443639/",
-      "pubDate": "2026-09-30T00:15:16.627Z",
+      "pubDate": "2026-09-30T09:31:29.834Z",
       "category_de": "Wirtschaft",
       "category_ar": "اقتصاد",
       "title_ar": "ترامب يراهن على التنظيم الذاتي لقطاع الذكاء الاصطناعي"
@@ -44,7 +179,7 @@
       "id": "9a65935994e33060",
       "title_de": "Frankreichs Schüler auf den Barrikaden",
       "link": "https://orf.at/stories/3443615/",
-      "pubDate": "2026-09-30T00:15:16.627Z",
+      "pubDate": "2026-09-30T09:31:29.834Z",
       "category_de": "Ausland",
       "category_ar": "العالم",
       "title_ar": "طلاب فرنسا يتظاهرون احتجاجاً على سياسات التعليم"
@@ -53,7 +188,7 @@
       "id": "36635dd15ad7c8cf",
       "title_de": "Trump-Videos sorgen vor Midterms für Kontroversen",
       "link": "https://orf.at/stories/3443638/",
-      "pubDate": "2026-09-30T00:15:16.627Z",
+      "pubDate": "2026-09-30T09:31:29.834Z",
       "category_de": "Ausland",
       "category_ar": "العالم",
       "title_ar": "فيديوهات ترامب تثير جدلاً قبل الانتخابات النصفية الأمريكية"
@@ -62,7 +197,7 @@
       "id": "68ad0a7fda6f9673",
       "title_de": "New York: Mamdani will Antisemitismus bekämpfen",
       "link": "https://orf.at/stories/3443634/",
-      "pubDate": "2026-09-30T00:15:16.627Z",
+      "pubDate": "2026-09-30T09:31:29.834Z",
       "category_de": "Ausland",
       "category_ar": "العالم",
       "title_ar": "نيويورك: ممدوح يتعهد بمحاربة معاداة السامية"
@@ -71,7 +206,7 @@
       "id": "9c679228fd290c2c",
       "title_de": "Shaun das Schaf lehrt Monster das Fürchten",
       "link": "https://orf.at/stories/3443123/",
-      "pubDate": "2026-09-30T00:15:16.627Z",
+      "pubDate": "2026-09-30T09:31:29.834Z",
       "category_de": "Kultur",
       "category_ar": "ثقافة",
       "title_ar": "شون الخروف يعلم الوحوش الخوف"
@@ -80,7 +215,7 @@
       "id": "1a3692e7fc696e7a",
       "title_de": "Bildungssystem: OECD-Direktor Schleicher im Studio",
       "link": "https://orf.at/stories/3443632/",
-      "pubDate": "2026-09-30T00:15:16.627Z",
+      "pubDate": "2026-09-30T09:31:29.834Z",
       "category_de": "Wissenschaft",
       "category_ar": "علوم",
       "title_ar": "مدير منظمة التعاون الاقتصادي يناقش إصلاح النظام التعليمي"
@@ -89,7 +224,7 @@
       "id": "82e0c27f0ff511b3",
       "title_de": "Koalition ringt um neue Regeln",
       "link": "https://orf.at/stories/3443599/",
-      "pubDate": "2026-09-30T00:15:16.627Z",
+      "pubDate": "2026-09-30T09:31:29.834Z",
       "category_de": "Politik",
       "category_ar": "سياسة",
       "title_ar": "الائتلاف الحكومي يتجادل حول قواعد جديدة"
@@ -98,136 +233,10 @@
       "id": "cd7e901568697bc0",
       "title_de": "Marokkos König ernennt erste Premierministerin",
       "link": "https://orf.at/stories/3443627/",
-      "pubDate": "2026-09-30T00:15:16.627Z",
+      "pubDate": "2026-09-30T09:31:29.834Z",
       "category_de": "Ausland",
       "category_ar": "العالم",
       "title_ar": "ملك المغرب يعين أول رئيسة وزراء للبلاد"
-    },
-    {
-      "id": "5c5e88e0655b0736",
-      "title_de": "Skandal um Ausschluss von Frauen: Eiffelturm-Chef geht",
-      "link": "https://orf.at/stories/3443626/",
-      "pubDate": "2026-09-30T00:15:16.627Z",
-      "category_de": "Chronik",
-      "category_ar": "حوادث",
-      "title_ar": "فضيحة استبعاد النساء تؤدي لاستقالة رئيس برج إيفل"
-    },
-    {
-      "id": "e02628529136d548",
-      "title_de": "Tote nach russischen Gleitbombenangriffen in Sumy",
-      "link": "https://orf.at/stories/3443625/",
-      "pubDate": "2026-09-30T00:15:16.627Z",
-      "category_de": "Ausland",
-      "category_ar": "العالم",
-      "title_ar": "قتلى في غارات روسية بالقنابل الانزلاقية على سومي"
-    },
-    {
-      "id": "9cce34087a5eb132",
-      "title_de": "Burnham will EU-Gipfel für Wiederannäherung nutzen",
-      "link": "https://orf.at/stories/3443623/",
-      "pubDate": "2026-09-30T00:15:16.627Z",
-      "category_de": "Ausland",
-      "category_ar": "العالم",
-      "title_ar": "بيرنهام يسعى لاستخدام قمة الاتحاد الأوروبي لإعادة التقارب"
-    },
-    {
-      "id": "e415dfc199c846df",
-      "title_de": "Langstreckenbomber abgestürzt: Sechs Tote in Russland",
-      "link": "https://orf.at/stories/3443621/",
-      "pubDate": "2026-09-30T00:15:16.627Z",
-      "category_de": "Ausland",
-      "category_ar": "العالم",
-      "title_ar": "تحطم قاذفة استراتيجية روسية وسقوط ستة قتلى"
-    },
-    {
-      "id": "91a1ef9d4e50a42b",
-      "title_de": "Nach Protesten: Spanien will Mieterschutz stärken",
-      "link": "https://orf.at/stories/3443616/",
-      "pubDate": "2026-09-30T00:15:16.627Z",
-      "category_de": "Politik",
-      "category_ar": "سياسة",
-      "title_ar": "إسبانيا تعزز حماية المستأجرين بعد احتجاجات شعبية"
-    },
-    {
-      "id": "058ff615fbae8588",
-      "title_de": "13-Jähriger tötet in der Slowakei Lehrerin mit Messer",
-      "link": "https://orf.at/stories/3443614/",
-      "pubDate": "2026-09-30T00:15:16.627Z",
-      "category_de": "Chronik",
-      "category_ar": "حوادث",
-      "title_ar": "طالب في الثالثة عشرة يقتل معلمته بالسكين في سلوفاكيا"
-    },
-    {
-      "id": "d0d91aefed69f381",
-      "title_de": "Terrorverdacht in GB: Offenbar kein Sprengstoff gefunden",
-      "link": "https://orf.at/stories/3443610/",
-      "pubDate": "2026-09-30T00:15:16.627Z",
-      "category_de": "Chronik",
-      "category_ar": "حوادث",
-      "title_ar": "مشبوهة إرهابية في بريطانيا: لا توجد متفجرات"
-    },
-    {
-      "id": "8a4a59e212660262",
-      "title_de": "Pensionen, Pflege: Felbermayr für umfassende Reform",
-      "link": "https://orf.at/stories/3443606/",
-      "pubDate": "2026-09-30T00:15:16.627Z",
-      "category_de": "Politik",
-      "category_ar": "سياسة",
-      "title_ar": "فيلبرماير يدعو لإصلاح شامل للمعاشات والرعاية الاجتماعية"
-    },
-    {
-      "id": "383d5336d5fc4889",
-      "title_de": "Hamas-Kommandant in Gaza bei Luftangriff getötet",
-      "link": "https://orf.at/stories/3443604/",
-      "pubDate": "2026-09-30T00:15:16.627Z",
-      "category_de": "Ausland",
-      "category_ar": "العالم",
-      "title_ar": "مقتل قائد حماس في غزة بغارة جوية"
-    },
-    {
-      "id": "e6a677cae5a7afb6",
-      "title_de": "FBI sitzt Hackergruppe auf",
-      "link": "https://orf.at/stories/3443581/",
-      "pubDate": "2026-09-30T00:15:16.627Z",
-      "category_de": "Sonstiges",
-      "category_ar": "عام",
-      "title_ar": "مكتب التحقيقات الفيدرالي يضيق الخناق على مجموعة قراصنة"
-    },
-    {
-      "id": "5b7468634e14d09c",
-      "title_de": "Öllieferungen durch Straße von Hormus nehmen zu",
-      "link": "https://orf.at/stories/3443602/",
-      "pubDate": "2026-09-30T00:15:16.627Z",
-      "category_de": "Wirtschaft",
-      "category_ar": "اقتصاد",
-      "title_ar": "ارتفاع شحنات النفط عبر مضيق هرمز"
-    },
-    {
-      "id": "f95b38c0c38cf82b",
-      "title_de": "Mehrere Explosionen in Kiew",
-      "link": "https://orf.at/stories/3443601/",
-      "pubDate": "2026-09-30T00:15:16.627Z",
-      "category_de": "Ausland",
-      "category_ar": "العالم",
-      "title_ar": "سلسلة انفجارات تضرب كييف"
-    },
-    {
-      "id": "5cdf89790a57089e",
-      "title_de": "NEOS ortet prorussische Desinformation",
-      "link": "https://orf.at/stories/3443579/",
-      "pubDate": "2026-09-30T00:15:16.627Z",
-      "category_de": "Politik",
-      "category_ar": "سياسة",
-      "title_ar": "حزب نيوس يكشف حملة تضليل親روسية"
-    },
-    {
-      "id": "0b59678aade0f6df",
-      "title_de": "USA beenden Abzug aus dem Irak",
-      "link": "https://orf.at/stories/3443497/",
-      "pubDate": "2026-09-30T00:15:16.626Z",
-      "category_de": "Ausland",
-      "category_ar": "العالم",
-      "title_ar": "الولايات المتحدة تنهي انسحابها من العراق"
     }
   ]
 }
