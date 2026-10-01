@@ -1,242 +1,215 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-10-01T05:20:46.313Z",
+  "generatedAt": "2026-10-01T12:53:47.729Z",
   "source": "https://rss.orf.at/news.xml",
-  "count": 26,
+  "count": 23,
   "items": [
     {
-      "id": "f8cb9b277d43d5c6",
-      "title_de": "US-Gericht stoppt historische Hinrichtung",
-      "link": "https://orf.at/stories/3443724/",
-      "pubDate": "2026-10-01T05:20:42.504Z",
+      "id": "426d1b9a36d95a98",
+      "title_de": "Zwei Ex-Minister aus Orban-Ära in U-Haft",
+      "link": "https://orf.at/stories/3443809/",
+      "pubDate": "2026-10-01T12:53:35.743Z",
       "category_de": "Ausland",
       "category_ar": "العالم",
-      "title_ar": "محكمة أميركية توقف إعدام تاريخياً"
+      "title_ar": "اعتقال وزيرين سابقين من عهد أوربان"
     },
     {
-      "id": "db57a162dd9c7faa",
-      "title_de": "Vorfall bei Militärbasis in GB: London sieht Spuren zum Iran",
-      "link": "https://orf.at/stories/3443726/",
-      "pubDate": "2026-10-01T05:20:42.504Z",
-      "category_de": "Ausland",
-      "category_ar": "العالم",
-      "title_ar": "لندن ترى بصمات إيرانية في حادث قاعدة عسكرية بريطانية"
-    },
-    {
-      "id": "b867be20b0885348",
-      "title_de": "Antisemitismusvorwurf gegen Bardella: Macron will Klarheit",
-      "link": "https://orf.at/stories/3443720/",
-      "pubDate": "2026-10-01T05:20:42.504Z",
-      "category_de": "Ausland",
-      "category_ar": "العالم",
-      "title_ar": "ماكرون يطالب بتوضيح اتهامات معاداة السامية ضد باردلا"
-    },
-    {
-      "id": "6ec9a903d2c1edbb",
-      "title_de": "Türkei: Untersuchungen nach Manipulationsskandal ausgeweitet",
-      "link": "https://orf.at/stories/3443719/",
-      "pubDate": "2026-10-01T05:20:42.504Z",
-      "category_de": "Ausland",
-      "category_ar": "العالم",
-      "title_ar": "تركيا توسع التحقيقات حول فضيحة التلاعب"
-    },
-    {
-      "id": "065c21e8f34e9157",
-      "title_de": "„Game of Thrones“-Kinofilm für 2029 angekündigt",
-      "link": "https://orf.at/stories/3443718/",
-      "pubDate": "2026-10-01T05:20:42.504Z",
-      "category_de": "Kultur",
-      "category_ar": "ثقافة",
-      "title_ar": "فيلم \"صراع العروش\" السينمائي يقترب من الشاشة في 2029"
-    },
-    {
-      "id": "ab369ec488ac3a77",
-      "title_de": "Gericht stoppt historische Hinrichtung in Tennessee",
-      "link": "https://orf.at/stories/3443716/",
-      "pubDate": "2026-10-01T05:20:42.504Z",
-      "category_de": "Ausland",
-      "category_ar": "العالم",
-      "title_ar": "محكمة أميركية توقف إعدام تاريخياً في تينيسي"
-    },
-    {
-      "id": "fc7bf2859482ce29",
-      "title_de": "Trockenheit trotz Regens weiter enorm",
-      "link": "https://orf.at/stories/3443682/",
-      "pubDate": "2026-10-01T05:20:42.504Z",
-      "category_de": "Wissenschaft",
-      "category_ar": "علوم",
-      "title_ar": "الجفاف يستمر رغم الأمطار الأخيرة"
-    },
-    {
-      "id": "1b6287a4a0fd6f79",
-      "title_de": "Passagiere schildern Vorgänge in Flydubai-Jet",
-      "link": "https://orf.at/stories/3443707/",
-      "pubDate": "2026-10-01T05:20:42.504Z",
-      "category_de": "Ausland",
-      "category_ar": "العالم",
-      "title_ar": "شهود: تفاصيل جديدة عن حادثة طائرة فلاي دبي"
-    },
-    {
-      "id": "733ecfe92512020d",
-      "title_de": "Bildschirmzeit von Kindern: Wiederkehr will Eltern helfen",
-      "link": "https://orf.at/stories/3443708/",
-      "pubDate": "2026-10-01T05:20:42.504Z",
+      "id": "ff3af6010d422762",
+      "title_de": "VfGH-Präsident: Unabhängigkeit des Höchstgerichts stärken",
+      "link": "https://orf.at/stories/3443808/",
+      "pubDate": "2026-10-01T12:53:35.743Z",
       "category_de": "Politik",
       "category_ar": "سياسة",
-      "title_ar": "وزير: حان الوقت لمساعدة الآباء على التحكم بوقت الشاشة للأطفال"
+      "title_ar": "رئيس المحكمة الدستورية: تعزيز استقلالية القضاء الأعلى"
     },
     {
-      "id": "195060397fa6f405",
-      "title_de": "Streit bei Republikanern: Senatorin blockiert Trumps Richterwahl",
-      "link": "https://orf.at/stories/3443753/",
-      "pubDate": "2026-10-01T05:20:42.503Z",
+      "id": "7fc36d3983e89af4",
+      "title_de": "Russischer Angriff auf Brücke in Kiew",
+      "link": "https://orf.at/stories/3443799/",
+      "pubDate": "2026-10-01T12:53:35.743Z",
       "category_de": "Ausland",
       "category_ar": "العالم",
-      "title_ar": "انقسام جمهوري: سيناتورة تحجب تعيين ترامب لقاضٍ فيدرالي"
+      "title_ar": "روسيا تشن هجوماً على جسر في كييف"
     },
     {
-      "id": "0a2353f076519a9a",
-      "title_de": "NGO-Kritik an Umgang mit Ewigkeitschemikalie TFA",
-      "link": "https://orf.at/stories/3443752/",
-      "pubDate": "2026-10-01T05:20:42.503Z",
-      "category_de": "Wissenschaft",
-      "category_ar": "علوم",
-      "title_ar": "منظمات حقوقية تنتقد التعامل مع مادة كيميائية ضارة"
+      "id": "84423efcee16e453",
+      "title_de": "Grüne warnen vor neuen Einsparungen bei ÖGK",
+      "link": "https://orf.at/stories/3443794/",
+      "pubDate": "2026-10-01T12:53:35.743Z",
+      "category_de": "Politik",
+      "category_ar": "سياسة",
+      "title_ar": "الخضر يحذرون من تقشفات جديدة في صناديق التأمين الصحي"
     },
     {
-      "id": "94187e02c4643494",
-      "title_de": "Starker Anstieg bei Diskriminierungsfällen",
-      "link": "https://orf.at/stories/3443750/",
-      "pubDate": "2026-10-01T05:20:42.503Z",
+      "id": "9a4938a956a73512",
+      "title_de": "Presserat: „Krone“ verletzte mit Tötungsvideo Menschenwürde",
+      "link": "https://orf.at/stories/3443804/",
+      "pubDate": "2026-10-01T12:53:35.743Z",
       "category_de": "Chronik",
       "category_ar": "حوادث",
-      "title_ar": "ارتفاع حاد في حالات التمييز المسجلة"
+      "title_ar": "مجلس الصحافة: جريدة كرونه انتهكت الكرامة الإنسانية بفيديو القتل"
     },
     {
-      "id": "92c321ee37c0f062",
-      "title_de": "US-Hinrichtung: Frau lebt nach zwei Giftspritzen noch",
-      "link": "https://orf.at/stories/3443749/",
-      "pubDate": "2026-10-01T05:20:42.503Z",
-      "category_de": "Ausland",
-      "category_ar": "العالم",
-      "title_ar": "امرأة تستيقظ بعد حقنتي سم في ولاية أمريكية"
+      "id": "54679538a868ca73",
+      "title_de": "Innenminister geben grünes Licht für Rückkehrzentren",
+      "link": "https://orf.at/stories/3443800/",
+      "pubDate": "2026-10-01T12:53:35.743Z",
+      "category_de": "Politik",
+      "category_ar": "سياسة",
+      "title_ar": "وزراء الداخلية يوافقون على مراكز إعادة التوطين"
     },
     {
-      "id": "e3f835c303c69ee0",
-      "title_de": "Neue Regeln als Dilemma für Kuriere",
-      "link": "https://orf.at/stories/3441740/",
-      "pubDate": "2026-10-01T05:20:42.503Z",
+      "id": "d2080a325147a632",
+      "title_de": "Zuckersteuer: Deutsches Kanzleramt stoppt Entwurf",
+      "link": "https://orf.at/stories/3443797/",
+      "pubDate": "2026-10-01T12:53:35.743Z",
       "category_de": "Wirtschaft",
       "category_ar": "اقتصاد",
-      "title_ar": "قوانين جديدة تشكل معضلة لشركات الخدمات اللوجستية"
+      "title_ar": "المستشارية الألمانية توقف مشروع ضريبة السكر"
     },
     {
-      "id": "7cb440fddaf3de6b",
-      "title_de": "US-Höchstgericht erlaubt Hinrichtung von Frau in Tennessee",
-      "link": "https://orf.at/stories/3443747/",
-      "pubDate": "2026-10-01T05:20:42.503Z",
+      "id": "72a624606b688363",
+      "title_de": "Reformpartnerschaft einigte sich auf Gemeindepaket",
+      "link": "https://orf.at/stories/3443796/",
+      "pubDate": "2026-10-01T12:53:35.743Z",
+      "category_de": "Politik",
+      "category_ar": "سياسة",
+      "title_ar": "شراكة الإصلاح تتوصل لاتفاق حول حزمة البلديات"
+    },
+    {
+      "id": "0b847780f316fdae",
+      "title_de": "Klitschko: Drohnen treffen wichtige Brücke in Kiew",
+      "link": "https://orf.at/stories/3443795/",
+      "pubDate": "2026-10-01T12:53:35.743Z",
       "category_de": "Ausland",
       "category_ar": "العالم",
-      "title_ar": "المحكمة العليا الأمريكية تجيز إعدام امرأة في تينيسي"
+      "title_ar": "كليتشكو: الطائرات المسيرة تضرب جسراً استراتيجياً في كييف"
     },
     {
-      "id": "3e9535ccf6a75281",
-      "title_de": "Schock und Entsetzen nach Angriff",
-      "link": "https://orf.at/stories/3443740/",
-      "pubDate": "2026-10-01T05:20:42.503Z",
-      "category_de": "Ausland",
-      "category_ar": "العالم",
-      "title_ar": "صدمة واستنكار عقب الهجوم"
-    },
-    {
-      "id": "5e3027efae3c547f",
-      "title_de": "Prüfer: Kein strafbares Verhalten bei Umbau der US-Notenbank",
-      "link": "https://orf.at/stories/3443745/",
-      "pubDate": "2026-10-01T05:20:42.503Z",
+      "id": "fd087b07964fd0f6",
+      "title_de": "Jobsuche dauert aktuell lang",
+      "link": "https://orf.at/stories/3443776/",
+      "pubDate": "2026-10-01T12:53:35.743Z",
       "category_de": "Wirtschaft",
       "category_ar": "اقتصاد",
-      "title_ar": "المفتشون: لا مؤاخذة قانونية في إعادة هيكلة البنك الاحتياطي الفيدرالي الأمريكي"
+      "title_ar": "البحث عن عمل يستغرق وقتاً أطول حالياً"
     },
     {
-      "id": "c5e86eba9eebe1ce",
-      "title_de": "Hegseth: Musk soll „Zukunft der Kriegsführung“ erforschen",
-      "link": "https://orf.at/stories/3443744/",
-      "pubDate": "2026-10-01T05:20:42.503Z",
+      "id": "ba0816a92d66db62",
+      "title_de": "„Absoluter Scheiß“: EU-Kommission kämpft mit MS-Teams-Ersatz",
+      "link": "https://orf.at/stories/3443779/",
+      "pubDate": "2026-10-01T12:53:35.743Z",
+      "category_de": "Wirtschaft",
+      "category_ar": "اقتصاد",
+      "title_ar": "المفوضية الأوروبية تواجه صعوبات في بديل مايكروسوفت تيمز"
+    },
+    {
+      "id": "8e59b149b7c850b8",
+      "title_de": "Türkei: Erneut oppositionelle Bürgermeister festgenommen",
+      "link": "https://orf.at/stories/3443785/",
+      "pubDate": "2026-10-01T12:53:35.743Z",
       "category_de": "Ausland",
       "category_ar": "العالم",
-      "title_ar": "هيجسيث: يجب على ماسك أن يبحث عن \"مستقبل الحرب\""
+      "title_ar": "تركيا: اعتقال رؤساء بلديات معارضين جدد"
     },
     {
-      "id": "5d0de02ddeaed9c0",
-      "title_de": "US-Botschafterin sorgt für Wirbel",
-      "link": "https://orf.at/stories/3443680/",
-      "pubDate": "2026-10-01T05:20:42.503Z",
+      "id": "100da7fc87754114",
+      "title_de": "F: Regierung plant milliardenschwere Sparmaßnahmen",
+      "link": "https://orf.at/stories/3443784/",
+      "pubDate": "2026-10-01T12:53:35.743Z",
+      "category_de": "Politik",
+      "category_ar": "سياسة",
+      "title_ar": "فرنسا: الحكومة تخطط لإجراءات تقشفية بمليارات"
+    },
+    {
+      "id": "8d1514bb234c604b",
+      "title_de": "US-Untersuchungen bei Anthropic und OpenAI",
+      "link": "https://orf.at/stories/3443778/",
+      "pubDate": "2026-10-01T12:53:35.743Z",
+      "category_de": "Wirtschaft",
+      "category_ar": "اقتصاد",
+      "title_ar": "تحقيقات أمريكية لدى شركات الذكاء الاصطناعي"
+    },
+    {
+      "id": "bef49b95f7e2ff3f",
+      "title_de": "Italien treibt Aufbau von Abschiebezentren voran",
+      "link": "https://orf.at/stories/3443777/",
+      "pubDate": "2026-10-01T12:53:35.743Z",
       "category_de": "Ausland",
       "category_ar": "العالم",
-      "title_ar": "السفيرة الأمريكية تثير جدلاً واسعاً"
+      "title_ar": "إيطاليا تسرع بناء مراكز الترحيل"
     },
     {
-      "id": "81a0e2703cbb62c2",
-      "title_de": "Warum Gelb die Farbe der Außenseiter war",
-      "link": "https://orf.at/stories/3442882/",
-      "pubDate": "2026-10-01T05:20:42.503Z",
+      "id": "d9feb87a17decfe1",
+      "title_de": "Rekorderlöse für Werke von Cezanne und van Gogh erwartet",
+      "link": "https://orf.at/stories/3443774/",
+      "pubDate": "2026-10-01T12:53:35.743Z",
       "category_de": "Kultur",
       "category_ar": "ثقافة",
-      "title_ar": "لماذا كان الأصفر لون المهمشين"
+      "title_ar": "أعمال سيزان وفان غوخ تحقق أرقاماً قياسية بالمزادات"
     },
     {
-      "id": "4e9dfe7afcc7fed9",
-      "title_de": "Türkische Nachrichtenseite T24 gesperrt",
-      "link": "https://orf.at/stories/3443738/",
-      "pubDate": "2026-10-01T05:20:42.503Z",
-      "category_de": "Ausland",
-      "category_ar": "العالم",
-      "title_ar": "حجب الموقع الإخباري التركي T24"
+      "id": "963e4ae27fbe0d41",
+      "title_de": "Arbeitslosigkeit bei Frauen im September weiter gestiegen",
+      "link": "https://orf.at/stories/3443772/",
+      "pubDate": "2026-10-01T12:53:35.743Z",
+      "category_de": "Wirtschaft",
+      "category_ar": "اقتصاد",
+      "title_ar": "البطالة بين النساء تواصل ارتفاعها في أيلول"
     },
     {
-      "id": "eaacc72bed9270ee",
-      "title_de": "Andrea Kdolsky ist tot",
-      "link": "https://orf.at/stories/3443727/",
-      "pubDate": "2026-10-01T05:20:42.503Z",
-      "category_de": "Chronik",
-      "category_ar": "حوادث",
-      "title_ar": "وفاة أندريا كدولسكي الوزيرة النمساوية السابقة"
-    },
-    {
-      "id": "841cef320e3abc87",
-      "title_de": "Schulkrawalle in Frankreich weiten sich aus: 625 Festnahmen",
-      "link": "https://orf.at/stories/3443734/",
-      "pubDate": "2026-10-01T05:20:42.503Z",
-      "category_de": "Ausland",
-      "category_ar": "العالم",
-      "title_ar": "أعمال شغب في المدارس الفرنسية تتسع: 625 موقوفاً"
-    },
-    {
-      "id": "82b796c96e30e20b",
-      "title_de": "Ex-Gesundheitsministerin Andrea Kdolsky verstorben",
-      "link": "https://orf.at/stories/3443733/",
-      "pubDate": "2026-10-01T05:20:42.503Z",
-      "category_de": "Chronik",
-      "category_ar": "حوادث",
-      "title_ar": "رحيل وزيرة الصحة السابقة أندريا كدولسكي"
-    },
-    {
-      "id": "95ddbb75e0d781c5",
-      "title_de": "IT-Rechtsexperte Forgo zur KI-Entwicklung in den USA",
-      "link": "https://orf.at/stories/3443732/",
-      "pubDate": "2026-10-01T05:20:42.503Z",
+      "id": "ff0b6cad06983380",
+      "title_de": "Universitätenkonferenz sorgt sich wegen Unibudgets",
+      "link": "https://orf.at/stories/3443770/",
+      "pubDate": "2026-10-01T12:53:35.743Z",
       "category_de": "Wissenschaft",
       "category_ar": "علوم",
-      "title_ar": "خبير القانون الرقمي فورغو يناقش تطور الذكاء الاصطناعي في أميركا"
+      "title_ar": "مؤتمر الجامعات يبدي قلقه إزاء ميزانيات الجامعات"
     },
     {
-      "id": "2427c73311752eb0",
-      "title_de": "Jackpot bei Lotto „6 aus 45“",
-      "link": "https://orf.at/stories/3443730/",
-      "pubDate": "2026-10-01T05:20:42.503Z",
-      "category_de": "Sonstiges",
-      "category_ar": "عام",
-      "title_ar": "أرقام اليانصيب النمساوي الأسبوعي"
+      "id": "7861044544329fcc",
+      "title_de": "Paramount holt Mattel-Chef in Führungsspitze",
+      "link": "https://orf.at/stories/3443769/",
+      "pubDate": "2026-10-01T12:53:35.743Z",
+      "category_de": "Wirtschaft",
+      "category_ar": "اقتصاد",
+      "title_ar": "باراماونت تعين رئيس ماتل في قيادتها"
+    },
+    {
+      "id": "6f9fa4f5da4536aa",
+      "title_de": "Falklands: London protestiert auf diplomatischer Ebene",
+      "link": "https://orf.at/stories/3443767/",
+      "pubDate": "2026-10-01T12:53:35.743Z",
+      "category_de": "Ausland",
+      "category_ar": "العالم",
+      "title_ar": "لندن تحتج دبلوماسياً بشأن جزر فوكلاند"
+    },
+    {
+      "id": "26e9bf983ab96cdb",
+      "title_de": "Paketsteuer bei großen Onlinehändlern in Kraft",
+      "link": "https://orf.at/stories/3443764/",
+      "pubDate": "2026-10-01T12:53:35.743Z",
+      "category_de": "Wirtschaft",
+      "category_ar": "اقتصاد",
+      "title_ar": "ضريبة الطرود تدخل حيز التنفيذ لدى كبرى منصات التجارة الإلكترونية"
+    },
+    {
+      "id": "78e6e0f1323bd0ff",
+      "title_de": "Trump verkündet Milliardeninvestition: Südkorea rudert zurück",
+      "link": "https://orf.at/stories/3443756/",
+      "pubDate": "2026-10-01T12:53:35.743Z",
+      "category_de": "Ausland",
+      "category_ar": "العالم",
+      "title_ar": "ترامب يعلن استثمارات مليارية: كوريا الجنوبية تتراجع"
+    },
+    {
+      "id": "9458da0c92e757f9",
+      "title_de": "Pakistan greift erneut Ziele in Afghanistan an",
+      "link": "https://orf.at/stories/3443755/",
+      "pubDate": "2026-10-01T12:53:35.743Z",
+      "category_de": "Ausland",
+      "category_ar": "العالم",
+      "title_ar": "باكستان تشن غارات جديدة على أهداف في أفغانستان"
     }
   ]
 }
