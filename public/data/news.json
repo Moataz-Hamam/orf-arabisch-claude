@@ -1,104 +1,14 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-09-30T22:06:04.062Z",
+  "generatedAt": "2026-10-01T05:20:46.313Z",
   "source": "https://rss.orf.at/news.xml",
-  "count": 24,
+  "count": 26,
   "items": [
-    {
-      "id": "5e3027efae3c547f",
-      "title_de": "Prüfer: Kein strafbares Verhalten bei Umbau der US-Notenbank",
-      "link": "https://orf.at/stories/3443745/",
-      "pubDate": "2026-09-30T22:06:00.495Z",
-      "category_de": "Wirtschaft",
-      "category_ar": "اقتصاد",
-      "title_ar": "المفتشون: لا مؤاخذة قانونية في إعادة هيكلة البنك الاحتياطي الفيدرالي الأمريكي"
-    },
-    {
-      "id": "c5e86eba9eebe1ce",
-      "title_de": "Hegseth: Musk soll „Zukunft der Kriegsführung“ erforschen",
-      "link": "https://orf.at/stories/3443744/",
-      "pubDate": "2026-09-30T22:06:00.495Z",
-      "category_de": "Ausland",
-      "category_ar": "العالم",
-      "title_ar": "هيجسيث: يجب على ماسك أن يبحث عن \"مستقبل الحرب\""
-    },
-    {
-      "id": "5d0de02ddeaed9c0",
-      "title_de": "US-Botschafterin sorgt für Wirbel",
-      "link": "https://orf.at/stories/3443680/",
-      "pubDate": "2026-09-30T22:06:00.495Z",
-      "category_de": "Ausland",
-      "category_ar": "العالم",
-      "title_ar": "السفيرة الأمريكية تثير جدلاً واسعاً"
-    },
-    {
-      "id": "81a0e2703cbb62c2",
-      "title_de": "Warum Gelb die Farbe der Außenseiter war",
-      "link": "https://orf.at/stories/3442882/",
-      "pubDate": "2026-09-30T22:06:00.495Z",
-      "category_de": "Kultur",
-      "category_ar": "ثقافة",
-      "title_ar": "لماذا كان الأصفر لون المهمشين"
-    },
-    {
-      "id": "4e9dfe7afcc7fed9",
-      "title_de": "Türkische Nachrichtenseite T24 gesperrt",
-      "link": "https://orf.at/stories/3443738/",
-      "pubDate": "2026-09-30T22:06:00.495Z",
-      "category_de": "Ausland",
-      "category_ar": "العالم",
-      "title_ar": "حجب الموقع الإخباري التركي T24"
-    },
-    {
-      "id": "eaacc72bed9270ee",
-      "title_de": "Andrea Kdolsky ist tot",
-      "link": "https://orf.at/stories/3443727/",
-      "pubDate": "2026-09-30T22:06:00.495Z",
-      "category_de": "Chronik",
-      "category_ar": "حوادث",
-      "title_ar": "وفاة أندريا كدولسكي الوزيرة النمساوية السابقة"
-    },
-    {
-      "id": "841cef320e3abc87",
-      "title_de": "Schulkrawalle in Frankreich weiten sich aus: 625 Festnahmen",
-      "link": "https://orf.at/stories/3443734/",
-      "pubDate": "2026-09-30T22:06:00.495Z",
-      "category_de": "Ausland",
-      "category_ar": "العالم",
-      "title_ar": "أعمال شغب في المدارس الفرنسية تتسع: 625 موقوفاً"
-    },
-    {
-      "id": "82b796c96e30e20b",
-      "title_de": "Ex-Gesundheitsministerin Andrea Kdolsky verstorben",
-      "link": "https://orf.at/stories/3443733/",
-      "pubDate": "2026-09-30T22:06:00.495Z",
-      "category_de": "Chronik",
-      "category_ar": "حوادث",
-      "title_ar": "رحيل وزيرة الصحة السابقة أندريا كدولسكي"
-    },
-    {
-      "id": "95ddbb75e0d781c5",
-      "title_de": "IT-Rechtsexperte Forgo zur KI-Entwicklung in den USA",
-      "link": "https://orf.at/stories/3443732/",
-      "pubDate": "2026-09-30T22:06:00.495Z",
-      "category_de": "Wissenschaft",
-      "category_ar": "علوم",
-      "title_ar": "خبير القانون الرقمي فورغو يناقش تطور الذكاء الاصطناعي في أميركا"
-    },
-    {
-      "id": "2427c73311752eb0",
-      "title_de": "Jackpot bei Lotto „6 aus 45“",
-      "link": "https://orf.at/stories/3443730/",
-      "pubDate": "2026-09-30T22:06:00.495Z",
-      "category_de": "Sonstiges",
-      "category_ar": "عام",
-      "title_ar": "أرقام اليانصيب النمساوي الأسبوعي"
-    },
     {
       "id": "f8cb9b277d43d5c6",
       "title_de": "US-Gericht stoppt historische Hinrichtung",
       "link": "https://orf.at/stories/3443724/",
-      "pubDate": "2026-09-30T22:06:00.495Z",
+      "pubDate": "2026-10-01T05:20:42.504Z",
       "category_de": "Ausland",
       "category_ar": "العالم",
       "title_ar": "محكمة أميركية توقف إعدام تاريخياً"
@@ -107,7 +17,7 @@
       "id": "db57a162dd9c7faa",
       "title_de": "Vorfall bei Militärbasis in GB: London sieht Spuren zum Iran",
       "link": "https://orf.at/stories/3443726/",
-      "pubDate": "2026-09-30T22:06:00.495Z",
+      "pubDate": "2026-10-01T05:20:42.504Z",
       "category_de": "Ausland",
       "category_ar": "العالم",
       "title_ar": "لندن ترى بصمات إيرانية في حادث قاعدة عسكرية بريطانية"
@@ -116,7 +26,7 @@
       "id": "b867be20b0885348",
       "title_de": "Antisemitismusvorwurf gegen Bardella: Macron will Klarheit",
       "link": "https://orf.at/stories/3443720/",
-      "pubDate": "2026-09-30T22:06:00.495Z",
+      "pubDate": "2026-10-01T05:20:42.504Z",
       "category_de": "Ausland",
       "category_ar": "العالم",
       "title_ar": "ماكرون يطالب بتوضيح اتهامات معاداة السامية ضد باردلا"
@@ -125,7 +35,7 @@
       "id": "6ec9a903d2c1edbb",
       "title_de": "Türkei: Untersuchungen nach Manipulationsskandal ausgeweitet",
       "link": "https://orf.at/stories/3443719/",
-      "pubDate": "2026-09-30T22:06:00.495Z",
+      "pubDate": "2026-10-01T05:20:42.504Z",
       "category_de": "Ausland",
       "category_ar": "العالم",
       "title_ar": "تركيا توسع التحقيقات حول فضيحة التلاعب"
@@ -134,7 +44,7 @@
       "id": "065c21e8f34e9157",
       "title_de": "„Game of Thrones“-Kinofilm für 2029 angekündigt",
       "link": "https://orf.at/stories/3443718/",
-      "pubDate": "2026-09-30T22:06:00.495Z",
+      "pubDate": "2026-10-01T05:20:42.504Z",
       "category_de": "Kultur",
       "category_ar": "ثقافة",
       "title_ar": "فيلم \"صراع العروش\" السينمائي يقترب من الشاشة في 2029"
@@ -143,7 +53,7 @@
       "id": "ab369ec488ac3a77",
       "title_de": "Gericht stoppt historische Hinrichtung in Tennessee",
       "link": "https://orf.at/stories/3443716/",
-      "pubDate": "2026-09-30T22:06:00.495Z",
+      "pubDate": "2026-10-01T05:20:42.504Z",
       "category_de": "Ausland",
       "category_ar": "العالم",
       "title_ar": "محكمة أميركية توقف إعدام تاريخياً في تينيسي"
@@ -152,7 +62,7 @@
       "id": "fc7bf2859482ce29",
       "title_de": "Trockenheit trotz Regens weiter enorm",
       "link": "https://orf.at/stories/3443682/",
-      "pubDate": "2026-09-30T22:06:00.495Z",
+      "pubDate": "2026-10-01T05:20:42.504Z",
       "category_de": "Wissenschaft",
       "category_ar": "علوم",
       "title_ar": "الجفاف يستمر رغم الأمطار الأخيرة"
@@ -161,7 +71,7 @@
       "id": "1b6287a4a0fd6f79",
       "title_de": "Passagiere schildern Vorgänge in Flydubai-Jet",
       "link": "https://orf.at/stories/3443707/",
-      "pubDate": "2026-09-30T22:06:00.495Z",
+      "pubDate": "2026-10-01T05:20:42.504Z",
       "category_de": "Ausland",
       "category_ar": "العالم",
       "title_ar": "شهود: تفاصيل جديدة عن حادثة طائرة فلاي دبي"
@@ -170,55 +80,163 @@
       "id": "733ecfe92512020d",
       "title_de": "Bildschirmzeit von Kindern: Wiederkehr will Eltern helfen",
       "link": "https://orf.at/stories/3443708/",
-      "pubDate": "2026-09-30T22:06:00.495Z",
+      "pubDate": "2026-10-01T05:20:42.504Z",
       "category_de": "Politik",
       "category_ar": "سياسة",
       "title_ar": "وزير: حان الوقت لمساعدة الآباء على التحكم بوقت الشاشة للأطفال"
     },
     {
-      "id": "eee611c4e4bf338e",
-      "title_de": "Volkswagen kündigt fast alle Tarifverträge",
-      "link": "https://orf.at/stories/3443701/",
-      "pubDate": "2026-09-30T22:06:00.495Z",
-      "category_de": "Wirtschaft",
-      "category_ar": "اقتصاد",
-      "title_ar": "فولكسفاغن تلغي معظم العقود الجماعية"
-    },
-    {
-      "id": "3407703560a400c9",
-      "title_de": "Rumänien: Kabinett Muresan verliert Vertrauensvotum",
-      "link": "https://orf.at/stories/3443699/",
-      "pubDate": "2026-09-30T22:06:00.495Z",
+      "id": "195060397fa6f405",
+      "title_de": "Streit bei Republikanern: Senatorin blockiert Trumps Richterwahl",
+      "link": "https://orf.at/stories/3443753/",
+      "pubDate": "2026-10-01T05:20:42.503Z",
       "category_de": "Ausland",
       "category_ar": "العالم",
-      "title_ar": "رومانيا: حكومة موريسان تخسر تصويت الثقة"
+      "title_ar": "انقسام جمهوري: سيناتورة تحجب تعيين ترامب لقاضٍ فيدرالي"
     },
     {
-      "id": "d7654f3683a29adb",
-      "title_de": "Hürden für wehrfähige Ukrainer erhöht",
-      "link": "https://orf.at/stories/3443689/",
-      "pubDate": "2026-09-30T22:06:00.495Z",
-      "category_de": "Ausland",
-      "category_ar": "العالم",
-      "title_ar": "أوكرانيا تشدد الشروط للجنود القادرين على القتال"
-    },
-    {
-      "id": "f2bc3c8c5045af02",
-      "title_de": "Psychotherapiestudium: Reform deckt Bedarf nicht",
-      "link": "https://orf.at/stories/3443698/",
-      "pubDate": "2026-09-30T22:06:00.495Z",
+      "id": "0a2353f076519a9a",
+      "title_de": "NGO-Kritik an Umgang mit Ewigkeitschemikalie TFA",
+      "link": "https://orf.at/stories/3443752/",
+      "pubDate": "2026-10-01T05:20:42.503Z",
       "category_de": "Wissenschaft",
       "category_ar": "علوم",
-      "title_ar": "إصلاحات دراسة العلاج النفسي لا تلبي الاحتياجات"
+      "title_ar": "منظمات حقوقية تنتقد التعامل مع مادة كيميائية ضارة"
+    },
+    {
+      "id": "94187e02c4643494",
+      "title_de": "Starker Anstieg bei Diskriminierungsfällen",
+      "link": "https://orf.at/stories/3443750/",
+      "pubDate": "2026-10-01T05:20:42.503Z",
+      "category_de": "Chronik",
+      "category_ar": "حوادث",
+      "title_ar": "ارتفاع حاد في حالات التمييز المسجلة"
+    },
+    {
+      "id": "92c321ee37c0f062",
+      "title_de": "US-Hinrichtung: Frau lebt nach zwei Giftspritzen noch",
+      "link": "https://orf.at/stories/3443749/",
+      "pubDate": "2026-10-01T05:20:42.503Z",
+      "category_de": "Ausland",
+      "category_ar": "العالم",
+      "title_ar": "امرأة تستيقظ بعد حقنتي سم في ولاية أمريكية"
+    },
+    {
+      "id": "e3f835c303c69ee0",
+      "title_de": "Neue Regeln als Dilemma für Kuriere",
+      "link": "https://orf.at/stories/3441740/",
+      "pubDate": "2026-10-01T05:20:42.503Z",
+      "category_de": "Wirtschaft",
+      "category_ar": "اقتصاد",
+      "title_ar": "قوانين جديدة تشكل معضلة لشركات الخدمات اللوجستية"
+    },
+    {
+      "id": "7cb440fddaf3de6b",
+      "title_de": "US-Höchstgericht erlaubt Hinrichtung von Frau in Tennessee",
+      "link": "https://orf.at/stories/3443747/",
+      "pubDate": "2026-10-01T05:20:42.503Z",
+      "category_de": "Ausland",
+      "category_ar": "العالم",
+      "title_ar": "المحكمة العليا الأمريكية تجيز إعدام امرأة في تينيسي"
     },
     {
       "id": "3e9535ccf6a75281",
       "title_de": "Schock und Entsetzen nach Angriff",
       "link": "https://orf.at/stories/3443740/",
-      "pubDate": "2026-09-30T22:06:00.494Z",
+      "pubDate": "2026-10-01T05:20:42.503Z",
       "category_de": "Ausland",
       "category_ar": "العالم",
       "title_ar": "صدمة واستنكار عقب الهجوم"
+    },
+    {
+      "id": "5e3027efae3c547f",
+      "title_de": "Prüfer: Kein strafbares Verhalten bei Umbau der US-Notenbank",
+      "link": "https://orf.at/stories/3443745/",
+      "pubDate": "2026-10-01T05:20:42.503Z",
+      "category_de": "Wirtschaft",
+      "category_ar": "اقتصاد",
+      "title_ar": "المفتشون: لا مؤاخذة قانونية في إعادة هيكلة البنك الاحتياطي الفيدرالي الأمريكي"
+    },
+    {
+      "id": "c5e86eba9eebe1ce",
+      "title_de": "Hegseth: Musk soll „Zukunft der Kriegsführung“ erforschen",
+      "link": "https://orf.at/stories/3443744/",
+      "pubDate": "2026-10-01T05:20:42.503Z",
+      "category_de": "Ausland",
+      "category_ar": "العالم",
+      "title_ar": "هيجسيث: يجب على ماسك أن يبحث عن \"مستقبل الحرب\""
+    },
+    {
+      "id": "5d0de02ddeaed9c0",
+      "title_de": "US-Botschafterin sorgt für Wirbel",
+      "link": "https://orf.at/stories/3443680/",
+      "pubDate": "2026-10-01T05:20:42.503Z",
+      "category_de": "Ausland",
+      "category_ar": "العالم",
+      "title_ar": "السفيرة الأمريكية تثير جدلاً واسعاً"
+    },
+    {
+      "id": "81a0e2703cbb62c2",
+      "title_de": "Warum Gelb die Farbe der Außenseiter war",
+      "link": "https://orf.at/stories/3442882/",
+      "pubDate": "2026-10-01T05:20:42.503Z",
+      "category_de": "Kultur",
+      "category_ar": "ثقافة",
+      "title_ar": "لماذا كان الأصفر لون المهمشين"
+    },
+    {
+      "id": "4e9dfe7afcc7fed9",
+      "title_de": "Türkische Nachrichtenseite T24 gesperrt",
+      "link": "https://orf.at/stories/3443738/",
+      "pubDate": "2026-10-01T05:20:42.503Z",
+      "category_de": "Ausland",
+      "category_ar": "العالم",
+      "title_ar": "حجب الموقع الإخباري التركي T24"
+    },
+    {
+      "id": "eaacc72bed9270ee",
+      "title_de": "Andrea Kdolsky ist tot",
+      "link": "https://orf.at/stories/3443727/",
+      "pubDate": "2026-10-01T05:20:42.503Z",
+      "category_de": "Chronik",
+      "category_ar": "حوادث",
+      "title_ar": "وفاة أندريا كدولسكي الوزيرة النمساوية السابقة"
+    },
+    {
+      "id": "841cef320e3abc87",
+      "title_de": "Schulkrawalle in Frankreich weiten sich aus: 625 Festnahmen",
+      "link": "https://orf.at/stories/3443734/",
+      "pubDate": "2026-10-01T05:20:42.503Z",
+      "category_de": "Ausland",
+      "category_ar": "العالم",
+      "title_ar": "أعمال شغب في المدارس الفرنسية تتسع: 625 موقوفاً"
+    },
+    {
+      "id": "82b796c96e30e20b",
+      "title_de": "Ex-Gesundheitsministerin Andrea Kdolsky verstorben",
+      "link": "https://orf.at/stories/3443733/",
+      "pubDate": "2026-10-01T05:20:42.503Z",
+      "category_de": "Chronik",
+      "category_ar": "حوادث",
+      "title_ar": "رحيل وزيرة الصحة السابقة أندريا كدولسكي"
+    },
+    {
+      "id": "95ddbb75e0d781c5",
+      "title_de": "IT-Rechtsexperte Forgo zur KI-Entwicklung in den USA",
+      "link": "https://orf.at/stories/3443732/",
+      "pubDate": "2026-10-01T05:20:42.503Z",
+      "category_de": "Wissenschaft",
+      "category_ar": "علوم",
+      "title_ar": "خبير القانون الرقمي فورغو يناقش تطور الذكاء الاصطناعي في أميركا"
+    },
+    {
+      "id": "2427c73311752eb0",
+      "title_de": "Jackpot bei Lotto „6 aus 45“",
+      "link": "https://orf.at/stories/3443730/",
+      "pubDate": "2026-10-01T05:20:42.503Z",
+      "category_de": "Sonstiges",
+      "category_ar": "عام",
+      "title_ar": "أرقام اليانصيب النمساوي الأسبوعي"
     }
   ]
 }
