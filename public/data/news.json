@@ -1,14 +1,131 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-10-02T09:34:36.202Z",
+  "generatedAt": "2026-10-02T17:44:31.543Z",
   "source": "https://rss.orf.at/news.xml",
   "count": 23,
   "items": [
     {
+      "id": "e1f496a92674e9a9",
+      "title_de": "Bereits mehr als 4.000 Ebola-Tote in DR Kongo",
+      "link": "https://orf.at/stories/3443929/",
+      "pubDate": "2026-10-02T17:44:19.840Z",
+      "category_de": "Ausland",
+      "category_ar": "العالم",
+      "title_ar": "أكثر من 4 آلاف وفيات بإيبولا في الكونغو الديمقراطية"
+    },
+    {
+      "id": "b1d24e52e5a7c21c",
+      "title_de": "Macron: G-7 gibt bis zu 100 Mio. Barrel Diesel und Rohöl frei",
+      "link": "https://orf.at/stories/3443926/",
+      "pubDate": "2026-10-02T17:44:19.840Z",
+      "category_de": "Ausland",
+      "category_ar": "العالم",
+      "title_ar": "ماكرون: مجموعة السبع تحرر 100 مليون برميل ديزل وزيت خام"
+    },
+    {
+      "id": "ff6f32969ea0afd5",
+      "title_de": "Niederländisches Königshaus aktiv an Kolonialismus beteiligt",
+      "link": "https://orf.at/stories/3443925/",
+      "pubDate": "2026-10-02T17:44:19.840Z",
+      "category_de": "Ausland",
+      "category_ar": "العالم",
+      "title_ar": "العائلة الملكية الهولندية متورطة بشكل مباشر في الاستعمار"
+    },
+    {
+      "id": "7b09c6c1911b5d87",
+      "title_de": "Spanien: Sanchez scheitert mit Mietdekreten im Parlament",
+      "link": "https://orf.at/stories/3443924/",
+      "pubDate": "2026-10-02T17:44:19.840Z",
+      "category_de": "Ausland",
+      "category_ar": "العالم",
+      "title_ar": "إسبانيا: سانشيز يفشل بفرض مراسيم الإيجار في البرلمان"
+    },
+    {
+      "id": "68bf1cacf92bbf1a",
+      "title_de": "Gescheiterte Hinrichtung: Pike in kritischem Zustand",
+      "link": "https://orf.at/stories/3443922/",
+      "pubDate": "2026-10-02T17:44:19.840Z",
+      "category_de": "Ausland",
+      "category_ar": "العالم",
+      "title_ar": "إعدام فاشل: حالة بايك حرجة"
+    },
+    {
+      "id": "8355fe408a9876e9",
+      "title_de": "Inflation in Euro-Zone auf Dreijahreshoch",
+      "link": "https://orf.at/stories/3443895/",
+      "pubDate": "2026-10-02T17:44:19.840Z",
+      "category_de": "Wirtschaft",
+      "category_ar": "اقتصاد",
+      "title_ar": "التضخم في منطقة اليورو يرتفع لأعلى مستوى في ثلاث سنوات"
+    },
+    {
+      "id": "2801734b98392b84",
+      "title_de": "Seeblockade: Ukrainische Agrarexporte haben sich halbiert",
+      "link": "https://orf.at/stories/3443914/",
+      "pubDate": "2026-10-02T17:44:19.840Z",
+      "category_de": "Ausland",
+      "category_ar": "العالم",
+      "title_ar": "الحصار البحري يقطع صادرات أوكرانيا الزراعية بنسبة النصف"
+    },
+    {
+      "id": "46160937e6b98c19",
+      "title_de": "SPÖ: Zeiler wirbt in offenem Brief um Unterstützung",
+      "link": "https://orf.at/stories/3443910/",
+      "pubDate": "2026-10-02T17:44:19.840Z",
+      "category_de": "Politik",
+      "category_ar": "سياسة",
+      "title_ar": "الحزب الاشتراكي النمساوي: زايلر يطلب الدعم برسالة مفتوحة"
+    },
+    {
+      "id": "9de9bf843fb9de9a",
+      "title_de": "Israel: Höchstgericht erlaubt arabischen Parteien Wahlteilnahme",
+      "link": "https://orf.at/stories/3443904/",
+      "pubDate": "2026-10-02T17:44:19.840Z",
+      "category_de": "Ausland",
+      "category_ar": "العالم",
+      "title_ar": "إسرائيل: المحكمة العليا تسمح للأحزاب العربية بالمشاركة في الانتخابات"
+    },
+    {
+      "id": "54b5a94372b4e6a7",
+      "title_de": "Deutsche Kaufhauskette Galeria meldet erneut Insolvenz an",
+      "link": "https://orf.at/stories/3443900/",
+      "pubDate": "2026-10-02T17:44:19.840Z",
+      "category_de": "Wirtschaft",
+      "category_ar": "اقتصاد",
+      "title_ar": "مسلسل متاجر ألماني غاليريا يتقدم بطلب إفلاس جديد"
+    },
+    {
+      "id": "a9151ee86d91bab0",
+      "title_de": "Frankreichs Schulprotest hält an",
+      "link": "https://orf.at/stories/3443899/",
+      "pubDate": "2026-10-02T17:44:19.840Z",
+      "category_de": "Ausland",
+      "category_ar": "العالم",
+      "title_ar": "احتجاجات المدارس مستمرة في فرنسا"
+    },
+    {
+      "id": "020bd01d27b54427",
+      "title_de": "Register erfasst künftig Wasserverbrauch",
+      "link": "https://orf.at/stories/3443878/",
+      "pubDate": "2026-10-02T17:44:19.840Z",
+      "category_de": "Sonstiges",
+      "category_ar": "عام",
+      "title_ar": "سجل جديد لمراقبة استهلاك المياه"
+    },
+    {
+      "id": "f088a73b69beba9b",
+      "title_de": "Pilot schildert Angriff auf Flydubai-Flug",
+      "link": "https://orf.at/stories/3443886/",
+      "pubDate": "2026-10-02T17:44:19.840Z",
+      "category_de": "Ausland",
+      "category_ar": "العالم",
+      "title_ar": "قائد طائرة يروي تفاصيل الهجوم على رحلة فلاي دبي"
+    },
+    {
       "id": "2ddacfc9324ced10",
       "title_de": "Finanzministerium verbessert Defizitprognose leicht",
       "link": "https://orf.at/stories/3443892/",
-      "pubDate": "2026-10-02T09:34:27.179Z",
+      "pubDate": "2026-10-02T17:44:19.840Z",
       "category_de": "Wirtschaft",
       "category_ar": "اقتصاد",
       "title_ar": "وزارة المالية النمساوية تحسّن توقعات العجز قليلاً"
@@ -17,199 +134,82 @@
       "id": "dc5629243671fa8a",
       "title_de": "AGES-Schätzung weist Höchstwert aus",
       "link": "https://orf.at/stories/3443865/",
-      "pubDate": "2026-10-02T09:34:27.179Z",
+      "pubDate": "2026-10-02T17:44:19.840Z",
       "category_de": "Gesundheit",
       "category_ar": "صحة",
       "title_ar": "تقديرات هيئة الصحة العامة تسجل رقماً قياسياً"
     },
     {
-      "id": "1549a4680500b76f",
-      "title_de": "Neuer Song von Lil Nas X",
-      "link": "https://orf.at/stories/3443883/",
-      "pubDate": "2026-10-02T09:34:27.179Z",
-      "category_de": "Kultur",
-      "category_ar": "ثقافة",
-      "title_ar": "أغنية جديدة من ليل ناس إكس"
+      "id": "0ffa275d01c64050",
+      "title_de": "Klare Mängel bei Zahlungen der Ministerien",
+      "link": "https://orf.at/stories/3443893/",
+      "pubDate": "2026-10-02T17:44:19.839Z",
+      "category_de": "Politik",
+      "category_ar": "سياسة",
+      "title_ar": "كشف نواقص واضحة في مدفوعات الوزارات النمساوية"
     },
     {
-      "id": "78ebc11045155772",
-      "title_de": "Schnellschätzung: Inflation stieg auf 3,6 Prozent",
-      "link": "https://orf.at/stories/3443876/",
-      "pubDate": "2026-10-02T09:34:27.179Z",
-      "category_de": "Wirtschaft",
-      "category_ar": "اقتصاد",
-      "title_ar": "التضخم يرتفع إلى 3.6 بالمئة"
-    },
-    {
-      "id": "0cfcc618382fb208",
-      "title_de": "Polen führt Übergewinnsteuer für Ölkonzerne ein",
-      "link": "https://orf.at/stories/3443869/",
-      "pubDate": "2026-10-02T09:34:27.179Z",
-      "category_de": "Wirtschaft",
-      "category_ar": "اقتصاد",
-      "title_ar": "بولندا تفرض ضريبة على الأرباح الاستثنائية لشركات النفط"
-    },
-    {
-      "id": "b3bf6a62461edc6e",
-      "title_de": "Schweizer Bank Julius Bär kauft Aktien in großem Stil zurück",
-      "link": "https://orf.at/stories/3443868/",
-      "pubDate": "2026-10-02T09:34:27.179Z",
-      "category_de": "Wirtschaft",
-      "category_ar": "اقتصاد",
-      "title_ar": "بنك جوليوس بير السويسري يشتري أسهماً بكثافة"
-    },
-    {
-      "id": "f74ab439286eb493",
-      "title_de": "OpenAI entlässt drei Mitarbeiter nach KI-Enthüllungen",
-      "link": "https://orf.at/stories/3443867/",
-      "pubDate": "2026-10-02T09:34:27.179Z",
-      "category_de": "Wissenschaft",
-      "category_ar": "علوم",
-      "title_ar": "أوبن إيه آي تفصل ثلاثة موظفين بعد تسريب معلومات حول الذكاء الاصطناعي"
-    },
-    {
-      "id": "7b4a32799c3f758c",
-      "title_de": "Diplomatische Verstimmung zwischen Ukraine und Südkorea",
-      "link": "https://orf.at/stories/3443866/",
-      "pubDate": "2026-10-02T09:34:27.179Z",
+      "id": "1c9857995c5d691f",
+      "title_de": "Meinl-Reisinger in Montenegro: EU-Beitritt „in Reichweite“",
+      "link": "https://orf.at/stories/3443940/",
+      "pubDate": "2026-10-02T17:44:19.839Z",
       "category_de": "Ausland",
       "category_ar": "العالم",
-      "title_ar": "توتر دبلوماسي بين أوكرانيا وكوريا الجنوبية"
+      "title_ar": "مينل-رايزينجر في الجبل الأسود: الانضمام للاتحاد الأوروبي \"في المتناول\""
     },
     {
-      "id": "6f7fe5397a86888d",
-      "title_de": "Pentagon vergibt Milliardenauftrag für Lenkwaffen",
-      "link": "https://orf.at/stories/3443864/",
-      "pubDate": "2026-10-02T09:34:27.179Z",
-      "category_de": "Ausland",
-      "category_ar": "العالم",
-      "title_ar": "البنتاغون يمنح عقداً بمليارات الدولارات لصواريخ موجهة"
+      "id": "aebb72af5cbfa360",
+      "title_de": "Finanzminister Marterbauer zu Gast",
+      "link": "https://orf.at/stories/3443937/",
+      "pubDate": "2026-10-02T17:44:19.839Z",
+      "category_de": "Politik",
+      "category_ar": "سياسة",
+      "title_ar": "وزير المالية مارتيرباور يزور النمسا"
     },
     {
-      "id": "58ea340c022a8ef2",
-      "title_de": "USA schicken weiteren Flugzeugträger in Nahen Osten",
-      "link": "https://orf.at/stories/3443863/",
-      "pubDate": "2026-10-02T09:34:27.179Z",
-      "category_de": "Ausland",
-      "category_ar": "العالم",
-      "title_ar": "الولايات المتحدة ترسل حاملة طائرات إضافية إلى الشرق الأوسط"
+      "id": "4d9867b62f90296e",
+      "title_de": "Neuer US-Mediengigant heißt Skydance",
+      "link": "https://orf.at/stories/3443936/",
+      "pubDate": "2026-10-02T17:44:19.839Z",
+      "category_de": "Wirtschaft",
+      "category_ar": "اقتصاد",
+      "title_ar": "عملاق إعلامي أميركي جديد باسم سكايدانس"
     },
     {
-      "id": "2a83fa8cbafc4163",
-      "title_de": "AGES schätzt Zahl der Hitzetoten im Sommer auf fast 1.000",
-      "link": "https://orf.at/stories/3443862/",
-      "pubDate": "2026-10-02T09:34:27.179Z",
+      "id": "2bd31b2567b42b60",
+      "title_de": "Freigabe von bis zu 100 Mio. Barrel Diesel, Öl",
+      "link": "https://orf.at/stories/3443928/",
+      "pubDate": "2026-10-02T17:44:19.839Z",
+      "category_de": "Wirtschaft",
+      "category_ar": "اقتصاد",
+      "title_ar": "إطلاق سراح ما يصل إلى 100 مليون برميل ديزل وزيت"
+    },
+    {
+      "id": "3e2f4a08972223c0",
+      "title_de": "WHO: Lebenserwartung fast wieder auf Stand vor CoV",
+      "link": "https://orf.at/stories/3443932/",
+      "pubDate": "2026-10-02T17:44:19.839Z",
       "category_de": "Gesundheit",
       "category_ar": "صحة",
-      "title_ar": "هيئة الصحة تقدّر وفيات موجة الحر الصيفية بقرب ألف حالة"
+      "title_ar": "منظمة الصحة العالمية: العمر المتوقع يعود قريباً لما قبل كورونا"
     },
     {
-      "id": "6384e51f9550d40e",
-      "title_de": "Sonderermittlerin für Vergewaltigungsvorwürfe an US-Eliteuni",
-      "link": "https://orf.at/stories/3443861/",
-      "pubDate": "2026-10-02T09:34:27.179Z",
+      "id": "17f4e56e0782251d",
+      "title_de": "Nach Drohnenvorfällen: Lettland wählt neues Parlament",
+      "link": "https://orf.at/stories/3443931/",
+      "pubDate": "2026-10-02T17:44:19.839Z",
       "category_de": "Ausland",
       "category_ar": "العالم",
-      "title_ar": "محققة خاصة تفتش في اتهامات اغتصاب بجامعة أمريكية نخبوية"
+      "title_ar": "لاتفيا تختار برلماناً جديداً بعد حوادث الطائرات بدون طيار"
     },
     {
-      "id": "c615eacd0ade3d5d",
-      "title_de": "Saudi-Arabien wirft Huthis Angriff auf heilige Stadt Medina vor",
-      "link": "https://orf.at/stories/3443860/",
-      "pubDate": "2026-10-02T09:34:27.179Z",
-      "category_de": "Ausland",
-      "category_ar": "العالم",
-      "title_ar": "السعودية تتهم الحوثيين بشن هجوم على مدينة المدينة المقدسة"
-    },
-    {
-      "id": "44c264f1e86192be",
-      "title_de": "NASA: Astronauten erreichen ISS in US-Rekordzeit",
-      "link": "https://orf.at/stories/3443859/",
-      "pubDate": "2026-10-02T09:34:27.179Z",
-      "category_de": "Wissenschaft",
-      "category_ar": "علوم",
-      "title_ar": "ناسا: رواد الفضاء يصلون للمحطة الفضائية برقم قياسي أمريكي"
-    },
-    {
-      "id": "5873d4bf203ef9dd",
-      "title_de": "Äthiopien und Eritrea brechen diplomatische Beziehungen ab",
-      "link": "https://orf.at/stories/3443858/",
-      "pubDate": "2026-10-02T09:34:27.179Z",
-      "category_de": "Ausland",
-      "category_ar": "العالم",
-      "title_ar": "إثيوبيا وإريتريا تقطعان العلاقات الدبلوماسية"
-    },
-    {
-      "id": "5240348543cb44ee",
-      "title_de": "„El Nino“ lässt Blumen in Chiles Atacama-Wüste blühen",
-      "link": "https://orf.at/stories/3443857/",
-      "pubDate": "2026-10-02T09:34:27.179Z",
-      "category_de": "Wissenschaft",
-      "category_ar": "علوم",
-      "title_ar": "ظاهرة النينيو تشعل حديقة أزهار في صحراء أتاكاما بتشيلي"
-    },
-    {
-      "id": "235060815732d01e",
-      "title_de": "Lula will es noch einmal wissen",
-      "link": "https://orf.at/stories/3443553/",
-      "pubDate": "2026-10-02T09:34:27.179Z",
-      "category_de": "Ausland",
-      "category_ar": "العالم",
-      "title_ar": "لولا يعود للترشح مجدداً"
-    },
-    {
-      "id": "c8fc3a4e58f4c561",
-      "title_de": "Viel Anerkennung für Helfer",
-      "link": "https://orf.at/stories/3443850/",
-      "pubDate": "2026-10-02T09:34:27.179Z",
-      "category_de": "Chronik",
-      "category_ar": "حوادث",
-      "title_ar": "إشادة واسعة بجهود المتطوعين"
-    },
-    {
-      "id": "5924949edb524932",
-      "title_de": "Nike legt neues Sparprogramm vor",
-      "link": "https://orf.at/stories/3443853/",
-      "pubDate": "2026-10-02T09:34:27.179Z",
+      "id": "26546decff71b5f3",
+      "title_de": "Paramount und Warner firmieren künftig unter Namen Skydance",
+      "link": "https://orf.at/stories/3443930/",
+      "pubDate": "2026-10-02T17:44:19.839Z",
       "category_de": "Wirtschaft",
       "category_ar": "اقتصاد",
-      "title_ar": "نايك تطلق برنامج توفير جديد"
-    },
-    {
-      "id": "1e8c5eaa40d46ea6",
-      "title_de": "Brasilien: Ruf nach Ermittlungen zu möglicher US-Einmischung",
-      "link": "https://orf.at/stories/3443851/",
-      "pubDate": "2026-10-02T09:34:27.179Z",
-      "category_de": "Ausland",
-      "category_ar": "العالم",
-      "title_ar": "البرازيل تطالب بفتح تحقيقات حول تدخل أمريكي محتمل"
-    },
-    {
-      "id": "6246c1b4603f7c6d",
-      "title_de": "Gewalteskalation bei Schülerprotesten",
-      "link": "https://orf.at/stories/3443818/",
-      "pubDate": "2026-10-02T09:34:27.179Z",
-      "category_de": "Chronik",
-      "category_ar": "حوادث",
-      "title_ar": "تصعيد العنف خلال احتجاجات الطلاب"
-    },
-    {
-      "id": "2dd884a6cc7d8fa8",
-      "title_de": "Tschechische Regierung übersteht Misstrauensvotum",
-      "link": "https://orf.at/stories/3443845/",
-      "pubDate": "2026-10-02T09:34:27.179Z",
-      "category_de": "Ausland",
-      "category_ar": "العالم",
-      "title_ar": "الحكومة التشيكية تنجو من تصويت عدم الثقة"
-    },
-    {
-      "id": "205efe9ad84f7df5",
-      "title_de": "Kiew meldet ersten Einsatz eigener ballistischer Rakete",
-      "link": "https://orf.at/stories/3443844/",
-      "pubDate": "2026-10-02T09:34:27.179Z",
-      "category_de": "Ausland",
-      "category_ar": "العالم",
-      "title_ar": "كييف تستخدم صاروخاً باليستياً من إنتاجها للمرة الأولى"
+      "title_ar": "باراماونت وورنر تتحدان تحت اسم سكايدانس"
     }
   ]
 }
