@@ -1,104 +1,32 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-10-01T20:15:57.895Z",
+  "generatedAt": "2026-10-02T00:37:48.283Z",
   "source": "https://rss.orf.at/news.xml",
-  "count": 25,
+  "count": 24,
   "items": [
     {
-      "id": "7f996474f0d038d9",
-      "title_de": "Take That kündigten neues Album „Dreamers“ an",
-      "link": "https://orf.at/stories/3443810/",
-      "pubDate": "2026-10-01T20:15:50.111Z",
-      "category_de": "Kultur",
-      "category_ar": "ثقافة",
-      "title_ar": "فريق تيك ذات يعلن عن ألبومه الجديد \"الحالمون\""
-    },
-    {
-      "id": "426d1b9a36d95a98",
-      "title_de": "Zwei Ex-Minister aus Orban-Ära in U-Haft",
-      "link": "https://orf.at/stories/3443809/",
-      "pubDate": "2026-10-01T20:15:50.111Z",
-      "category_de": "Ausland",
-      "category_ar": "العالم",
-      "title_ar": "اعتقال وزيرين سابقين من عهد أوربان"
-    },
-    {
-      "id": "ff3af6010d422762",
-      "title_de": "VfGH-Präsident: Unabhängigkeit des Höchstgerichts stärken",
-      "link": "https://orf.at/stories/3443808/",
-      "pubDate": "2026-10-01T20:15:50.111Z",
-      "category_de": "Politik",
-      "category_ar": "سياسة",
-      "title_ar": "رئيس المحكمة الدستورية: تعزيز استقلالية القضاء الأعلى"
-    },
-    {
-      "id": "7fc36d3983e89af4",
-      "title_de": "Russischer Angriff auf Brücke in Kiew",
-      "link": "https://orf.at/stories/3443799/",
-      "pubDate": "2026-10-01T20:15:50.111Z",
-      "category_de": "Ausland",
-      "category_ar": "العالم",
-      "title_ar": "روسيا تشن هجوماً على جسر في كييف"
-    },
-    {
-      "id": "84423efcee16e453",
-      "title_de": "Kritik an neuen ÖGK-Einsparungsideen",
-      "link": "https://orf.at/stories/3443794/",
-      "pubDate": "2026-10-01T20:15:50.111Z",
-      "category_de": "Politik",
-      "category_ar": "سياسة",
-      "title_ar": "الخضر يحذرون من تقشفات جديدة في صناديق التأمين الصحي"
-    },
-    {
-      "id": "9a4938a956a73512",
-      "title_de": "Presserat: „Krone“ verletzte mit Tötungsvideo Menschenwürde",
-      "link": "https://orf.at/stories/3443804/",
-      "pubDate": "2026-10-01T20:15:50.111Z",
-      "category_de": "Chronik",
-      "category_ar": "حوادث",
-      "title_ar": "مجلس الصحافة: جريدة كرونه انتهكت الكرامة الإنسانية بفيديو القتل"
-    },
-    {
-      "id": "54679538a868ca73",
-      "title_de": "Innenminister geben grünes Licht für Rückkehrzentren",
-      "link": "https://orf.at/stories/3443800/",
-      "pubDate": "2026-10-01T20:15:50.111Z",
-      "category_de": "Politik",
-      "category_ar": "سياسة",
-      "title_ar": "وزراء الداخلية يوافقون على مراكز إعادة التوطين"
-    },
-    {
-      "id": "d2080a325147a632",
-      "title_de": "Zuckersteuer: Deutsches Kanzleramt stoppt Entwurf",
-      "link": "https://orf.at/stories/3443797/",
-      "pubDate": "2026-10-01T20:15:50.111Z",
+      "id": "5924949edb524932",
+      "title_de": "Nike legt neues Sparprogramm auf",
+      "link": "https://orf.at/stories/3443853/",
+      "pubDate": "2026-10-02T00:37:46.132Z",
       "category_de": "Wirtschaft",
       "category_ar": "اقتصاد",
-      "title_ar": "المستشارية الألمانية توقف مشروع ضريبة السكر"
+      "title_ar": "نايك تطلق برنامج توفير جديد"
     },
     {
-      "id": "72a624606b688363",
-      "title_de": "Reformpartnerschaft einigte sich auf Gemeindepaket",
-      "link": "https://orf.at/stories/3443796/",
-      "pubDate": "2026-10-01T20:15:50.111Z",
-      "category_de": "Politik",
-      "category_ar": "سياسة",
-      "title_ar": "شراكة الإصلاح تتوصل لاتفاق حول حزمة البلديات"
-    },
-    {
-      "id": "0b847780f316fdae",
-      "title_de": "Klitschko: Drohnen treffen wichtige Brücke in Kiew",
-      "link": "https://orf.at/stories/3443795/",
-      "pubDate": "2026-10-01T20:15:50.111Z",
+      "id": "1e8c5eaa40d46ea6",
+      "title_de": "Brasilien: Ruf nach Ermittlungen zu möglicher US-Einmischung",
+      "link": "https://orf.at/stories/3443851/",
+      "pubDate": "2026-10-02T00:37:46.132Z",
       "category_de": "Ausland",
       "category_ar": "العالم",
-      "title_ar": "كليتشكو: الطائرات المسيرة تضرب جسراً استراتيجياً في كييف"
+      "title_ar": "البرازيل تطالب بفتح تحقيقات حول تدخل أمريكي محتمل"
     },
     {
       "id": "6246c1b4603f7c6d",
       "title_de": "Gewalteskalation bei Schülerprotesten",
       "link": "https://orf.at/stories/3443818/",
-      "pubDate": "2026-10-01T20:15:50.110Z",
+      "pubDate": "2026-10-02T00:37:46.132Z",
       "category_de": "Chronik",
       "category_ar": "حوادث",
       "title_ar": "تصعيد العنف خلال احتجاجات الطلاب"
@@ -107,7 +35,7 @@
       "id": "2dd884a6cc7d8fa8",
       "title_de": "Tschechische Regierung übersteht Misstrauensvotum",
       "link": "https://orf.at/stories/3443845/",
-      "pubDate": "2026-10-01T20:15:50.110Z",
+      "pubDate": "2026-10-02T00:37:46.132Z",
       "category_de": "Ausland",
       "category_ar": "العالم",
       "title_ar": "الحكومة التشيكية تنجو من تصويت عدم الثقة"
@@ -116,7 +44,7 @@
       "id": "205efe9ad84f7df5",
       "title_de": "Kiew: Erster Einsatz von eigener ballistischer Rakete",
       "link": "https://orf.at/stories/3443844/",
-      "pubDate": "2026-10-01T20:15:50.110Z",
+      "pubDate": "2026-10-02T00:37:46.132Z",
       "category_de": "Ausland",
       "category_ar": "العالم",
       "title_ar": "كييف تستخدم صاروخاً باليستياً من إنتاجها للمرة الأولى"
@@ -125,7 +53,7 @@
       "id": "480d92f3e04fc68d",
       "title_de": "Vorfall bei Militärbasis: Festnahme in London",
       "link": "https://orf.at/stories/3443840/",
-      "pubDate": "2026-10-01T20:15:50.110Z",
+      "pubDate": "2026-10-02T00:37:46.132Z",
       "category_de": "Chronik",
       "category_ar": "حوادث",
       "title_ar": "اعتقال في لندن إثر حادثة بقاعدة عسكرية"
@@ -134,7 +62,7 @@
       "id": "2414f871ebfb54b1",
       "title_de": "Handelsexpertin Cordula Cerha live zu Gast",
       "link": "https://orf.at/stories/3443839/",
-      "pubDate": "2026-10-01T20:15:50.110Z",
+      "pubDate": "2026-10-02T00:37:46.132Z",
       "category_de": "Kultur",
       "category_ar": "ثقافة",
       "title_ar": "الخبيرة الاقتصادية كوردولا تسيرها تحل ضيفة حوار مباشر"
@@ -143,7 +71,7 @@
       "id": "5b3d74b92c5f53c1",
       "title_de": "Israel: Mutmaßlicher Entführer der Familie Shoham getötet",
       "link": "https://orf.at/stories/3443837/",
-      "pubDate": "2026-10-01T20:15:50.110Z",
+      "pubDate": "2026-10-02T00:37:46.132Z",
       "category_de": "Ausland",
       "category_ar": "العالم",
       "title_ar": "إسرائيل: مقتل المشتبه به في اختطاف عائلة شوهام"
@@ -152,7 +80,7 @@
       "id": "d74223299cb3fd98",
       "title_de": "Supreme Court prüft Trumps Haftpraxis bei Abschiebungen",
       "link": "https://orf.at/stories/3443835/",
-      "pubDate": "2026-10-01T20:15:50.110Z",
+      "pubDate": "2026-10-02T00:37:46.132Z",
       "category_de": "Ausland",
       "category_ar": "العالم",
       "title_ar": "المحكمة العليا الأمريكية تمحص ممارسات ترامب في الترحيل"
@@ -161,7 +89,7 @@
       "id": "869471d9affbd7a9",
       "title_de": "Die Ausgaben der Haushalte im Detail",
       "link": "https://orf.at/stories/3443786/",
-      "pubDate": "2026-10-01T20:15:50.110Z",
+      "pubDate": "2026-10-02T00:37:46.132Z",
       "category_de": "Wirtschaft",
       "category_ar": "اقتصاد",
       "title_ar": "تفاصيل نفقات الأسر الألمانية"
@@ -170,7 +98,7 @@
       "id": "782c4099e30d84ea",
       "title_de": "Iran lädt britischen Botschafter vor",
       "link": "https://orf.at/stories/3443834/",
-      "pubDate": "2026-10-01T20:15:50.110Z",
+      "pubDate": "2026-10-02T00:37:46.132Z",
       "category_de": "Ausland",
       "category_ar": "العالم",
       "title_ar": "إيران تستدعي السفير البريطاني"
@@ -179,7 +107,7 @@
       "id": "e3f4b4e25e932915",
       "title_de": "Tödliche ICE-Razzien in Minnesota: Familie klagt",
       "link": "https://orf.at/stories/3443832/",
-      "pubDate": "2026-10-01T20:15:50.110Z",
+      "pubDate": "2026-10-02T00:37:46.132Z",
       "category_de": "Ausland",
       "category_ar": "العالم",
       "title_ar": "قضية دعوى قضائية ضد عمليات الترحيل القاتلة في مينيسوتا"
@@ -188,7 +116,7 @@
       "id": "655d168d25f20c2d",
       "title_de": "Ein Toter bei Überflutungen auf Kreta",
       "link": "https://orf.at/stories/3443825/",
-      "pubDate": "2026-10-01T20:15:50.110Z",
+      "pubDate": "2026-10-02T00:37:46.132Z",
       "category_de": "Chronik",
       "category_ar": "حوادث",
       "title_ar": "وفاة واحدة في الفيضانات التي اجتاحت كريت"
@@ -197,7 +125,7 @@
       "id": "23b5e9c6e267c4dc",
       "title_de": "USA drängen Europa zur Freigabe von Dieselreserven",
       "link": "https://orf.at/stories/3443822/",
-      "pubDate": "2026-10-01T20:15:50.110Z",
+      "pubDate": "2026-10-02T00:37:46.132Z",
       "category_de": "Ausland",
       "category_ar": "العالم",
       "title_ar": "الولايات المتحدة تضغط على أوروبا لتحرير احتياطيات الديزل"
@@ -206,7 +134,7 @@
       "id": "a18f4b1ea6a06a43",
       "title_de": "Selbst „alter“ Cruise kann nicht alles retten",
       "link": "https://orf.at/stories/3443570/",
-      "pubDate": "2026-10-01T20:15:50.110Z",
+      "pubDate": "2026-10-02T00:37:46.132Z",
       "category_de": "Kultur",
       "category_ar": "ثقافة",
       "title_ar": "\"كروز\" القديم عجز عن إنقاذ الموقف"
@@ -215,7 +143,7 @@
       "id": "30508fa7a383ea54",
       "title_de": "Estland verhängt Transitverbot für russisches Getreide",
       "link": "https://orf.at/stories/3443819/",
-      "pubDate": "2026-10-01T20:15:50.110Z",
+      "pubDate": "2026-10-02T00:37:46.132Z",
       "category_de": "Ausland",
       "category_ar": "العالم",
       "title_ar": "إستونيا تفرض حظراً على عبور الحبوب الروسية"
@@ -224,10 +152,73 @@
       "id": "80265ef9480639cb",
       "title_de": "„Das Schlimmste, was wir je gesehen haben“",
       "link": "https://orf.at/stories/3443801/",
-      "pubDate": "2026-10-01T20:15:50.110Z",
+      "pubDate": "2026-10-02T00:37:46.132Z",
       "category_de": "Chronik",
       "category_ar": "حوادث",
       "title_ar": "\"أسوأ ما شهدناه على الإطلاق\""
+    },
+    {
+      "id": "7f996474f0d038d9",
+      "title_de": "Take That kündigten neues Album „Dreamers“ an",
+      "link": "https://orf.at/stories/3443810/",
+      "pubDate": "2026-10-02T00:37:46.132Z",
+      "category_de": "Kultur",
+      "category_ar": "ثقافة",
+      "title_ar": "فريق تيك ذات يعلن عن ألبومه الجديد \"الحالمون\""
+    },
+    {
+      "id": "426d1b9a36d95a98",
+      "title_de": "Zwei Ex-Minister aus Orban-Ära in U-Haft",
+      "link": "https://orf.at/stories/3443809/",
+      "pubDate": "2026-10-02T00:37:46.132Z",
+      "category_de": "Ausland",
+      "category_ar": "العالم",
+      "title_ar": "اعتقال وزيرين سابقين من عهد أوربان"
+    },
+    {
+      "id": "ff3af6010d422762",
+      "title_de": "VfGH-Präsident: Unabhängigkeit des Höchstgerichts stärken",
+      "link": "https://orf.at/stories/3443808/",
+      "pubDate": "2026-10-02T00:37:46.132Z",
+      "category_de": "Politik",
+      "category_ar": "سياسة",
+      "title_ar": "رئيس المحكمة الدستورية: تعزيز استقلالية القضاء الأعلى"
+    },
+    {
+      "id": "7fc36d3983e89af4",
+      "title_de": "Russischer Angriff auf Brücke in Kiew",
+      "link": "https://orf.at/stories/3443799/",
+      "pubDate": "2026-10-02T00:37:46.132Z",
+      "category_de": "Ausland",
+      "category_ar": "العالم",
+      "title_ar": "روسيا تشن هجوماً على جسر في كييف"
+    },
+    {
+      "id": "84423efcee16e453",
+      "title_de": "Kritik an neuen ÖGK-Einsparungsideen",
+      "link": "https://orf.at/stories/3443794/",
+      "pubDate": "2026-10-02T00:37:46.132Z",
+      "category_de": "Politik",
+      "category_ar": "سياسة",
+      "title_ar": "الخضر يحذرون من تقشفات جديدة في صناديق التأمين الصحي"
+    },
+    {
+      "id": "9a4938a956a73512",
+      "title_de": "Presserat: „Krone“ verletzte mit Tötungsvideo Menschenwürde",
+      "link": "https://orf.at/stories/3443804/",
+      "pubDate": "2026-10-02T00:37:46.132Z",
+      "category_de": "Chronik",
+      "category_ar": "حوادث",
+      "title_ar": "مجلس الصحافة: جريدة كرونه انتهكت الكرامة الإنسانية بفيديو القتل"
+    },
+    {
+      "id": "c8fc3a4e58f4c561",
+      "title_de": "Viel Anerkennung für Helfer",
+      "link": "https://orf.at/stories/3443850/",
+      "pubDate": "2026-10-02T00:37:46.131Z",
+      "category_de": "Chronik",
+      "category_ar": "حوادث",
+      "title_ar": "إشادة واسعة بجهود المتطوعين"
     }
   ]
 }
