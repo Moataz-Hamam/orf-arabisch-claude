@@ -1,14 +1,14 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-10-02T22:02:32.302Z",
+  "generatedAt": "2026-10-03T04:51:10.916Z",
   "source": "https://rss.orf.at/news.xml",
-  "count": 17,
+  "count": 16,
   "items": [
     {
       "id": "0ffa275d01c64050",
       "title_de": "Klare Mängel bei Zahlungen der Ministerien",
       "link": "https://orf.at/stories/3443893/",
-      "pubDate": "2026-10-02T22:02:31.428Z",
+      "pubDate": "2026-10-03T04:51:09.877Z",
       "category_de": "Politik",
       "category_ar": "سياسة",
       "title_ar": "كشف نواقص واضحة في مدفوعات الوزارات النمساوية"
@@ -17,7 +17,7 @@
       "id": "1c9857995c5d691f",
       "title_de": "Meinl-Reisinger in Montenegro: EU-Beitritt „in Reichweite“",
       "link": "https://orf.at/stories/3443940/",
-      "pubDate": "2026-10-02T22:02:31.428Z",
+      "pubDate": "2026-10-03T04:51:09.877Z",
       "category_de": "Ausland",
       "category_ar": "العالم",
       "title_ar": "مينل-رايزينجر في الجبل الأسود: الانضمام للاتحاد الأوروبي \"في المتناول\""
@@ -26,7 +26,7 @@
       "id": "aebb72af5cbfa360",
       "title_de": "Finanzminister Marterbauer zu Gast",
       "link": "https://orf.at/stories/3443937/",
-      "pubDate": "2026-10-02T22:02:31.428Z",
+      "pubDate": "2026-10-03T04:51:09.877Z",
       "category_de": "Politik",
       "category_ar": "سياسة",
       "title_ar": "وزير المالية مارتيرباور يزور النمسا"
@@ -35,7 +35,7 @@
       "id": "4d9867b62f90296e",
       "title_de": "Neuer US-Mediengigant heißt Skydance",
       "link": "https://orf.at/stories/3443936/",
-      "pubDate": "2026-10-02T22:02:31.428Z",
+      "pubDate": "2026-10-03T04:51:09.877Z",
       "category_de": "Wirtschaft",
       "category_ar": "اقتصاد",
       "title_ar": "عملاق إعلامي أميركي جديد باسم سكايدانس"
@@ -44,7 +44,7 @@
       "id": "2bd31b2567b42b60",
       "title_de": "Freigabe von bis zu 100 Mio. Barrel Diesel, Öl",
       "link": "https://orf.at/stories/3443928/",
-      "pubDate": "2026-10-02T22:02:31.428Z",
+      "pubDate": "2026-10-03T04:51:09.877Z",
       "category_de": "Wirtschaft",
       "category_ar": "اقتصاد",
       "title_ar": "إطلاق سراح ما يصل إلى 100 مليون برميل ديزل وزيت"
@@ -53,7 +53,7 @@
       "id": "3e2f4a08972223c0",
       "title_de": "WHO: Lebenserwartung fast wieder auf Stand vor CoV",
       "link": "https://orf.at/stories/3443932/",
-      "pubDate": "2026-10-02T22:02:31.428Z",
+      "pubDate": "2026-10-03T04:51:09.877Z",
       "category_de": "Gesundheit",
       "category_ar": "صحة",
       "title_ar": "منظمة الصحة العالمية: العمر المتوقع يعود قريباً لما قبل كورونا"
@@ -62,7 +62,7 @@
       "id": "17f4e56e0782251d",
       "title_de": "Nach Drohnenvorfällen: Lettland wählt neues Parlament",
       "link": "https://orf.at/stories/3443931/",
-      "pubDate": "2026-10-02T22:02:31.428Z",
+      "pubDate": "2026-10-03T04:51:09.877Z",
       "category_de": "Ausland",
       "category_ar": "العالم",
       "title_ar": "لاتفيا تختار برلماناً جديداً بعد حوادث الطائرات بدون طيار"
@@ -71,7 +71,7 @@
       "id": "26546decff71b5f3",
       "title_de": "Paramount und Warner firmieren künftig unter Namen Skydance",
       "link": "https://orf.at/stories/3443930/",
-      "pubDate": "2026-10-02T22:02:31.428Z",
+      "pubDate": "2026-10-03T04:51:09.877Z",
       "category_de": "Wirtschaft",
       "category_ar": "اقتصاد",
       "title_ar": "باراماونت وورنر تتحدان تحت اسم سكايدانس"
@@ -80,7 +80,7 @@
       "id": "e1f496a92674e9a9",
       "title_de": "Bereits mehr als 4.000 Ebola-Tote in DR Kongo",
       "link": "https://orf.at/stories/3443929/",
-      "pubDate": "2026-10-02T22:02:31.428Z",
+      "pubDate": "2026-10-03T04:51:09.877Z",
       "category_de": "Ausland",
       "category_ar": "العالم",
       "title_ar": "أكثر من 4 آلاف وفيات بإيبولا في الكونغو الديمقراطية"
@@ -89,7 +89,7 @@
       "id": "b1d24e52e5a7c21c",
       "title_de": "Macron: G-7 gibt bis zu 100 Mio. Barrel Diesel und Rohöl frei",
       "link": "https://orf.at/stories/3443926/",
-      "pubDate": "2026-10-02T22:02:31.428Z",
+      "pubDate": "2026-10-03T04:51:09.877Z",
       "category_de": "Ausland",
       "category_ar": "العالم",
       "title_ar": "ماكرون: مجموعة السبع تحرر 100 مليون برميل ديزل وزيت خام"
@@ -98,7 +98,7 @@
       "id": "ff6f32969ea0afd5",
       "title_de": "Niederländisches Königshaus aktiv an Kolonialismus beteiligt",
       "link": "https://orf.at/stories/3443925/",
-      "pubDate": "2026-10-02T22:02:31.428Z",
+      "pubDate": "2026-10-03T04:51:09.877Z",
       "category_de": "Ausland",
       "category_ar": "العالم",
       "title_ar": "العائلة الملكية الهولندية متورطة بشكل مباشر في الاستعمار"
@@ -107,7 +107,7 @@
       "id": "7b09c6c1911b5d87",
       "title_de": "Spanien: Sanchez scheitert mit Mietdekreten im Parlament",
       "link": "https://orf.at/stories/3443924/",
-      "pubDate": "2026-10-02T22:02:31.428Z",
+      "pubDate": "2026-10-03T04:51:09.877Z",
       "category_de": "Ausland",
       "category_ar": "العالم",
       "title_ar": "إسبانيا: سانشيز يفشل بفرض مراسيم الإيجار في البرلمان"
@@ -116,7 +116,7 @@
       "id": "68bf1cacf92bbf1a",
       "title_de": "Gescheiterte Hinrichtung: Pike in kritischem Zustand",
       "link": "https://orf.at/stories/3443922/",
-      "pubDate": "2026-10-02T22:02:31.428Z",
+      "pubDate": "2026-10-03T04:51:09.877Z",
       "category_de": "Ausland",
       "category_ar": "العالم",
       "title_ar": "إعدام فاشل: حالة بايك حرجة"
@@ -125,7 +125,7 @@
       "id": "8355fe408a9876e9",
       "title_de": "Inflation in Euro-Zone auf Dreijahreshoch",
       "link": "https://orf.at/stories/3443895/",
-      "pubDate": "2026-10-02T22:02:31.428Z",
+      "pubDate": "2026-10-03T04:51:09.877Z",
       "category_de": "Wirtschaft",
       "category_ar": "اقتصاد",
       "title_ar": "التضخم في منطقة اليورو يرتفع لأعلى مستوى في ثلاث سنوات"
@@ -134,7 +134,7 @@
       "id": "2801734b98392b84",
       "title_de": "Seeblockade: Ukrainische Agrarexporte haben sich halbiert",
       "link": "https://orf.at/stories/3443914/",
-      "pubDate": "2026-10-02T22:02:31.428Z",
+      "pubDate": "2026-10-03T04:51:09.877Z",
       "category_de": "Ausland",
       "category_ar": "العالم",
       "title_ar": "الحصار البحري يقطع صادرات أوكرانيا الزراعية بنسبة النصف"
@@ -143,19 +143,10 @@
       "id": "46160937e6b98c19",
       "title_de": "SPÖ: Zeiler wirbt in offenem Brief um Unterstützung",
       "link": "https://orf.at/stories/3443910/",
-      "pubDate": "2026-10-02T22:02:31.428Z",
+      "pubDate": "2026-10-03T04:51:09.877Z",
       "category_de": "Politik",
       "category_ar": "سياسة",
       "title_ar": "الحزب الاشتراكي النمساوي: زايلر يطلب الدعم برسالة مفتوحة"
-    },
-    {
-      "id": "9de9bf843fb9de9a",
-      "title_de": "Israel: Höchstgericht erlaubt arabischen Parteien Wahlteilnahme",
-      "link": "https://orf.at/stories/3443904/",
-      "pubDate": "2026-10-02T22:02:31.428Z",
-      "category_de": "Ausland",
-      "category_ar": "العالم",
-      "title_ar": "إسرائيل: المحكمة العليا تسمح للأحزاب العربية بالمشاركة في الانتخابات"
     }
   ]
 }
